@@ -1,0 +1,167 @@
+site_name: Glasgow Project
+
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+
+nav:
+  - About this Site: index.md
+
+  - Academic Writting:
+    - OSCOLA 4th Edition: Academic Writting/OSCOLA 4th Edition.md
+    - APA 7th Edition: Academic Writting/APA 7th Edition.md
+
+  - AI Law:
+    - Seminar 1:
+      - AI01PPT: AI Law/Seminar 1/AI01PPT.md
+      - AI01RR01: AI Law/Seminar 1/AI01RR01.md
+    
+    - Seminar 2:
+      - AI02PPT: AI Law/Seminar 2/AI02PPT.md
+      - Essential Reading:
+        - AI02ER01: AI Law/Seminar 2/AI02ER01.md
+        - AI02ER02: AI Law/Seminar 2/AI02ER02.md
+        - AI02ER03: AI Law/Seminar 2/AI02ER03.md
+      - Recommended Reading:
+        - AI02RR01: AI Law/Seminar 2/AI02RR01.md
+        - AI02RR02: AI Law/Seminar 2/AI02RR02.md
+        - AI02RR03: AI Law/Seminar 2/AI02RR03.md
+    
+    - Seminar 3:
+      - AI03PPT: AI Law/Seminar 3/AI03PPT.md
+      - Essential Reading:
+        - AI03ER01: AI Law/Seminar 3/AI03ER01.md
+        - AI03ER02: AI Law/Seminar 3/AI03ER02.md
+        - AI03ER03: AI Law/Seminar 3/AI03ER03.md
+      - Recommended Reading:
+        - AI03RR01: AI Law/Seminar 3/AI03RR01.md
+        - AI03RR02: AI Law/Seminar 3/AI03RR02.md
+        - AI03RR03: AI Law/Seminar 3/AI03RR03.md
+        - AI03RR04: AI Law/Seminar 3/AI03RR04.md
+        - AI03RR05: AI Law/Seminar 3/AI03RR05.md
+    
+    - Seminar 4:
+      - AI04PPT: AI Law/Seminar 4/AI04PPT.md
+      - Essential Reading:
+        - AI04ER01: AI Law/Seminar 4/AI04ER01.md
+        - AI04ER02: AI Law/Seminar 4/AI04ER02.md
+        - AI04ER03: AI Law/Seminar 4/AI04ER03.md
+        - AI04ER04: AI Law/Seminar 4/AI04ER04.md
+        - AI04ER05: AI Law/Seminar 4/AI04ER05.md
+        - AI04ER06: AI Law/Seminar 4/AI04ER06.md
+        - AI04ER07: AI Law/Seminar 4/AI04ER07.md
+        - AI04ER08: AI Law/Seminar 4/AI04ER08.md
+      - Recommended Reading:
+        - AI04RR01: AI Law/Seminar 4/AI04RR01.md
+        - AI04RR02: AI Law/Seminar 4/AI04RR02.md
+        - AI04RR03: AI Law/Seminar 4/AI04RR03.md
+        - AI04RR04: AI Law/Seminar 4/AI04RR04.md
+    
+    - Seminar 5:
+      - AI05PPT: AI Law/Seminar 5/AI05PPT.md
+      - Essential Reading:
+        - AI05ER01: AI Law/Seminar 5/AI05ER01.md
+        - AI05ER02: AI Law/Seminar 5/AI05ER02.md
+        - AI05ER03: AI Law/Seminar 5/AI05ER03.md
+        - AI05ER04: AI Law/Seminar 5/AI05ER04.md
+      - Recommended Reading:
+        - AI05RR01: AI Law/Seminar 5/AI05RR01.md
+        - AI05RR02-01: AI Law/Seminar 5/AI05RR02-01.md
+        - AI05RR02-02: AI Law/Seminar 5/AI05RR02-02.md
+        - AI05RR02-03: AI Law/Seminar 5/AI05RR02-03.md
+        - AI05RR02-04: AI Law/Seminar 5/AI05RR02-04.md
+        - AI05RR02-05: AI Law/Seminar 5/AI05RR02-05.md
+        - AI05RR02-06: AI Law/Seminar 5/AI05RR02-06.md
+        - AI05RR02-07: AI Law/Seminar 5/AI05RR02-07.md
+        - AI05RR02-08: AI Law/Seminar 5/AI05RR02-08.md
+        - AI05RR02-09: AI Law/Seminar 5/AI05RR02-09.md
+        - AI05RR02-10: AI Law/Seminar 5/AI05RR02-10.md
+        - AI05RR02-11: AI Law/Seminar 5/AI05RR02-11.md
+        - AI05RR03: AI Law/Seminar 5/AI05RR03.md
+        - AI05RR04: AI Law/Seminar 5/AI05RR04.md
+    
+    - Seminar 6:
+      - AI06PPT: AI Law/Seminar 6/AI06PPT.md
+      - Essential Reading:
+        - AI06ER01: AI Law/Seminar 6/AI06ER01.md
+        - AI06ER02: AI Law/Seminar 6/AI06ER02.md
+        - AI06ER03: AI Law/Seminar 6/AI06ER03.md
+        - AI06ER04: AI Law/Seminar 6/AI06ER04.md
+        - AI06ER05: AI Law/Seminar 6/AI06ER05.md
+        - AI06ER06: AI Law/Seminar 6/AI06ER06.md
+        - AI06ER07: AI Law/Seminar 6/AI06ER07.md
+        - AI06ER08: AI Law/Seminar 6/AI06ER08.md
+        - AI06ER09: AI Law/Seminar 6/AI06ER09.md
+        - AI06ER10: AI Law/Seminar 6/AI06ER10.md
+      - Recommended Reading:
+        - AI06RR01: AI Law/Seminar 6/AI06RR01.md
+        - AI06RR02: AI Law/Seminar 6/AI06RR02.md
+        - AI06RR03: AI Law/Seminar 6/AI06RR03.md
+        - AI06RR04: AI Law/Seminar 6/AI06RR04.md
+        - AI06RR05: AI Law/Seminar 6/AI06RR05.md
+        - AI06RR06: AI Law/Seminar 6/AI06RR06.md
+        - AI06RR07: AI Law/Seminar 6/AI06RR07.md
+        - AI06RR08: AI Law/Seminar 6/AI06RR08.md
+        - AI06RR09: AI Law/Seminar 6/AI06RR09.md
+        - AI06RR10: AI Law/Seminar 6/AI06RR10.md
+    
+    - Seminar 7:
+      - AI07PPT: AI Law/Seminar 7/AI07PPT.md
+      - Essential Reading:
+        - AI07ER01: AI Law/Seminar 7/AI07ER01.md
+        - AI07ER02: AI Law/Seminar 7/AI07ER02.md
+        - AI07ER03: AI Law/Seminar 7/AI07ER03.md
+        - AI07ER04: AI Law/Seminar 7/AI07ER04.md
+        - AI07ER05: AI Law/Seminar 7/AI07ER05.md
+        - AI07ER06: AI Law/Seminar 7/AI07ER06.md
+        - AI07ER07: AI Law/Seminar 7/AI07ER07.md
+        - AI07ER08: AI Law/Seminar 7/AI07ER08.md
+      - Recommended Reading:
+        - AI07RR01: AI Law/Seminar 7/AI07RR01.md
+        - AI07RR02: AI Law/Seminar 7/AI07RR02.md
+        - AI07RR03: AI Law/Seminar 7/AI07RR03.md
+        - AI07RR04: AI Law/Seminar 7/AI07RR04.md
+        - AI07RR05: AI Law/Seminar 7/AI07RR05.md
+    
+    - Seminar 8:
+      - AI08PPT: AI Law/Seminar 8/AI08PPT.md
+      - Essential Reading:
+        - AI08ER01: AI Law/Seminar 8/AI08ER01.md
+        - AI08ER02: AI Law/Seminar 8/AI08ER02.md
+        - AI08ER03: AI Law/Seminar 8/AI08ER03.md
+        - AI08ER04: AI Law/Seminar 8/AI08ER04.md
+        - AI08ER05: AI Law/Seminar 8/AI08ER05.md
+        - AI08ER06: AI Law/Seminar 8/AI08ER06.md
+        - AI08ER07: AI Law/Seminar 8/AI08ER07.md
+        - AI08ER08: AI Law/Seminar 8/AI08ER08.md
+        - AI08ER09: AI Law/Seminar 8/AI08ER09.md
+      - Recommended Reading:
+        - AI08RR01: AI Law/Seminar 8/AI08RR01.md
+        - AI08RR02: AI Law/Seminar 8/AI08RR02.md
+        - AI08RR03: AI Law/Seminar 8/AI08RR03.md
+        - AI08RR04: AI Law/Seminar 8/AI08RR04.md
+        - AI08RR05: AI Law/Seminar 8/AI08RR05.md
+    
+    - Seminar 9:
+      - AI09PPT: AI Law/Seminar 9/AI09PPT.md
+      - Essential Reading:
+        - AI09ER01: AI Law/Seminar 9/AI09ER01.md
+        - AI09ER02: AI Law/Seminar 9/AI09ER02.md
+        - AI09ER03: AI Law/Seminar 9/AI09ER03.md
+        - AI09ER04: AI Law/Seminar 9/AI09ER04.md
+      - Recommended Reading:
+        - AI09RR01: AI Law/Seminar 9/AI09RR01.md
+        - AI09RR02: AI Law/Seminar 9/AI09RR02.md
+        - AI09RR03: AI Law/Seminar 9/AI09RR03.md
+        - AI09RR04: AI Law/Seminar 9/AI09RR04.md
+    
+    - Seminar 10:
+      - AI10PPT: AI Law/Seminar 10/AI10PPT.md
+      - Essential Reading:
+        - AI10ER01: AI Law/Seminar 10/AI10ER01.md
+        - AI10ER02: AI Law/Seminar 10/AI10ER02.md
+        - AI10ER03: AI Law/Seminar 10/AI10ER03.md
+      - Recommended Reading:
+        - AI10RR01: AI Law/Seminar 10/AI10RR01.md
+        - AI10RR02: AI Law/Seminar 10/AI10RR02.md
