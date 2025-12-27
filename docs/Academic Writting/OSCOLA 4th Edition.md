@@ -17,7 +17,7 @@
 > *Example 4*: Sexual Offences Act 2003, s 1(1)(c).
 
 ### 1.2 EU Cases
-<u> case number| *case name*| EU:C case number| report number| exact paragraph. </u>
+<u> case number| *case name*| EU:C case number| report number| [exact paragraph]. </u>
 > *Example 1*: Case C-176/03 *Commission v Council* EU:C:2005:542, [2005] ECR I-7879.  <br>
 > *Example 2*: Case C-542/09 *Commission v the Netherlands* EU:C:2012:346.
 

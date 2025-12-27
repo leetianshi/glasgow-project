@@ -6,11 +6,7 @@ theme:
     - navigation.tabs
 
 nav:
-  - About this Site: index.md
-
-  - Academic Writting:
-    - OSCOLA 4th Edition: Academic Writting/OSCOLA 4th Edition.md
-    - APA 7th Edition: Academic Writting/APA 7th Edition.md
+  - Home: index.md
 
   - AI Law:
     - Seminar 1:
@@ -165,3 +161,94 @@ nav:
       - Recommended Reading:
         - AI10RR01: AI Law/Seminar 10/AI10RR01.md
         - AI10RR02: AI Law/Seminar 10/AI10RR02.md
+  
+  - Copyright Law:
+    - Seminar 1:
+      - C01PPT: Copyright Law/Seminar 1/C01PPT.md
+      - Recommended Reading:
+        - C01RR01: Copyright Law/Seminar 1/C01RR01.md
+        - C01RR02: Copyright Law/Seminar 1/C01RR02.md
+        - C01RR03: Copyright Law/Seminar 1/C01RR03.md
+        - C01RR04: Copyright Law/Seminar 1/C01RR04.md
+        - C01RR05: Copyright Law/Seminar 1/C01RR05.md
+        - C01RR06: Copyright Law/Seminar 1/C01RR06.md
+        - C01RR07: Copyright Law/Seminar 1/C01RR07.md
+    
+    - Seminar 2:
+      - C02PPT: Copyright Law/Seminar 2/C02PPT.md
+      - Essential Reading:
+        - C02ER01-01: Copyright Law/Seminar 2/C02ER01-01.md
+        - C02ER01-02: Copyright Law/Seminar 2/C02ER01-02.md
+        - C02ER01-03: Copyright Law/Seminar 2/C02ER01-03.md
+      - Recommended Reading:
+        - C02RR01: Copyright Law/Seminar 2/C02RR01.md
+        - C02RR02: Copyright Law/Seminar 2/C02RR02.md
+        - C02RR03: Copyright Law/Seminar 2/C02RR03.md
+        - C02RR04: Copyright Law/Seminar 2/C02RR04.md
+        - C02RR05: Copyright Law/Seminar 2/C02RR05.md
+        - C02RR06: Copyright Law/Seminar 2/C02RR06.md
+        - C02RR07: Copyright Law/Seminar 2/C02RR07.md
+
+    - Seminar 3:
+      - C03PPT: Copyright Law/Seminar 3/C03PPT.md
+      - Essential Reading:
+        - C03ER01-01: Copyright Law/Seminar 3/C03ER01-01.md
+        - C03ER01-02: Copyright Law/Seminar 3/C03ER01-02.md
+        - C03ER01-03: Copyright Law/Seminar 3/C03ER01-03.md
+      - Recommended Reading:
+        - C03RR01-01: Copyright Law/Seminar 3/C03RR01-01.md
+        - C03RR01-02: Copyright Law/Seminar 3/C03RR01-02.md
+        - C03RR02: Copyright Law/Seminar 3/C03RR02.md
+        - C03RR03: Copyright Law/Seminar 3/C03RR03.md
+        - C03RR04: Copyright Law/Seminar 3/C03RR04.md
+        - C03RR05: Copyright Law/Seminar 3/C03RR05.md
+
+    - Seminar 4:
+      - C04PPT: Copyright Law/Seminar 4/C04PPT.md
+      - Essential Reading:
+        - C04ER01: Copyright Law/Seminar 4/C04ER01.md
+      - Recommended Reading:
+        - C04RR01: Copyright Law/Seminar 4/C04RR01.md
+        - C04RR02: Copyright Law/Seminar 4/C04RR02.md
+        - C04RR03: Copyright Law/Seminar 4/C04RR03.md
+        - C04RR04: Copyright Law/Seminar 4/C04RR04.md
+        - C04RR05: Copyright Law/Seminar 4/C04RR05.md
+    
+    - Seminar 5:
+      - C05PPT: Copyright Law/Seminar 5/C05PPT.md
+      - Essential Reading:
+        - C05ER01: Copyright Law/Seminar 5/C05ER01.md
+        - C05ER02: Copyright Law/Seminar 5/C05ER02.md
+        - C05ER03: Copyright Law/Seminar 5/C05ER03.md
+      - Recommended Reading:
+        - C05RR01: Copyright Law/Seminar 5/C05RR01.md
+        - C05RR02: Copyright Law/Seminar 5/C05RR02.md
+        - C05RR03: Copyright Law/Seminar 5/C05RR03.md
+        - C05RR04: Copyright Law/Seminar 5/C05RR04.md
+        - C05RR05: Copyright Law/Seminar 5/C05RR05.md
+        - C05RR06: Copyright Law/Seminar 5/C05RR06.md
+        - C05RR07: Copyright Law/Seminar 5/C05RR07.md
+      - Further Reading:
+        - C05FR01: Copyright Law/Seminar 5/C05FR01.md
+        - C05FR02-01: Copyright Law/Seminar 5/C05FR02-01.md
+        - C05FR02-02: Copyright Law/Seminar 5/C05FR02-02.md
+        - C05FR03: Copyright Law/Seminar 5/C05FR03.md
+
+    - Seminar 6:
+      - C06PPT: Copyright Law/Seminar 6/C06PPT.md
+    
+    - Seminar 7:
+      - C07PPT: Copyright Law/Seminar 7/C07PPT.md
+    
+    - Seminar 8:
+      - C08PPT: Copyright Law/Seminar 8/C08PPT.md
+    
+    - Seminar 9:
+      - C09PPT: Copyright Law/Seminar 9/C09PPT.md
+    
+    - Seminar 10:
+      - C10PPT: Copyright Law/Seminar 10/C10PPT.md
+  
+  - Academic Writting:
+    - OSCOLA 4th Edition: Academic Writting/OSCOLA 4th Edition.md
+    - APA 7th Edition: Academic Writting/APA 7th Edition.md
