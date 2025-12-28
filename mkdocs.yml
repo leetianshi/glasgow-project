@@ -9,6 +9,8 @@ nav:
   - Home: index.md
 
   - AI Law:
+    - Reading Lists: AI Law/Reading Lists.md
+
     - Seminar 1:
       - AI01PPT: AI Law/Seminar 1/AI01PPT.md
       - AI01RR01: AI Law/Seminar 1/AI01RR01.md
@@ -163,6 +165,8 @@ nav:
         - AI10RR02: AI Law/Seminar 10/AI10RR02.md
   
   - Copyright Law:
+    - Reading Lists: Copyright Law/Reading Lists.md
+
     - Seminar 1:
       - C01PPT: Copyright Law/Seminar 1/C01PPT.md
       - Recommended Reading:
@@ -236,19 +240,90 @@ nav:
 
     - Seminar 6:
       - C06PPT: Copyright Law/Seminar 6/C06PPT.md
+      - Essential Reading:
+        - C06ER01-01: Copyright Law/Seminar 6/C06ER01-01.md
+        - C06ER01-02: Copyright Law/Seminar 6/C06ER01-02.md
+        - C06ER01-03: Copyright Law/Seminar 6/C06ER01-03.md
+        - C06ER01-04: Copyright Law/Seminar 6/C06ER01-04.md
+      - Recommended Reading:
+        - C06RR01: Copyright Law/Seminar 6/C06RR01.md
+        - C06RR02-01: Copyright Law/Seminar 6/C06RR02-01.md
+        - C06RR02-02: Copyright Law/Seminar 6/C06RR02-02.md
+        - C06RR02-03: Copyright Law/Seminar 6/C06RR02-03.md
+        - C06RR02-04: Copyright Law/Seminar 6/C06RR02-04.md
+        - C06RR03: Copyright Law/Seminar 6/C06RR03.md
+        - C06RR04: Copyright Law/Seminar 6/C06RR04.md
+        - C06RR05: Copyright Law/Seminar 6/C06RR05.md
+        - C06RR06: Copyright Law/Seminar 6/C06RR06.md
+        - C06RR07: Copyright Law/Seminar 6/C06RR07.md
+        - C06RR08: Copyright Law/Seminar 6/C06RR08.md
+        - C06RR09: Copyright Law/Seminar 6/C06RR09.md
+        - C06RR10: Copyright Law/Seminar 6/C06RR10.md
+      - Further Reading:
+        - C06FR01: Copyright Law/Seminar 6/C06FR01.md
+        - C06FR02: Copyright Law/Seminar 6/C06FR02.md
+        - C06FR03: Copyright Law/Seminar 6/C06FR03.md
+        - C06FR04: Copyright Law/Seminar 6/C06FR04.md
+        - C06FR05: Copyright Law/Seminar 6/C06FR05.md
+        - C06FR06: Copyright Law/Seminar 6/C06FR06.md
     
     - Seminar 7:
       - C07PPT: Copyright Law/Seminar 7/C07PPT.md
+      - Essential Reading:
+        - C07ER01: Copyright Law/Seminar 7/C07ER01.md
+        - C07ER02: Copyright Law/Seminar 7/C07ER02.md
+        - C07ER03: Copyright Law/Seminar 7/C07ER03.md
+        - C07ER04: Copyright Law/Seminar 7/C07ER04.md
+      - Recommended Reading:
+        - C07RR01: Copyright Law/Seminar 7/C07RR01.md
+        - C07RR02: Copyright Law/Seminar 7/C07RR02.md
+        - C07RR03: Copyright Law/Seminar 7/C07RR03.md
+        - C07RR04: Copyright Law/Seminar 7/C07RR04.md
+        - C07RR05: Copyright Law/Seminar 7/C07RR05.md
+        - C07RR06: Copyright Law/Seminar 7/C07RR06.md
+        - C07RR07: Copyright Law/Seminar 7/C07RR07.md
+      - Further Reading:
+        - C07FR01: Copyright Law/Seminar 7/C07FR01.md
+        - C07FR02: Copyright Law/Seminar 7/C07FR02.md
+        - C07FR03: Copyright Law/Seminar 7/C07FR03.md
+        - C07FR04: Copyright Law/Seminar 7/C07FR04.md
+        - C07FR05: Copyright Law/Seminar 7/C07FR05.md
     
     - Seminar 8:
       - C08PPT: Copyright Law/Seminar 8/C08PPT.md
+      - Essential Reading:
+        - C08ER01: Copyright Law/Seminar 8/C08ER01.md
+      - Recommended Reading:
+        - C08RR01: Copyright Law/Seminar 8/C08RR01.md
+        - C08RR02: Copyright Law/Seminar 8/C08RR02.md
+        - C08RR03: Copyright Law/Seminar 8/C08RR03.md
+        - C08RR04: Copyright Law/Seminar 8/C08RR04.md
+        - C08RR05: Copyright Law/Seminar 8/C08RR05.md
+        - C08RR06: Copyright Law/Seminar 8/C08RR06.md
+        - C08RR07: Copyright Law/Seminar 8/C08RR07.md
+        - C08RR08: Copyright Law/Seminar 8/C08RR08.md
     
     - Seminar 9:
       - C09PPT: Copyright Law/Seminar 9/C09PPT.md
+      - Essential Reading:
+        - C09ER01: Copyright Law/Seminar 9/C09ER01.md
+        - C09ER02: Copyright Law/Seminar 9/C09ER02.md
+      - Recommended Reading:
+        - C09RR01: Copyright Law/Seminar 9/C09RR01.md
+        - C09RR02: Copyright Law/Seminar 9/C09RR02.md
+        - C09RR03: Copyright Law/Seminar 9/C09RR03.md
+        - C09RR04: Copyright Law/Seminar 9/C09RR04.md
+        - C09RR05: Copyright Law/Seminar 9/C09RR05.md
+        - C09RR06: Copyright Law/Seminar 9/C09RR06.md
+        - C09RR07: Copyright Law/Seminar 9/C09RR07.md
     
     - Seminar 10:
       - C10PPT: Copyright Law/Seminar 10/C10PPT.md
+      - Recommended Reading:
+        - C10RR01: Copyright Law/Seminar 10/C10RR01.md
+        - C10RR02: Copyright Law/Seminar 10/C10RR02.md
   
   - Academic Writting:
     - OSCOLA 4th Edition: Academic Writting/OSCOLA 4th Edition.md
     - APA 7th Edition: Academic Writting/APA 7th Edition.md
+    - Useful: Academic Writting/Useful.md

@@ -72,5 +72,8 @@
 ## 2. Access
 [OSCOLA (4th edn, Hart Publishing)](../Academic%20Writting/OSCOLA%204th%20Edition.pdf)
 
-## 3. OSCOLA FAQs
-<https://www.law.ox.ac.uk/research-subject-groups/publications/oscola-faqs>
+[OSCOLA 2006: citing international law section](../Academic%20Writting/OSCOLA%202006%20Edition.pdf) (OSCOLA (4th edn) does not cover International Law)
+
+[OSCOLA](<https://www.law.ox.ac.uk/oscola>)
+
+[OSCOLA FAQs](<https://www.law.ox.ac.uk/research-subject-groups/publications/oscola-faqs>)
