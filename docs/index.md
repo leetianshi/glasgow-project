@@ -1,7 +1,5 @@
 # Home
-*Glasgow Project* is mainly a personal study archive of notes based on the reading lists for **AI Law**, **ICIP Law** and **Copyright Law**.
-
-It is designed to support **preview** and **revision** by highlighting key concepts, arguments, and cases.
+*Glasgow Project* is primarily a personal study website focused on **AI Law**, **ICIP Law**, and **Copyright Law**, designed to support **previewing** and **revision** by highlighting key concepts.
 
 <div align="right">
 Maintained by: Tianshi Li<br>

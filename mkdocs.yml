@@ -2,8 +2,14 @@ site_name: Glasgow Project
 
 theme: 
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo1.png
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
