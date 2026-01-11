@@ -1,0 +1,49 @@
+.md-header {
+  background-color: #003660;
+}
+
+.md-tabs {
+  background-color: #003660;
+}
+
+/* 正文链接 */
+.md-content a {
+  color: #003660;
+  font-weight: 600;
+}
+
+/* 正文链接悬停 */
+.md-content a:hover {
+  color: #63B3ED;
+}
+
+/* 正文链接已访问 */
+.md-content a:visited {
+  color: #808080;
+}
+
+/* 左侧栏选中 */
+.md-sidebar--primary .md-nav__link--active,
+.md-sidebar--primary .md-nav__item--active > .md-nav__link {
+  color: #003660;
+  font-weight: 600;
+}
+
+/* 左侧栏悬停 */
+.md-sidebar--primary .md-nav__link:hover,
+.md-sidebar--primary .md-nav__link:focus {
+  color: #63B3ED;
+}
+
+/* 右侧栏选中 */
+.md-sidebar--secondary .md-nav__link--active,
+.md-sidebar--secondary .md-nav__item--active > .md-nav__link {
+  color: #003660;
+  font-weight: 600;
+}
+
+/* 右侧栏悬停 */
+.md-sidebar--secondary .md-nav__link:hover,
+.md-sidebar--secondary .md-nav__link:focus {
+  color: #63B3ED;
+}
