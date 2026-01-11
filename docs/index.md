@@ -5,5 +5,5 @@ It is designed to support **preview** and **revision** by highlighting key conce
 
 <div align="right">
 Maintained by: Tianshi Li<br>
-Site content last updated: 28 December 2025
+Site content last updated: 11 January 2026
 </div>
