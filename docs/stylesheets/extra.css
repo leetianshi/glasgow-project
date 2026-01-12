@@ -17,11 +17,6 @@
   color: #63B3ED;
 }
 
-/* 正文链接已访问 */
-.md-content a:visited {
-  color: #808080;
-}
-
 /* 左侧栏选中 */
 .md-sidebar--primary .md-nav__link--active,
 .md-sidebar--primary .md-nav__item--active > .md-nav__link {
