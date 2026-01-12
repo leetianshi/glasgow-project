@@ -6,21 +6,23 @@
   background-color: #003660;
 }
 
-/* 正文链接 */
-.md-content a {
-  color: #003660;
-  font-weight: 600;
+/* 手机端侧边栏背景色 */
+.md-sidebar--primary .md-nav__title,
+.md-sidebar--primary .md-nav__title[for="__drawer"],
+.md-sidebar--primary .md-nav__source {
+  background-color: #003660 !important;
 }
 
-/* 正文链接悬停 */
-.md-content a:hover {
-  color: #63B3ED;
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__title {
+    color: #ffffff;
+  }
 }
 
 /* 左侧栏选中 */
 .md-sidebar--primary .md-nav__link--active,
 .md-sidebar--primary .md-nav__item--active > .md-nav__link {
-  color: #003660;
+  color: #1F5FA8;
   font-weight: 600;
 }
 
@@ -33,12 +35,23 @@
 /* 右侧栏选中 */
 .md-sidebar--secondary .md-nav__link--active,
 .md-sidebar--secondary .md-nav__item--active > .md-nav__link {
-  color: #003660;
+  color: #1F5FA8;
   font-weight: 600;
 }
 
 /* 右侧栏悬停 */
 .md-sidebar--secondary .md-nav__link:hover,
 .md-sidebar--secondary .md-nav__link:focus {
+  color: #63B3ED;
+}
+
+/* 正文链接 */
+.md-content a {
+  color: #1F5FA8;
+  font-weight: 600;
+}
+
+/* 正文链接悬停 */
+.md-content a:hover {
   color: #63B3ED;
 }
