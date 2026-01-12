@@ -7,6 +7,18 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+  palette:
+    # 浅色
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+
+    # 深色
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
 
 markdown_extensions:
   - pymdownx.mark
