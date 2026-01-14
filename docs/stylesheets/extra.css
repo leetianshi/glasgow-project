@@ -45,6 +45,27 @@
   color: #63B3ED;
 }
 
+/* 右侧目录栏（secondary sidebar）滚动容器 */
+.md-sidebar--secondary .md-sidebar__scrollwrap{
+  /* Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: #003660 transparent;
+}
+
+/* Chromium / Safari */
+.md-sidebar--secondary .md-sidebar__scrollwrap::-webkit-scrollbar{
+  width: 10px;
+}
+
+.md-sidebar--secondary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb{
+  background: #003660;
+  border-radius: 999px;
+}
+
+.md-sidebar--secondary .md-sidebar__scrollwrap::-webkit-scrollbar-track{
+  background: transparent;
+}
+
 /* 正文链接 */
 .md-content a {
   color: #1F5FA8;

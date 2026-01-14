@@ -32,16 +32,19 @@ extra_javascript:
 nav:
   - Home: index.md
   
-  - Coursework:
-    - AI Law:
-      - Reading List: AI Law/01 Reading List.md
-      - PPT: AI Law/02 PPT.md
-    - Copyright Law:
-      - Reading List: Copyright Law/01 Reading List.md
-      - PPT: Copyright Law/02 PPT.md
+  - Courses:
     - Academic Writting:
-      - OSCOLA 4th Edition: Academic Writting/OSCOLA 4th Edition.md
-      - APA 7th Edition: Academic Writting/APA 7th Edition.md
-      - Useful: Academic Writting/Useful.md
+      - 1. OSCOLA 4th Edition: Academic Writting/OSCOLA 4th Edition.md
+      - 2. APA 7th Edition: Academic Writting/APA 7th Edition.md
+      - 3. Useful: Academic Writting/Useful.md
+    - AI Law:
+      - 1. Course Information: AI Law/01 Course Information.md
+      - 2. PPT & Reading List: AI Law/02 PPT & Reading List.md
+    - Contemporary IP:
+      - 2. PPT & Reading List: Contemporary IP/02 PPT & Reading List.md
+    - Copyright Law:
+      - 1. Course Information: Copyright Law/01 Course Information.md
+      - 2. PPT & Reading List: Copyright Law/02 PPT & Reading List.md
+      - 3. Definitions: Copyright Law/03 Definitions.md
   
   - DDL-Related Materials: DDL/DDL.md
