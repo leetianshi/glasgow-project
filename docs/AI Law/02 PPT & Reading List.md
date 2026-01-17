@@ -2,7 +2,7 @@
 ## Seminar 1
 | 1. Introduction to mainstream AI applications, technologies, existing legal and ethical landscape |  |
 | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 1](./02%20Seminar%201.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access |

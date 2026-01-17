@@ -2,7 +2,7 @@
 ## Seminar 1
 | 14 Jan \| 20 Years of Copyright Wars |  |  |
 | ---- | ---- | ---- |
-| **PPT** | [Seminar 1](./03%20Seminar%201.pptx) |
+| **PPT** | [Seminar 1](./02%20Seminar%201.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access | OSCOLA |

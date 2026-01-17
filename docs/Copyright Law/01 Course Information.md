@@ -13,5 +13,20 @@
 | 9 | 11 March | Rankine Building, 106 LT | AI: Outputs and Creativity |
 | 10 | 18 March | Rankine Building, 106 LT | Revision |
 
+## Grading and assignment
+### 1. An essay of 4,500 words
+**·** Worth 85% of your overall grade </br>
+**·** Students will be permitted to choose from a range of questions based on course topics </br>
+**·** Due date: TBC </br>
+**·** Students will have the opportunity to submit a formative assignment (ungraded) in the form of an essay plan/outline ahead of the revision class for feedback (due date TBC)
+
+### 2. Participation
+**·** Worth 15% of your overall grade </br>
+**·** Via digital activities (e.g., Microsoft Forms, Moodle, Padlet) </br>
+**·** Time will be given to complete the activity in class, but this can also be completed up to one week after the class (e.g., if you have an absence due to illness, you can still participate remotely) </br>
+**·** IMPORTANT: accessibility requirements and reasonable adjustments (contact me if you have concerns)
+
 ## Access
 [Course Information](./01%20Course%20Information.docx)
+
+[Grading and assignment](./02%20Seminar%201.pptx)

@@ -6,6 +6,8 @@ Academic English: [英文论文里横线破折号标准格式用法](<https://ww
 
 Books: [Z-Library](<https://getzlib.com/>)
 
+Book: [Insolvency Law (6th Edition)](<https://gla-my.sharepoint.com/:b:/g/personal/3103914l_student_gla_ac_uk/IQB3zcIm2JKCRJgj6lP3ZE7iATfC7w9WcEB2MOmbm-CE9Kk?e=DBGeHZ>)
+
 Dictionaries: [Oxford Reference](<https://www.oxfordreference.com/>)
 
 Journal Articles: [Google Scholar](<https://scholar.google.com/>)

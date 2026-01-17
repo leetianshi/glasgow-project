@@ -5,7 +5,10 @@
 | ---- | ---- |
 | 26 January 2026 | Publication of February/March Exam Timetable |
 | ==26 January 2026== | ==Add/Drop deadline for enrolment on courses for Semester 2== |
+| ==6 February 2026== | ==AI Law: Release of formative assessment== |
+| ==13 February 2026== | ==AI Law: Deadline of formative assessment== |
 | ==13 February 2026== | ==Results deadline for December examinations. **Please note**: Results will be published up to close of business== |
+| 6 March 2026 | Contemporary IP: 1,500-word essay |
 | 24 March 2026 | Publication of April/May Exam Timetable |
 | 27 April-22 May 2026 (inclusive) | April/May exams commence |
 | 16 June 2026 | Results deadline for April/May examinations. **Please note**: Results will be published up to close of business. Results in some areas may fall out with this deadline therefore students should check with their School(s) for details of any exceptional arrangements |
