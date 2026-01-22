@@ -11,7 +11,7 @@
 ## Seminar 2
 | 2. The risks posed by AI: Algorithmic discrimination, hallucinations and stochastic parrots, misuse of personal data |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 2](./02%20Seminar%202.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |

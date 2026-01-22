@@ -17,7 +17,7 @@
 ## Seminar 2
 | 21 Jan \| Authorship, Ownership and Subject-matter |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 2](<./02 Seminar 2.pptx>) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
