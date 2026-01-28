@@ -33,6 +33,9 @@ There are **no extensions!**
 
 **Everything will take place online!**
 
+### Past Exam Paper
+[2025 Exam](./01%202025%20Exam.pdf)
+
 ## Access
 [Timetable](./01%20Course%20Information.docx)
 

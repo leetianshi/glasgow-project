@@ -33,10 +33,10 @@ nav:
   - Home: index.md
   
   - Courses:
-    - Academic Writting:
-      - 1. OSCOLA 4th Edition: Academic Writting/OSCOLA 4th Edition.md
-      - 2. APA 7th Edition: Academic Writting/APA 7th Edition.md
-      - 3. Useful: Academic Writting/Useful.md
+    - Useful Materials:
+      - 1. OSCOLA 4th Edition: Useful Materials/OSCOLA 4th Edition.md
+      - 2. APA 7th Edition: Useful Materials/APA 7th Edition.md
+      - 3. Others: Useful Materials/Useful.md
     - AI Law:
       - 1. Course Information: AI Law/01 Course Information.md
       - 2. PPT & Reading List: AI Law/02 PPT & Reading List.md

@@ -70,9 +70,9 @@ author,| ‘title’| (*publisher*,| date)| <link\>| accessed <u>accessed date</
 author,| ‘title’| (additional information,| publisher| year)| <u>exact page</u>.
 
 ## 2. Access
-[OSCOLA (4th edn, Hart Publishing)](../Academic%20Writting/OSCOLA%204th%20Edition.pdf)
+[OSCOLA (4th edn, Hart Publishing)](./OSCOLA%204th%20Edition.pdf)
 
-[OSCOLA 2006: citing international law section](../Academic%20Writting/OSCOLA%202006%20Edition.pdf) (OSCOLA (4th edn) does not cover International Law)
+[OSCOLA 2006: citing international law section](./OSCOLA%202006%20Edition.pdf) (OSCOLA (4th edn) does not cover International Law)
 
 [OSCOLA](<https://www.law.ox.ac.uk/oscola>)
 

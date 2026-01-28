@@ -26,6 +26,9 @@
 **·** Time will be given to complete the activity in class, but this can also be completed up to one week after the class (e.g., if you have an absence due to illness, you can still participate remotely) </br>
 **·** IMPORTANT: accessibility requirements and reasonable adjustments (contact me if you have concerns)
 
+### Model Essay
+[Model Essay](./01%20Model%20Essay.docx)
+
 ## Access
 [Course Information](./01%20Course%20Information.docx)
 

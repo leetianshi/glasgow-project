@@ -27,6 +27,15 @@ April/May exam diet
 
 **Everything will take place online**
 
+### Past Exam Papers
+[2022 Exam](./01%202022%20Exam.pdf)
+
+[2021 Exam](./01%202021%20Exam.pdf)
+
+[2020 Exam](./01%202020%20Exam.pdf)
+
+[2018 Exam](./01%202018%20Exam.pdf)
+
 ## Access
 [Course Information](./01%20Course%20Information.pdf)
 

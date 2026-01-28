@@ -1,6 +1,6 @@
 # Useful
 ## Access
-Academic English: [Academic Prasebank](../Academic%20Writting/Academic%20Phrasebank.pdf) (Defining Terms p.106–p.110)
+Academic English: [Academic Prasebank](./Academic%20Phrasebank.pdf) (Defining Terms p.106–p.110)
 
 Academic English: [英文论文里横线破折号标准格式用法](<https://www.bilibili.com/opus/497866870876401599>)
 
@@ -9,6 +9,10 @@ Books: [Z-Library](<https://getzlib.com/>)
 Book: [Insolvency Law (6th Edition)](<https://gla-my.sharepoint.com/:b:/g/personal/3103914l_student_gla_ac_uk/IQB3zcIm2JKCRJgj6lP3ZE7iATfC7w9WcEB2MOmbm-CE9Kk?e=DBGeHZ>)
 
 Dictionaries: [Oxford Reference](<https://www.oxfordreference.com/>)
+
+Grades: [课程分数详解](./课程分数详解.pdf)
+
+Grades: [学位详解](./学位详解.pdf)
 
 Journal Articles: [Google Scholar](<https://scholar.google.com/>)
 

@@ -43,7 +43,7 @@
 ## Seminar 3
 | 3: Right to Repair |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 3](./02%20Seminar%203.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |

@@ -32,16 +32,24 @@
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
-| An Introduction to Law and Regulation: Text and Materials (**See: Theories of Regulation**) | [Authored Book](./AI03ER01.pdf) | Bronwen Morgan and Karen Yeung, *An Introduction to Law and Regulation: Text and Materials* (Cambridge University Press 2012) <u>exact page</u>. |
-| Regulating AI and Machine Learning: Setting the Regulatory Agenda | [Journal Article](./AI03ER02.pdf) | Julia Black and Andrew Murray, ‘Regulating AI and Machine Learning: Setting the Regulatory Agenda’ (2019) 10 European Journal of Law and Technology. |
-| When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence | [Journal Article](./AI03ER03.pdf) | Brian Judge, Mark Nitzberg, and Stuart Russell, ‘When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence’ (2025) 44 Policy and Society 85, <u>exact page</u>. |
+| Theories of Regulation | [Video](<https://www.youtube.com/watch?v=OzORdQyxefk>) |
+| Why Regulate? | [Authored Book](./AI03ER02.pdf) | Robert Baldwin, Martin Cave, and Martin Lodge, *Understanding Regulation: Theory, Strategy, and Practice* (2nd edn, Oxford University Press 2011) <u>exact page</u>. |
+| Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI | [Report](./AI03ER03.pdf) | Jessica Fjeld and others, ‘Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI’ (Berkman Klein Center Research Publication No. 2020-1, SSRN 2020) <u>exact page</u>. |
+| Regulating AI and Machine Learning: Setting the Regulatory Agenda | [Journal Article](./AI03ER04.pdf) | Julia Black and Andrew Murray, ‘Regulating AI and Machine Learning: Setting the Regulatory Agenda’ (2019) 10 European Journal of Law and Technology. |
+| From a ‘Race to AI’ to a ‘Race to AI Regulation’: Regulatory Competition for Artificial Intelligence | [Journal Article](./AI03ER05.pdf) | Nathalie A. Smuha, ‘From a ‘Race to AI’ to a ‘Race to AI Regulation’: Regulatory Competition for Artificial Intelligence’ (2021) 13 Law, Innovation and Technology 57, <u>exact page</u>. |
+| European Approach to Artificial Intelligence | [Website](<https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence>) | European Commission, ‘European Approach to Artificial Intelligence’ (*Shaping Europe’s Digital Future*) <https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence\> accessed <u>accessed date</u>. |
+| Artificial Intelligence: Ethics, Governance and Regulation | [Website](<https://post.parliament.uk/artificial-intelligence-ethics-governance-and-regulation/>) | Patrick Brione and Devyani Gajjar, ‘Artificial Intelligence: Ethics, Governance and Regulation’ (*POST*, 7 October 2024) <https://post.parliament.uk/artificial-intelligence-ethics-governance-and-regulation/\> accessed <u>accessed date</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access | OSCOLA |
-| Theories of Regulation | [Video](<https://www.youtube.com/watch?v=OzORdQyxefk>) |
-| An Introduction to Law and Regulation: Text and Materials (**See: Introduction**) | [Authored Book](./AI03RR02.pdf) | Bronwen Morgan and Karen Yeung, *An Introduction to Law and Regulation: Text and Materials* (Cambridge University Press 2012) <u>exact page</u>. |
-| From a ‘Race to AI’ to a ‘Race to AI Regulation’: Regulatory Competition for Artificial Intelligence | [Journal Article](./AI03RR03.pdf) | Nathalie A. Smuha, ‘From a ‘Race to AI’ to a ‘Race to AI Regulation’: Regulatory Competition for Artificial Intelligence’ (2021) 13 Law, Innovation and Technology 57, <u>exact page</u>. |
-| Regulating AI: The ICO’s Strategic Approach | [Consultation Response](./AI03RR04.pdf) | Information Commissioner’s Office, ‘Regulating AI: The ICO’s Strategic Approach’ (Information Commissioner’s Office 2024) <u>exact page</u>. |
-| The Regulation of Artificial Intelligence | [Journal Article](./AI03RR05.pdf) | Giusella Finocchiaro, ‘The Regulation of Artificial Intelligence’ (2023) 39 AI & Society 1961, <u>exact page</u>. |
+| When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence | [Journal Article](./AI03RR03.pdf) | Brian Judge, Mark Nitzberg, and Stuart Russell, ‘When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence’ (2025) 44 Policy and Society 85, <u>exact page</u>. |
+| The Regulation of Artificial Intelligence | [Journal Article](./AI03RR04.pdf) | Giusella Finocchiaro, ‘The Regulation of Artificial Intelligence’ (2023) 39 AI & Society 1961, <u>exact page</u>. |
+| An Introduction to Law and Regulation: Text and Materials (**Read only Introduction and Chapter 2 — Theories of Regulation**) | [Authored Book](./AI03RR05.pdf) | Bronwen Morgan and Karen Yeung, *An Introduction to Law and Regulation: Text and Materials* (Cambridge University Press 2012) <u>exact page</u>. |
+| <span style="background:#C0C0C0">Further Reading</span> |
+| Title | Access | OSCOLA |
+| Regulating AI: The ICO’s Strategic Approach | [Consultation Response](./AI03FR01.pdf) | Information Commissioner’s Office, ‘Regulating AI: The ICO’s Strategic Approach’ (Information Commissioner’s Office 2024) <u>exact page</u>. |
+| AI Playbook for the UK Government | [Guidance](./AI03FR02.pdf) | Government Digital Service, ‘AI Playbook for the UK Government’ (GOV.UK 2025) <u>exact page</u>. |
+| The Cambridge Handbook of the Law, Ethics and Policy of Artificial Intelligence (**See: Chapter 12, ‘The European Union’s AI Act: Beyond Motherhood and Apple Pie?’.**) | [Contribution to Edited Book](./AI03FR03.pdf) | Nathalie A. Smuha and Karen Yeung, ‘The European Union’s AI Act: Beyond Motherhood and Apple Pie?’ in Nathalie A. Smuha (ed), *The Cambridge Handbook of the Law, Ethics and Policy of Artificial Intelligence* (Cambridge University Press 2025) <u>exact page</u>. |
+| EU Policy and Legal Framework for Artificial Intelligence, Robotics, and Related Technologies: The AI Act (**See: ‘Ethical Principles for Trustworthy AI’.**) | [Authored Book](./AI03FR04.pdf) | Nikos Th. Nikolinakos, *EU Policy and Legal Framework for Artificial Intelligence, Robotics, and Related Technologies: The AI Act* (Springer Cham 2023) <u>exact page</u>. |
 
 ## Seminar 4
 | Seminar 4 Risk-based approach to regulating artificial intelligence technology: the case of the EU |  |  |
