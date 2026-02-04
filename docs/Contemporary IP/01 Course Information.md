@@ -21,13 +21,18 @@ Assessment will be by way of
 Questions will be released in due course </br>
 Deadline: 6 March 2026 (tbc)
 
+[Summative coursework task](./Summative%20coursework%20task.png)
+
+[Example essay](./Example%20essay.pdf)
+
+[LLM Coursework Summative Submission Instructions](./LLM%20Coursework%20Summative%20Submission%20Instructions.docx)
+
+[LLM Summative Coursework Submission Template](./LLM%20Summative%20Coursework%20Submission%20Template.docx)
+
 ### 2-hour examination (75% final mark)
 You must answer 2 out of 4 questions </br>
 April/May exam diet
 
-**Everything will take place online**
-
-### Past Exam Papers
 [2022 Exam](./01%202022%20Exam.pdf)
 
 [2021 Exam](./01%202021%20Exam.pdf)
@@ -35,6 +40,8 @@ April/May exam diet
 [2020 Exam](./01%202020%20Exam.pdf)
 
 [2018 Exam](./01%202018%20Exam.pdf)
+
+**Everything will take place online**
 
 ## Access
 [Course Information](./01%20Course%20Information.pdf)

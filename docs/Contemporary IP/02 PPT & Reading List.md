@@ -64,11 +64,11 @@
 ## Seminar 4
 | 4: eBooks and digital exhaustion |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 4-1](./02%20Seminar%204-1.pdf) <br> [Seminar 4-2](./02%20Seminar%204-2.pdf) <br> [Seminar 4-3](./02%20Seminar%204-3.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
-| The Theory of Copyright Exhaustion (**Read sections 1.1 – 1.3 only (pp 7–16).**) | [Authored Book](./CI04ER01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
+| The Theory of Copyright Exhaustion (**Read sections 1.1–1.3 only (pp 7–16).**) | [Authored Book](./CI04ER01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
 | French Publishers Voice Concerns Over Rise in Used Book Sales | [Website](<https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales>) | Sarah Elzas, ‘French Publishers Voice Concerns Over Rise in Used Book Sales’ (*RFI*, 21 April 2024) <https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales\> accessed <u>accessed date</u>. |
 | e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives | [Report](./CI04ER03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Case Law</span> |
@@ -78,7 +78,7 @@
 | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./CI04CL03.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access | OSCOLA |
-| XXX |  |  |
+| The Need for a More Balanced Policy Approach for Digital Exhaustion | [Contribution to Edited Book](./CI04RR01.pdf) | Péter Mezei and Caterina Sganga, ‘The Need for a More Balanced Policy Approach for Digital Exhaustion’ in Péter Mezei, Hannibal Travis, and Anett Pogácsás (eds), *Harmonizing Intellectual Property Law for a Trans-Atlantic Knowledge Economy* (Brill \| Nijhoff 2024) <u>exact page</u>. |
 | Digital First Sale Doctrine Ante Portas | [Journal Article](./CI04RR02.pdf) | Peter Mezei, ‘Digital First Sale Doctrine Ante Portas’ (2015) 6 Journal of Intellectual Property, Information Technology and Electronic Commerce Law 23, <u>exact page</u>. |
 | Why Amazon Went Big Brother on Some Kindle E-Books | [Website](<https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/>) | Ken Fisher, ‘Why Amazon Went Big Brother on Some Kindle E-Books’ (*Ars Technica*, 18 July 2009) <https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/\> accessed <u>accessed date</u>. |
 | Capitol Records v ReDigi | [US Case](./CI04RR04.pdf) | *Capitol Records v. ReDigi* No. 16-2321 (2d Cir. 2018) <u>exact page</u>. |

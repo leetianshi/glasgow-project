@@ -20,14 +20,21 @@
 **·** Due date: TBC </br>
 **·** Students will have the opportunity to submit a formative assignment (ungraded) in the form of an essay plan/outline ahead of the revision class for feedback (due date TBC)
 
+[LAW5013 Formative Assignment Question 2025-26](./LAW5013%20Formative%20Assignment%20Question%202025-26.pdf)
+
+[LAW5013 Summative Assignment Essay Questions](./LAW5013%20Summative%20Assignment%20Essay%20Questions.pdf)
+
+[Model Essay](./01%20Model%20Essay.docx)
+
+[LLM Coursework Submission Instructions](./LLM%20Coursework%20Submission%20Instructions.docx)
+
+[LLM Coursework Submission Template](./LLM%20Coursework%20Submission%20Template.docx)
+
 ### 2. Participation
 **·** Worth 15% of your overall grade </br>
 **·** Via digital activities (e.g., Microsoft Forms, Moodle, Padlet) </br>
 **·** Time will be given to complete the activity in class, but this can also be completed up to one week after the class (e.g., if you have an absence due to illness, you can still participate remotely) </br>
 **·** IMPORTANT: accessibility requirements and reasonable adjustments (contact me if you have concerns)
-
-### Model Essay
-[Model Essay](./01%20Model%20Essay.docx)
 
 ## Access
 [Course Information](./01%20Course%20Information.docx)
