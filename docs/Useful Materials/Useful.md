@@ -2,7 +2,7 @@
 ## Access
 | Searching |  |  |
 | ---- | ---- | ---- |
-| [Google Scholar](<https://scholar.google.com/>) | [Law Datebases](<https://eleanor.lib.gla.ac.uk/search~S6/m?Law>) | [Library Search](<https://www.gla.ac.uk/myglasgow/library/>) |
+| [Google Scholar](<https://scholar.google.com/>) | [Law Datebases](<https://eleanor.lib.gla.ac.uk/search~S6/m?Law>) <br> (Westlaw <br> Lexis+ <br> HeinOnline <br> JSTOR) | [Library Search](<https://www.gla.ac.uk/myglasgow/library/>) |
 | [Oxford Reference](<https://www.oxfordreference.com/>) | [Sci-Hub](<https://scihub.help/>) | [Z-Library](<https://getzlib.com/>) |
 
 | Writing |  |  |

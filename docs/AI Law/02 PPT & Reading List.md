@@ -28,7 +28,7 @@
 ## Seminar 3
 | 3. Governing Artificial Intelligence: introduction to the theories and principles of regulation |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 3](./02%20Seminar%203.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
@@ -41,6 +41,8 @@
 | Artificial Intelligence: Ethics, Governance and Regulation | [Website](<https://post.parliament.uk/artificial-intelligence-ethics-governance-and-regulation/>) | Patrick Brione and Devyani Gajjar, ‘Artificial Intelligence: Ethics, Governance and Regulation’ (*POST*, 7 October 2024) <https://post.parliament.uk/artificial-intelligence-ethics-governance-and-regulation/\> accessed <u>accessed date</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access | OSCOLA |
+| Consultation Paper on AI Regulation: Emerging Approaches Across the World | [Consultation Paper](./AI03RR01.pdf) | UNESCO, ‘Consultation Paper on AI Regulation: Emerging Approaches Across the World’ (Document Code: CI/DIT/2024/CP/01, UNESCO 2024) <u>exact page</u>. |
+| UNESCO’s Recommendation on the Ethics of Artificial Intelligence: Key Facts | [Recommendation](./AI03RR02.pdf) | UNESCO, ‘UNESCO’s Recommendation on the Ethics of Artificial Intelligence: Key Facts’ (Document Code: SHS/2023/PI/H/1, UNESCO 2023) <u>exact page</u>. |
 | When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence | [Journal Article](./AI03RR03.pdf) | Brian Judge, Mark Nitzberg, and Stuart Russell, ‘When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence’ (2025) 44 Policy and Society 85, <u>exact page</u>. |
 | The Regulation of Artificial Intelligence | [Journal Article](./AI03RR04.pdf) | Giusella Finocchiaro, ‘The Regulation of Artificial Intelligence’ (2023) 39 AI & Society 1961, <u>exact page</u>. |
 | An Introduction to Law and Regulation: Text and Materials (**Read only Introduction and Chapter 2 — Theories of Regulation**) | [Authored Book](./AI03RR05.pdf) | Bronwen Morgan and Karen Yeung, *An Introduction to Law and Regulation: Text and Materials* (Cambridge University Press 2012) <u>exact page</u>. |

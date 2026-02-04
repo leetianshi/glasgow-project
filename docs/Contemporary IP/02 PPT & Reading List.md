@@ -69,20 +69,42 @@
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
 | The Theory of Copyright Exhaustion (**Read sections 1.1 – 1.3 only (pp 7–16).**) | [Authored Book](./CI04ER01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
-| UsedSoft (C-128/11) | [EU Law](./CI04ER02.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
-| Tom Kabinet (C‑263/18) | [EU Law](./CI04ER03.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
-| Why Amazon Went Big Brother on Some Kindle E-Books | [Website](<https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/>) | Ken Fisher, ‘Why Amazon Went Big Brother on Some Kindle E-Books’ (*Ars Technica*, 18 Jul 2009) <https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/\> accessed <u>accessed date</u>. |
-| Audiobooks Without Audible: The Hard Lessons I've Learned Routing Around Amazon | [Website](<https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/91897-audiobooks-without-audible-the-hard-lessons-i-ve-learned-routing-around-amazon.html>) | Cory Doctorow, ‘Audiobooks Without Audible: The Hard Lessons I've Learned Routing Around Amazon’ (*Publishers Weekly*, 31 March 2023) <https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/91897-audiobooks-without-audible-the-hard-lessons-i-ve-learned-routing-around-amazon.html\> accessed <u>accessed date</u>. |
+| French Publishers Voice Concerns Over Rise in Used Book Sales | [Website](<https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales>) | Sarah Elzas, ‘French Publishers Voice Concerns Over Rise in Used Book Sales’ (*RFI*, 21 April 2024) <https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales\> accessed <u>accessed date</u>. |
+| e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives | [Report](./CI04ER03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
+| <span style="background:#C0C0C0">Case Law</span> |
+| Title | Access | OSCOLA |
+| UsedSoft (C-128/11) | [EU Law](./CI04CL01.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
+| Tom Kabinet (C‑263/18) | [EU Law](./CI04CL02.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
+| Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./CI04CL03.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access | OSCOLA |
-| Digital First Sale Doctrine Ante Portas | [Journal Article](./CI04RR01.pdf) | Peter Mezei, ‘Digital First Sale Doctrine Ante Portas’ (2015) 6 Journal of Intellectual Property, Information Technology and Electronic Commerce Law 23, <u>exact page</u>. |
-| Capitol Records v ReDigi | [US Case](./CI04RR02.pdf) | *Capitol Records v. ReDigi* No. 16-2321 (2d Cir. 2018) <u>exact page, [exact paragraph]</u>. |
-| The Digital Exhaustion of Copyright | [Journal Article](./CI04RR03.pdf) | Christina Angelopoulos, ‘The Digital Exhaustion of Copyright’ (2020) 79 The Cambridge Law Journal 227, <u>exact page</u>. |
-| Copyright Exhaustion: Law and Policy in the United States and the European Union | [Authored Book](./CI04RR04.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (2nd edn, Cambridge University Press 2022) <u>exact page</u>. |
-| The End of Ownership: Personal Property in the Digital Economy | [Authored Book](./CI03RR01.pdf) | Aaron Perzanowski and Jason Schultz, *The End of Ownership: Personal Property in the Digital Economy* (The MIT Press 2016) <u>exact page</u>. |
+| XXX |  |  |
+| Digital First Sale Doctrine Ante Portas | [Journal Article](./CI04RR02.pdf) | Peter Mezei, ‘Digital First Sale Doctrine Ante Portas’ (2015) 6 Journal of Intellectual Property, Information Technology and Electronic Commerce Law 23, <u>exact page</u>. |
+| Why Amazon Went Big Brother on Some Kindle E-Books | [Website](<https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/>) | Ken Fisher, ‘Why Amazon Went Big Brother on Some Kindle E-Books’ (*Ars Technica*, 18 July 2009) <https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/\> accessed <u>accessed date</u>. |
+| Capitol Records v ReDigi | [US Case](./CI04RR04.pdf) | *Capitol Records v. ReDigi* No. 16-2321 (2d Cir. 2018) <u>exact page</u>. |
+| The Digital Exhaustion of Copyright | [Journal Article](./CI04RR05.pdf) | Christina Angelopoulos, ‘The Digital Exhaustion of Copyright’ (2020) 79 The Cambridge Law Journal 227, <u>exact page</u>. |
+| Copyright Exhaustion: Law and Policy in the United States and the European Union | [Authored Book](./CI04RR06.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (2nd edn, Cambridge University Press 2022) <u>exact page</u>. |
 
 ## Seminar 5
-
+| 5: Contracting out of copyright |  |  |
+| ---- | ---- | ---- |
+| **PPT** |
+| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
+| <span style="background:#C0C0C0">Essential Reading</span> |
+| Title | Access | OSCOLA |
+| Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./CI05ER01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
+| Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments | [Journal Article](./CI05ER02.pdf) | Adrian Aronsson-Storrier, ‘Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments’ (2016) 6 Queen Mary Journal of Intellectual Property 111, <u>exact page</u>. |
+| What We Buy When We Buy Now | [Journal Article](./CI05ER03.pdf) | Aaron Perzanowski and Chris Jay Hoofnagle, ‘What We Buy When We Buy Now’ (2017) 165 University of Pennsylvania Law Review 315, <u>exact page</u>. |
+| Wrapping Information in Contract: How Does it Affect the Public Domain? | [Contribution to Edited Book](./CI05ER04.pdf) | Lucie Guibault, ‘Wrapping Information in Contract: How Does it Affect the Public Domain?’ in Lucie Guibault and P. Bernt Hugenholtz (eds), *The Future of the Public Domain: Identifying the Commons in Information Law* (Kluwer Law International 2006) <u>exact page</u>. |
+| <span style="background:#C0C0C0">Recommended Reading</span> |
+| Title | Access | OSCOLA |
+| Copyright Limitations and Contracts | [Authored Book](./CI05RR01.pdf) | Luciee M.C.R. Guibau, *Copyright Limitations and Contracts: An Analysis of the Contractual Overridability of Limitations on Copyright* (Kluwer Law International 2002) <u>exact page</u>. |
+| Protecting User Rights Against Contract Override | [Research Paper](./CI05RR02.pdf) | Jonathan Band, ‘Protecting User Rights Against Contract Override’ (PIJIP/TLS Research Paper Series No. 97, American University Washington College of Law 2023) <u>exact page</u>. |
+| Privatizing Copyright | [Journal Article](./CI05RR03.pdf) | Xiyin Tang, ‘Privatizing Copyright’ (2023) 121 Michigan Law Review 753, <u>exact page</u>. |
+| End-User Flexibilities in Digital Copyright Law — An Empirical Analysis of End-user License Agreements | [Journal Article](./CI05RR04.pdf) | Péter Mezei and István Harkai, ‘End-User Flexibilities in Digital Copyright Law — An Empirical Analysis of End-user License Agreements’ (2022) 5 Interactive Entertainment and Law Review 2, <u>exact page</u>. |
+| Super-Copyright: Contracts, Preemption, and the Structure of Copyright Policymaking | [Journal Article](./CI05RR05.pdf) | Viva R. Moffat, ‘Super-Copyright: Contracts, Preemption, and the Structure of Copyright Policymaking’ (2007) 41 University of California, Davis 45, <u>exact page</u>. |
+| Copyright Policy and the Limits of Freedom of Contract | [Journal Article](./CI05RR06.pdf) | Niva Elkin-Koren, ‘Copyright Policy and the Limits of Freedom of Contract’ (1997) 12 Berkeley Technology Law Journal 93, <u>exact page</u>. |
+| Against Copyright Customization | [Journal Article](./CI05RR07.pdf) | Guy A. Rub, ‘Against Copyright Customization’ (2022) 107 Iowa Law Review 677, <u>exact page</u>. |
 
 ## Seminar 6
 | 6: Press vs big tech: bargaining over payments |  |  |
