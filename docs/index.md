@@ -1,5 +1,5 @@
 # Home
-*Glasgow Project* is a personal study website primarily focused on **courses** and **DDL-related materials**, and is designed to provide useful academic information.
+*Glasgow Project* is a personal study website primarily focused on **courses**, **resources**, and **deadlines**, and is designed to provide useful academic information.
 
 <div align="right">
 Maintained by: Tianshi Li<br>

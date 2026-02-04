@@ -33,18 +33,18 @@ nav:
   - Home: index.md
   
   - Courses:
-    - Useful Materials:
-      - 1. OSCOLA 4th Edition: Useful Materials/OSCOLA 4th Edition.md
-      - 2. APA 7th Edition: Useful Materials/APA 7th Edition.md
-      - 3. Others: Useful Materials/Useful.md
-    - AI Law:
-      - 1. Course Information: AI Law/01 Course Information.md
-      - 2. PPT & Reading List: AI Law/02 PPT & Reading List.md
-    - Contemporary IP:
-      - 1. Course Information: Contemporary IP/01 Course Information.md
-      - 2. PPT & Reading List: Contemporary IP/02 PPT & Reading List.md
-    - Copyright Law:
-      - 1. Course Information: Copyright Law/01 Course Information.md
-      - 2. PPT & Reading List: Copyright Law/02 PPT & Reading List.md
+    - AI Law: Courses/AI Law/AI Law.md
+    - Copyright Law: Courses/Copyright Law/Copyright Law.md
+    - Contemporary IP: Courses/Contemporary IP/Contemporary IP.md
+    - Dissertation: Dissertation/Dissertation.md
   
-  - DDL-Related Materials: DDL/DDL.md
+  - Resources:
+    - OSCOLA 4th Edition: Resources/OSCOLA 4th Edition.md
+    - APA 7th Edition: Resources/APA 7th Edition.md
+    - Others: Resources/Others.md
+
+  - Deadlines: Deadlines/Deadlines.md
+
+plugins:
+  - search
+  - glightbox
