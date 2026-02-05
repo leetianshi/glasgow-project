@@ -55,6 +55,7 @@ There are **no extensions!**
 | Taxonomy of Risks Posed by Language Models | [Conference Paper](./AI02ER02.pdf) | Laura Weidinger and others, ‘Taxonomy of Risks Posed by Language Models’ (2022 ACM Conference on Fairness, Accountability, and Transparency, Seoul, June 2022) <u>exact page</u>. |
 | The Ethics of Advanced AI Assistants | [Paper](./AI02ER03.pdf) | Iason Gabriel, ‘The Ethics of Advanced AI Assistants’ (arXiv:2404.16244, arXiv 2024) <u>exact page</u>. |
 | To Protect Science, We Must Use LLMs as Zero-Shot Translators | [Journal Article](./AI02ER04.pdf) | Brent Mittelstadt, Sandra Wachter and Chris Russell, ‘To Protect Science, We Must Use LLMs as Zero-Shot Translators’ (2023) 7 Nature Human Behaviour 1830, <u>exact page</u>. |
+| Generative Discrimination: What Happens When Generative AI Exhibits Bias, and What Can Be Done About It | [In Progress Chapter](./AI02ER05.pdf) | Philipp Hacker and others, ‘Generative Discrimination: What Happens When Generative AI Exhibits Bias, and What Can Be Done About It’ (In Progress, Oxford University Press 2025). |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access | OSCOLA |
 | AI, Insurance, Discrimination and Unfair Differentiation: An Overview and Research Agenda | [Journal Article](./AI02RR01.pdf) | Marvin van Bekkum, Frederik Zuiderveen Borgesius, and Tom Heskes, ‘AI, Insurance, Discrimination and Unfair Differentiation: An Overview and Research Agenda’ (2025) 17 Law, Innovation and Technology 1, <u>exact page</u>. |
@@ -92,7 +93,7 @@ There are **no extensions!**
 ### 2.4 Seminar 4
 | Seminar 4 Risk-based approach to regulating artificial intelligence technology: the case of the EU |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 4](./Seminar%204.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
@@ -107,9 +108,10 @@ There are **no extensions!**
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | Title | Access | OSCOLA |
 | The Risks of Risk-Based AI Regulation: Taking Liability Seriously | [Working Paper](./AI04RR01.pdf) | Martin Kretschmer and others, ‘The Risks of Risk-Based AI Regulation: Taking Liability Seriously’ (2023) SSRN, exact page <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622405\> accessed <u>accessed date</u>. |
-| Trustworthy Artificial Intelligence and the European Union Act: On the Conflation of Trustworthiness and Acceptability of Risk | [Journal Article](./AI04RR02.pdf) | Johann Laux, Sandra Wachter, and Brent Mittelstadt, ‘Trustworthy Artificial Intelligence and the European Union Act: On the Conflation of Trustworthiness and Acceptability of Risk’ (2024) 18 Regulation & Governance 3, <u>exact page</u>. |
-| Five Considerations to Guide the Regulation of “General Purpose AI” in the EU’s AI Act | [Policy Guidance](./AI04RR03.pdf) | Timnit Gebru and others, ‘Five Considerations to Guide the Regulation of “General Purpose AI” in the EU’s AI Act’ (AI Now Institute 2023) <u>exact page</u>. |
-| Auditing Large Language Models: A Three-Layered Approach | [Journal Article](./AI04RR04.pdf) | Jakob Mökander and others, ‘Auditing Large Language Models: A Three-Layered Approach’ (2024) 4 AI and Ethics 1085, <u>exact page</u>. |
+| Truly Risk-based Regulation of Artificial Intelligence How to Implement the EU’s AI Act | [Journal Article](./AI04RR02.pdf) | Martin Ebers, ‘Truly Risk-based Regulation of Artificial Intelligence How to Implement the EU’s AI Act’ (2025) 16 European Journal of Risk Regulation 684, <u>exact page</u>. |
+| Trustworthy Artificial Intelligence and the European Union Act: On the Conflation of Trustworthiness and Acceptability of Risk | [Journal Article](./AI04RR03.pdf) | Johann Laux, Sandra Wachter, and Brent Mittelstadt, ‘Trustworthy Artificial Intelligence and the European Union Act: On the Conflation of Trustworthiness and Acceptability of Risk’ (2024) 18 Regulation & Governance 3, <u>exact page</u>. |
+| Five Considerations to Guide the Regulation of “General Purpose AI” in the EU’s AI Act | [Policy Guidance](./AI04RR04.pdf) | Timnit Gebru and others, ‘Five Considerations to Guide the Regulation of “General Purpose AI” in the EU’s AI Act’ (AI Now Institute 2023) <u>exact page</u>. |
+| Auditing Large Language Models: A Three-Layered Approach | [Journal Article](./AI04RR05.pdf) | Jakob Mökander and others, ‘Auditing Large Language Models: A Three-Layered Approach’ (2024) 4 AI and Ethics 1085, <u>exact page</u>. |
 
 ### 2.5 Seminar 5
 | Seminar 5 Rights-based approach to governing artificial intelligence technology |  |  |
