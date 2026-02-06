@@ -99,7 +99,7 @@ There are **no extensions!**
 ### 2.4 Seminar 4
 | Seminar 4 Risk-based approach to regulating artificial intelligence technology: the case of the EU |  |  |
 | ---- | ---- | ---- |
-| **PPT** | [Seminar 4](./Seminar%204.pdf) |
+| **PPT** | [Seminar 4-1](./Seminar%204-1.pdf) <br> [Seminar 4-2](./Seminar%204-2.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
