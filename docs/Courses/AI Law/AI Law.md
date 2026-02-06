@@ -25,6 +25,12 @@
 It is an opportunity to attempt to answer an exam question in advance of the summative assessment </br> 
 There are **no extensions!**
 
+[LAW5226 Formative Assignment Question 2025-26](./LAW5226%20Formative%20Assignment%20Question%202025-26.pdf)
+
+[LLM Coursework Submission Instructions](./LLM%20Coursework%20Submission%20Instructions.docx)
+
+[LLM Coursework Submission Template](./LLM%20Coursework%20Submission%20Template.docx)
+
 #### 1.2.2 Summative Assessment
 **3-hour seen examination (100% final mark)** </br>
 **·** You must answer 3 out of 6 questions </br>
