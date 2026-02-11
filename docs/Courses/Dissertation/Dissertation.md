@@ -22,3 +22,41 @@ Information Law
 (3) Secondary Choice <br>
 **Provisional title**: Meaningful Human Involvement Beyond “Solely Automated” Decision-Making: Formal vs Substantive Standards and Regulatory Detection of Token Review <br>
 **Research question**: This dissertation will examine what constitutes meaningful human involvement such that a decision cannot be regarded as solely automated, and consider whether the relevant standard should be assessed on a formal or substantive basis. It will also explore how organisations may design processes that merely appear to involve human review, and how regulators can detect, scrutinise, and challenge such practices effectively.
+
+## 3. Useful Readings
+### 3.1 Materials
+
+
+### 3.2 Information Law and Policy
+#### 3.2.1 Seminar 1
+| 1. Introduction \| Key concepts |  |  |
+| ---- | ---- | ---- |
+| <span style="background:#C0C0C0">Recommended Reading</span> |
+| Title | Access | OSCOLA |
+| Concepts of the Digital Society | [Website](<https://policyreview.info/archives/concepts-of-the-digital-society>) |
+
+#### 3.2.2 Seminar 2
+
+
+#### 3.2.3 Seminar 3
+
+
+#### 3.2.4 Seminar 4
+
+
+#### 3.2.5 Seminar 5
+
+
+#### 3.2.6 Seminar 6
+
+
+#### 3.2.7 Seminar 7
+
+
+#### 3.2.8 Seminar 8
+
+
+#### 3.2.9 Seminar 9
+
+
+#### 3.2.10 Seminar 10
