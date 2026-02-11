@@ -114,7 +114,7 @@ April/May exam diet
 | Title | Access | OSCOLA |
 | The Theory of Copyright Exhaustion (**Read sections 1.1–1.3 only (pp 7–16).**) | [Authored Book](./CI04ER01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
 | French Publishers Voice Concerns Over Rise in Used Book Sales | [Website](<https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales>) | Sarah Elzas, ‘French Publishers Voice Concerns Over Rise in Used Book Sales’ (*RFI*, 21 April 2024) <https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales\> accessed <u>accessed date</u>. |
-| e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives | [Report](./CI04ER03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
+| e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives (**Read pages 8–24 (Executive summary) only.**) | [Report](./CI04ER03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Case Law</span> |
 | Title | Access | OSCOLA |
 | UsedSoft (C-128/11) | [EU Law](./CI04CL01.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
@@ -132,7 +132,7 @@ April/May exam diet
 ### 2.5 Seminar 5
 | 5: Contracting out of copyright |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 5](./Seminar%205.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
