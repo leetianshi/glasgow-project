@@ -169,7 +169,7 @@
 | Copyright and Artificial Intelligence. Part 2: Copyrightability | [Report](./C09ER02.pdf) | United States Copyright Office, ‘Copyright and Artificial Intelligence. Part 2: Copyrightability’ (United States Copyright Office 2025) <u>exact page</u>. |
 | The Death of the AI Author | [Journal Article](./C09ER03.pdf) | Carys Craig and Ian Kerr, ‘The Death of the AI Author’ (2020) 52 Ottawa Law Review 31, <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| AI and Work in the Creative Industries: Digital Continuity or Discontinuity? | [Journal Article](./C09RR01.pdf) | Kristofer Erickson, ‘AI and Work in the Creative Industries: Digital Continuity or Discontinuity?’ (2024) Creative Industries Journal 1, <u>exact page</u>. |
+| AI and Work in the Creative Industries: Digital Continuity or Discontinuity? | [Journal Article](./C09RR01.pdf) | Kristofer Erickson, ‘AI and Work in the Creative Industries: Digital Continuity or Discontinuity?’ [2024] Creative Industries Journal 1, <u>exact page</u>. |
 | The Prompt Artists | [Conference Paper](./C09RR02.pdf) | Minsuk Chang and others, ‘The Prompt Artists’ (15th Conference on Creativity and Cognition, Virtual Event, June 2023) <u>exact page</u>. |
 
 ### 2.10 Seminar 10
