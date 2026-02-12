@@ -63,7 +63,7 @@ There are **no extensions!**
 | Title | Access | OSCOLA |
 | Artificial Intelligence and Privacy | [Journal Article](./AI02ER01.pdf) | Daniel J. Solove, ‘Artificial Intelligence and Privacy’ (2025) 77 Florida Law Review 1, <u>exact page</u>. |
 | Taxonomy of Risks Posed by Language Models | [Conference Paper](./AI02ER02.pdf) | Laura Weidinger and others, ‘Taxonomy of Risks Posed by Language Models’ (2022 ACM Conference on Fairness, Accountability, and Transparency, Seoul, June 2022) <u>exact page</u>. |
-| The Ethics of Advanced AI Assistants | [Paper](./AI02ER03.pdf) | Iason Gabriel, ‘The Ethics of Advanced AI Assistants’ (arXiv:2404.16244, arXiv 2024) <u>exact page</u>. |
+| The Ethics of Advanced AI Assistants | [Paper](./AI02ER03.pdf) | Iason Gabriel, ‘The Ethics of Advanced AI Assistants’ (arXiv:2404.16244, arXiv.org 2024) <u>exact page</u>. |
 | To Protect Science, We Must Use LLMs as Zero-Shot Translators | [Journal Article](./AI02ER04.pdf) | Brent Mittelstadt, Sandra Wachter and Chris Russell, ‘To Protect Science, We Must Use LLMs as Zero-Shot Translators’ (2023) 7 Nature Human Behaviour 1830, <u>exact page</u>. |
 | Generative Discrimination: What Happens When Generative AI Exhibits Bias, and What Can Be Done About It | [In Progress Chapter](./AI02ER05.pdf) | Philipp Hacker and others, ‘Generative Discrimination: What Happens When Generative AI Exhibits Bias, and What Can Be Done About It’ (In Progress, Oxford University Press 2025). |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
