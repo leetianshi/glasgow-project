@@ -126,7 +126,7 @@ There are **no extensions!**
 ### 2.5 Seminar 5
 | Seminar 5 Rights-based approach to governing artificial intelligence technology |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 5](./Seminar%205.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | Title | Access | OSCOLA |
