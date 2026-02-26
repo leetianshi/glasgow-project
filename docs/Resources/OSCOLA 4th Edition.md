@@ -49,7 +49,7 @@ author,| ‘title’| [year]| journal name or abbreviation| first page of articl
 > *Example 2*: Alison L Young, ‘In Defence of Due Deference’ (2009) 72 MLR 554.
 
 ### 1.5 Working Papers
-author,| ‘title’| (year)| publisher| additional information,| exact page| <link\>| accessed <u>accessed date</u>.
+author,| ‘title’| (year)| publisher| additional information,| <u>exact page</u>| <link\>| accessed <u>accessed date</u>.
 > *Example*: John M Finnis, ‘On Public Reason’ (2006) Oxford Legal Studies Research Paper 1/2007, 8 <http://ssrn.com/abstract=955815\> accessed 18 November 2009.
 
 ### 1.6 European Commission Documents

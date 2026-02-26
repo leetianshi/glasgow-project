@@ -7,12 +7,12 @@
 | 2 | 21 January | Adam Smith, 584 | Overview of UK Copyright Law 1: Authorship, ownership and subject matter |
 | 3 | 28 January | Rankine Building, 106 LT | Overview of UK Copyright Law 2: Exclusive rights |
 | 4 | 4 February | Rankine Building, 106 LT | Overview of UK Copyright Law 3: Exceptions and limitations |
-| 5 | 11 February | Adam Smith, 584 | Overview of UK Copyright Law 4: Infringement |
-| 6 | 18 February | Adam Smith, 584 | Performers’ Rights |
-| 7 | 25 February | Adam Smith, 584 | Creators’ Earnings and Contracts |
-| 8 | 4 March | Adam Smith, 584 | AI: Inputs and Licensing Economy  |
-| 9 | 11 March | Rankine Building, 106 LT | AI: Outputs and Creativity |
-| 10 | 18 March | Rankine Building, 106 LT | Revision |
+| 5 | 18 February | Adam Smith, 584 | Overview of UK Copyright Law 4: Infringement |
+| 6 | 25 February | Adam Smith, 584 | Performers’ Rights |
+| 7 | 4 March | Adam Smith, 584 | AI: Inputs and Licensing Economy |
+| 8 | 11 March | Rankine Building, 106 LT | AI: Outputs and Creativity |
+| 9 | 18 March | Rankine Building, 106 LT | Creators’ Earnings and Contracts |
+| 10 | 25 March | Rankine Building, 106 LT | Revision |
 
 ### 1.2 Assessment
 #### 1.2.1 An essay of 4,500 words
@@ -123,17 +123,21 @@
 | 6 | Authors, Users, and Pirates: Copyright Law and Subjectivity (**Chapters 5 and 6.**) | [Authored Book](./C05RR06.pdf) | James Meese, ‘Global Online Piracy Study’ (The MIT Press 2018) <u>exact page</u>. |
 
 ### 2.6 Seminar 6
-| 18 Feb \| Performers’ rights |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
+| 18 Feb \| Performers’ rights |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 6](./Seminar%206.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-| Title | Access | OSCOLA |
-| Contemporary Intellectual Property: Law and Policy (**s7.26–7.48 only.**) | [Authored Book](./C06ER01.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | Contemporary Intellectual Property: Law and Policy (**s7.26–7.48 only.**) | [Authored Book](./C06ER01.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
+| 2 | Evidencing the Value of Human Performance: Towards Re-Thinking Performers’ Rights for an AI World | [Paper](./C06ER02.pdf) | Laurence Bouvard, Elena Cooper, and Amy Thomas, ‘Evidencing the Value of Human Performance: Towards Re-Thinking Performers’ Rights for an AI World’ (Enlighten Publications 2024) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| Title | Access | OSCOLA |
-| Evidencing the Value of Human Performance: Towards Re-Thinking Performers’ Rights for an AI World | [Paper](./C06RR01.pdf) | Laurence Bouvard, Elena Cooper, and Amy Thomas, ‘Evidencing the Value of Human Performance: Towards Re-Thinking Performers’ Rights for an AI World’ (Enlighten Publications 2024) <u>exact page</u>. |
-| Performing Copyright: Law, Theatre and Authorship | [Authored Book](./C06RR02.pdf) | Luke McDonagh, *Performing Copyright: Law, Theatre and Authorship* (Hart Publishing 2021) <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | 21 for 2021: Performers’ Rights | [Website](<https://www.create.ac.uk/blog/2021/09/03/21-for-2021-performers-rights/>) | CREATe, ‘21 for 2021: Performers’ Rights’ (*CREATe*, 3 September 2021) <https://www.create.ac.uk/blog/2021/09/03/21-for-2021-performers-rights/\> accessed <u>accessed date</u>. |
+| 2 | Fair Pay/Play in the UK Voice-Over Industries: A Survey of 200+ Voice-Overs | [Report](./C06RR02.pdf) | Mathilde Pavis, Huda Tulti, and Joanne Pye, ‘Fair Pay/Play in the UK Voice-Over Industries: A Survey of 200+ Voice-Overs’ (University of Exeter 2019) <u>exact page</u>. |
+| 3 | Performers’ Rights (**This is the authoritative ‘tome’ on performers’ rights — it is very dense and detailed, so only explore if you really want to understand this in depth.**) | [Authored Book](./C06RR03.pdf) | Richard Arnold, *Performers’ Rights* (2nd edn, Sweet & Maxwell 1997) <u>exact page</u>. |
+| 4 | Commercialising Celebrity Persona: Intellectual Property Law and Practice | [Authored Book](./C06RR04.pdf) | Emma Perot, *Commercialising Celebrity Persona: Intellectual Property Law and Practice* (Hart Publishing 2023) <u>exact page</u>. |
+| 5 | Performing Copyright: Law, Theatre and Authorship | [Authored Book](./C06RR05.pdf) | Luke McDonagh, *Performing Copyright: Law, Theatre and Authorship* (Hart Publishing 2021) <u>exact page</u>. |
 
 ### 2.7 Seminar 7
 | 25 Feb \| Creators’ earnings and contracts |  |  |
