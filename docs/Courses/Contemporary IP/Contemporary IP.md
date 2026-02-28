@@ -30,6 +30,10 @@ Deadline: 6 March 2026 (tbc)
 
 [LLM Summative Coursework Submission Template](./LLM%20Summative%20Coursework%20Submission%20Template.docx)
 
+[PDF 3103914 Contemporary Issues in Intellectual Property Law Summative Essay](./PDF%203103914%20Contemporary%20Issues%20in%20Intellectual%20Property%20Law%20Summative%20Essay.pdf)
+
+[WORD 3103914 Contemporary Issues in Intellectual Property Law Summative Essay](./WORD%203103914%20Contemporary%20Issues%20in%20Intellectual%20Property%20Law%20Summative%20Essay.docx)
+
 #### 1.2.2 2-hour examination (75% final mark)
 You must answer 2 out of 4 questions </br>
 April/May exam diet
