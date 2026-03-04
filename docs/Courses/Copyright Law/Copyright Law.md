@@ -140,19 +140,19 @@
 | 5 | Performing Copyright: Law, Theatre and Authorship | [Authored Book](./C06RR05.pdf) | Luke McDonagh, *Performing Copyright: Law, Theatre and Authorship* (Hart Publishing 2021) <u>exact page</u>. |
 
 ### 2.7 Seminar 7
-| 25 Feb \| Creators’ earnings and contracts |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
+| 25 Feb \| Creators’ earnings and contracts |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 7](./Seminar%206.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-| Title | Access | OSCOLA |
-| Contemporary Intellectual Property: Law and Policy (**ss. 6.27–6.52.**) | [Authored Book](./C07ER01.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
-| Contracts Between Art and Commerce | [Journal Article](./C07ER02.pdf) | Richard E. Caves, ‘Contracts Between Art and Commerce’ (2003) 17 Journal of Economic Perspectives 73, <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | Contemporary Intellectual Property: Law and Policy (**ss. 6.27–6.52.**) | [Authored Book](./C07ER01.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
+| 2 | Contracts Between Art and Commerce | [Journal Article](./C07ER02.pdf) | Richard E. Caves, ‘Contracts Between Art and Commerce’ (2003) 17 Journal of Economic Perspectives 73, <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| Title | Access | OSCOLA |
-| Creators’ Earnings & Contracts Hub | [Website](<https://www.create.ac.uk/project/dealing-with-creators-project/2024/06/16/creators-hub/>) |
-| The Relationship Between Copyright and Contract Law | [Project Report](./C07RR02.pdf) | Martin Kretschmer and others, ‘The Relationship Between Copyright and Contract Law’ (Report No. 2010 (04), Strategic Advisory Board for Intellectual Property Policy 2010) <u>exact page</u>. |
-| The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19 | [Website](<https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875>) | Ananay Aguilar, ‘The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19’ (*Kluwer Copyright Blog*, 15 July 2019) <https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875\> accessed <u>accessed date</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | Creators’ Earnings & Contracts Hub | [Website](<https://www.create.ac.uk/project/dealing-with-creators-project/2024/06/16/creators-hub/>) |
+| 2 | The Relationship Between Copyright and Contract Law | [Project Report](./C07RR02.pdf) | Martin Kretschmer and others, ‘The Relationship Between Copyright and Contract Law’ (Report No. 2010 (04), Strategic Advisory Board for Intellectual Property Policy 2010) <u>exact page</u>. |
+| 3 | The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19 | [Website](<https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875>) | Ananay Aguilar, ‘The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19’ (*Kluwer Copyright Blog*, 15 July 2019) <https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875\> accessed <u>accessed date</u>. |
 
 ### 2.8 Seminar 8
 | 4 March \| AI: Inputs and the licensing economy |  |  |

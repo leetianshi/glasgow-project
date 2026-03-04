@@ -1,7 +1,6 @@
 # OSCOLA 4th Edition
 ## 1. Frequently Referenced Items
 ### 1.1 Parts of Statutes
-
 | Full Form | Abbreviation |
 | ---- | ---- |
 | part/parts | <u> pt/pts </u> |
@@ -69,7 +68,17 @@ author,| ‘title’| (*publisher*,| date)| <link\>| accessed <u>accessed date</
 ### 1.9 General Principle (e.g. Report)
 author,| ‘title’| (additional information,| publisher| year)| <u>exact page</u>.
 
-## 2. Access
+## 2. Bibliographies
+Items in bibliographies take the same form as all other citations in OSCOLA, with three exceptions: <br>
+(1) the author’s <u>surname</u> should precede his or her <u>initial(s)</u>, with <u>no comma</u> separating them, but a comma after the final initial; <br>
+(2) <u>only initials</u> should be used, and <u>not forenames</u>; and <br>
+(3) the <u>titles of unattributed works</u> should be preceded by a <u>double em-dash</u>. 
+
+Works should be arranged in <u>alphabetical order</u> of <u>author surname</u>, with <u>unattributed works</u> being listed at the beginning of the bibliography in <u>alphabetical order</u> of <u>first major word of the title</u>.
+
+> *Example*: <br> CITATION in a footnote: Elizabeth Fisher, *Risk Regulation and Administrative Constitutionalism* (Hart Publishing 2007). <br> CITATION in a bibliography: Fisher E, *Risk Regulation and Administrative Constitutionalism* (Hart Publishing 2007)
+
+## 3. Access
 [OSCOLA (4th edn, Hart Publishing)](./OSCOLA%204th%20Edition.pdf)
 
 [OSCOLA 2006: citing international law section](./OSCOLA%202006%20Edition.pdf) (OSCOLA (4th edn) does not cover International Law)

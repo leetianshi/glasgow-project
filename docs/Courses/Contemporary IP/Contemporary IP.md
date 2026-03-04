@@ -176,16 +176,18 @@ April/May exam diet
 | 5 | Press Publishers Versus AI – Not a Matter of Property but of Fairness | [Journal Article](./CI06RR05.pdf) | Viktoria Kraetzig, ‘Press Publishers Versus AI – Not a Matter of Property but of Fairness’ (2025) 56 International Review of Intellectual Property and Competition Law 1752, <u>exact page</u>. |
 
 ### 2.7 Seminar 7
-| 7: Open business models, follow-on and user innovation |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
+| 7: Open business models, follow-on and user innovation |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 7](./Seminar%207.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-| Title | Access | OSCOLA |
-| Democratizing Innovation | [Authored Book](./CI07ER01.pdf) | Eric von Hippel, *Democratizing Innovation* (The MIT Press 2006) <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | Democratizing Innovation | [Authored Book](./CI07ER01.pdf) | Eric von Hippel, *Democratizing Innovation* (The MIT Press 2006) <u>exact page</u>. |
+| 2 | The Time Limit on Copyright: An Unlikely Tragedy of the Intellectual Commons | [Journal Article](./CI07ER02.pdf) | Maxime Lambrecht, ‘The Time Limit on Copyright: An Unlikely Tragedy of the Intellectual Commons’ (2017) 43 European Journal of Law and Economics 475, <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| Title | Access | OSCOLA |
-| Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry | [Journal Article](./CI07RR01.pdf) | Xavier Lecocq and Benoît Demil, ‘Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry’ (2006) 27 Strategic Management Journal 891, <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | The Role of Openness in Creative Innovation: Evidence from Digital Crowdfunding | [Journal Article](./CI07RR01.pdf) | Kristofer Erickson, Fabian Homberg, and Martin Kretschmer, ‘The Role of Openness in Creative Innovation: Evidence from Digital Crowdfunding’ (2024) 206 Technological Forecasting and Social Change 1, <u>exact page</u>. |
+| 2 | Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry | [Journal Article](./CI07RR02.pdf) | Xavier Lecocq and Benoît Demil, ‘Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry’ (2006) 27 Strategic Management Journal 891, <u>exact page</u>. |
 
 ### 2.8 Seminar 8
 | 8: Preservation/GLAM/TPMs |  |  |
