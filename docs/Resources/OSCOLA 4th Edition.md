@@ -16,18 +16,18 @@
 > *Example 4*: Sexual Offences Act 2003, s 1(1)(c).
 
 ### 1.2 EU Cases
-case number| *case name*| EU:C case number,| report number| <u>[exact paragraph]</u>.
+case number<span style="color:#B00020;">**|**</span> *case name*<span style="color:#B00020;">**|**</span> EU:C case number,<span style="color:#B00020;">**|**</span> report number<span style="color:#B00020;">**|**</span> <u>[exact paragraph]</u>.
 > *Example 1*: Case C-176/03 *Commission v Council* EU:C:2005:542, [2005] ECR I-7879. <br>
 > *Example 2*: Case C-542/09 *Commission v the Netherlands* EU:C:2012:346.
 
 ### 1.3 Books
 #### 1.3.1 Authored Books
-author,| *title*| (additional information,| edition,| publisher| year)| <u>exact page</u>.
+author,<span style="color:#B00020;">**|**</span> *title*<span style="color:#B00020;">**|**</span> (additional information,<span style="color:#B00020;">**|**</span> edition,<span style="color:#B00020;">**|**</span> publisher<span style="color:#B00020;">**|**</span> year)<span style="color:#B00020;">**|**</span> <u>exact page</u>.
 > *Example 1*: Timothy Endicott, *Administrative Law* (OUP 2009). <br>
 > *Example 2*: Gareth Jones, *Goff and Jones: The Law of Restitution* (1st supp, 7th edn, Sweet & Maxwell 2009).
 
 #### 1.3.2 Contributions to Edited Books
-author,| ‘title’| in editor (ed),| *book title*| (additional information,| publisher| year)| <u>exact page</u>.
+author,<span style="color:#B00020;">**|**</span> ‘title’<span style="color:#B00020;">**|**</span> in editor (ed),<span style="color:#B00020;">**|**</span> *book title*<span style="color:#B00020;">**|**</span> (additional information,<span style="color:#B00020;">**|**</span> publisher<span style="color:#B00020;">**|**</span> year)<span style="color:#B00020;">**|**</span> <u>exact page</u>.
 > *Example 1*: Justine Pila, ‘The Value of Authorship in the Digital Environment’ in William H Dutton and Paul W Jeffreys (eds), *World Wide Research:* *Reshaping the Sciences and Humanities in the Century of Information* (MIT Press 2010). <br>
 > *Example 2*: John Cartwright, ‘The Fiction of the “Reasonable Man”’ in AG Castermans and others (eds), *Ex Libris Hans Nieuwenhuis* (Kluwer 2009).
 
@@ -41,32 +41,32 @@ author,| ‘title’| in editor (ed),| *book title*| (additional information,| p
 | page/pages | <u> stand alone, without p/pp </u> |
 
 ### 1.4 Journal Articles
-author,| ‘title’| (year)| volume| journal name or abbreviation| first page of article,| <u>exact page</u>. <br>
+author,<span style="color:#B00020;">**|**</span> ‘title’<span style="color:#B00020;">**|**</span> (year)<span style="color:#B00020;">**|**</span> volume<span style="color:#B00020;">**|**</span> journal name or abbreviation<span style="color:#B00020;">**|**</span> first page of article,<span style="color:#B00020;">**|**</span> <u>exact page</u>. <br>
 [OR] <br>
-author,| ‘title’| [year]| journal name or abbreviation| first page of article,| <u>exact page</u>.
+author,<span style="color:#B00020;">**|**</span> ‘title’<span style="color:#B00020;">**|**</span> [year]<span style="color:#B00020;">**|**</span> journal name or abbreviation<span style="color:#B00020;">**|**</span> first page of article,<span style="color:#B00020;">**|**</span> <u>exact page</u>.
 > *Example 1*: Paul Craig, ‘Theory, “Pure Theory” and Values in Public Law’ [2005] PL 440. <br>
 > *Example 2*: Alison L Young, ‘In Defence of Due Deference’ (2009) 72 MLR 554.
 
 ### 1.5 Working Papers
-author,| ‘title’| (year)| publisher| additional information,| <u>exact page</u>| <link\>| accessed <u>accessed date</u>.
+author,<span style="color:#B00020;">**|**</span> ‘title’<span style="color:#B00020;">**|**</span> (year)<span style="color:#B00020;">**|**</span> publisher<span style="color:#B00020;">**|**</span> additional information,<span style="color:#B00020;">**|**</span> <u>exact page</u><span style="color:#B00020;">**|**</span> <link\><span style="color:#B00020;">**|**</span> accessed <u>accessed date</u>.
 > *Example*: John M Finnis, ‘On Public Reason’ (2006) Oxford Legal Studies Research Paper 1/2007, 8 <http://ssrn.com/abstract=955815\> accessed 18 November 2009.
 
 ### 1.6 European Commission Documents
-Commission,| ‘title’| COM number,| <u>exact page</u>.
+Commission,<span style="color:#B00020;">**|**</span> ‘title’<span style="color:#B00020;">**|**</span> COM number,<span style="color:#B00020;">**|**</span> <u>exact page</u>.
 > *Example 1*: Commission, ‘Proposal for a Council Decision on the conclusion, on behalf of the European Community, of the Protocol on the Implementation of the Alpine Convention in the Field of Transport (Transport Protocol)’ COM (2008) 895 final, ch I, art 3. <br>
 > *Example 2*: Commission, ‘Action Plan on consumer access to justice and the settlement of disputes in the internal market’ (Communication) COM (96) 13 final. <br>
 > *Example 3*: Commission, ‘Proposal for a Council Regulation on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters’ COM (99) 348 final.
 
 ### 1.7 Conference Papers
-author,| ‘titile’| (title of the conference,| location of the conference,| date of the conference)| <u>exact page</u>.
+author,<span style="color:#B00020;">**|**</span> ‘titile’<span style="color:#B00020;">**|**</span> (title of the conference,<span style="color:#B00020;">**|**</span> location of the conference,<span style="color:#B00020;">**|**</span> date of the conference)<span style="color:#B00020;">**|**</span> <u>exact page</u>.
 > *Example*: Ben McFarlane and Donal Nolan, ‘Remedying Reliance: The Future Development of Promissory and Proprietary Estoppel in English Law’ (Obligations III conference, Brisbane, July 2006).
 
 ### 1.8 Websites
-author,| ‘title’| (*publisher*,| date)| <link\>| accessed <u>accessed date</u>.
+author,<span style="color:#B00020;">**|**</span> ‘title’<span style="color:#B00020;">**|**</span> (*publisher*,<span style="color:#B00020;">**|**</span> date)<span style="color:#B00020;">**|**</span> <link\><span style="color:#B00020;">**|**</span> accessed <u>accessed date</u>.
 > *Example*: Sarah Cole, ‘Virtual Friend Fires Employee’ (*Naked Law*, 1 May 2009) <www.nakedlaw.com/2009/05/index.html\> accessed 19 November 2009.
 
 ### 1.9 General Principle (e.g. Report)
-author,| ‘title’| (additional information,| publisher| year)| <u>exact page</u>.
+author,<span style="color:#B00020;">**|**</span> ‘title’<span style="color:#B00020;">**|**</span> (additional information,<span style="color:#B00020;">**|**</span> publisher<span style="color:#B00020;">**|**</span> year)<span style="color:#B00020;">**|**</span> <u>exact page</u>.
 
 ## 2. Bibliographies
 Items in bibliographies take the same form as all other citations in OSCOLA, with three exceptions: <br>

@@ -199,12 +199,16 @@ There are **no extensions!**
 ### 2.7 Seminar 7
 | Seminar 7 ICO (Guest Lecture) |  |  |
 | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 7](./Seminar%207.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-|  |  |  |
+| # | Title | Access |
+| 1 | Legislation We Cover | [Website](<https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/>) |
+| 2 | Information Commissioner’s Office Response to the Consultation Series on Generative AI | [Website](<https://ico.org.uk/about-the-ico/what-we-do/our-work-on-artificial-intelligence/response-to-the-consultation-series-on-generative-ai/>) |
+| 3 | Our Work on Artificial Intelligence | [Website](<https://ico.org.uk/about-the-ico/what-we-do/our-work-on-artificial-intelligence/>) |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-|  |  |  |
+| 1 | Large Language Models Explained Briefly | [Website](<https://www.3blue1brown.com/?v=mini-llm>) |
+| 2 | But How Do AI Images and Videos Actually Work? | [Website](<https://www.3blue1brown.com/?v=diffusion-models>) |
 
 ### 2.8 Seminar 8
 | Seminar 8 AI lifecycle |  |  |
