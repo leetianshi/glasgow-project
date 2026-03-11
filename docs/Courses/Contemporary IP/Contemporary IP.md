@@ -190,16 +190,17 @@ April/May exam diet
 | 2 | Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry | [Journal Article](./CI07RR02.pdf) | Xavier Lecocq and Benoît Demil, ‘Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry’ (2006) 27 Strategic Management Journal 891, <u>exact page</u>. |
 
 ### 2.8 Seminar 8
-| 8: Preservation/GLAM/TPMs |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
+| 8: Preservation/GLAM/TPMs |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 8](./Seminar%208.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-| Title | Access | OSCOLA |
-| Technological Protection Measures and Digital Preservation: Evidence from Video Games | [Report](./CI08ER01.pdf) | Kristofer Erickson and Felix Rodriguez Perez, ‘Technological Protection Measures and Digital Preservation: Evidence from Video Games’ (Zonodo 2024) <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | Technological Protection Measures and Digital Preservation: Evidence from Video Games | [Report](./CI08ER01.pdf) | Kristofer Erickson and Felix Rodriguez Perez, ‘Technological Protection Measures and Digital Preservation: Evidence from Video Games’ (Zonodo 2024) <u>exact page</u>. |
+| 2 | International Copyright Issues in Digital Preservation | [Contribution to Edited Book](./CI08ER02.pdf) | Sara Klein and Jess Whyte, ‘International Copyright Issues in Digital Preservation’ in Jessica Coates, Victoria Owen, and Susan Reilly (eds), Navigating Copyright for Libraries: Purpose and Scope (Walter de Gruyter GmbH 2022) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| Title | Access | OSCOLA |
-| Open Licensing Models in the Cultural Heritage Sector | [Report](./CI08RR01.pdf) | Bartolomeo Meletti and others, ‘Open Licensing Models in the Cultural Heritage Sector’ (Zonodo 2025) <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | Open Licensing Models in the Cultural Heritage Sector | [Report](./CI08RR01.pdf) | Bartolomeo Meletti and others, ‘Open Licensing Models in the Cultural Heritage Sector’ (Zonodo 2025) <u>exact page</u>. |
 
 ### 2.9 Seminar 9
 | 9: NFTs, blockchain and virtual goods |  |  |

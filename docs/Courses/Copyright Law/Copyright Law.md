@@ -104,7 +104,7 @@
 | 4 | Fair Use and the Fairer Sex: Gender, Feminism, and Copyright Law | [Journal Article](./C04RR04.pdf) | Ann Bartow, ‘Fair Use and the Fairer Sex: Gender, Feminism, and Copyright Law’ (2006) 14 American University Journal of Gender, Social Policy & the Law 551, <u>exact page</u>. |
 
 ### 2.5 Seminar 5
-| 11 Feb \| Infringement, streaming and piracy |  |  |  |
+| 18 Feb \| Infringement, streaming and piracy |  |  |  |
 | ---- | ---- | ---- | ---- |
 | **PPT** | [Seminar 5](./Seminar%205.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
@@ -123,7 +123,7 @@
 | 6 | Authors, Users, and Pirates: Copyright Law and Subjectivity (**Chapters 5 and 6.**) | [Authored Book](./C05RR06.pdf) | James Meese, ‘Global Online Piracy Study’ (The MIT Press 2018) <u>exact page</u>. |
 
 ### 2.6 Seminar 6
-| 18 Feb \| Performers’ rights |  |  |  |
+| 25 Feb \| Performers’ rights |  |  |  |
 | ---- | ---- | ---- | ---- |
 | **PPT** | [Seminar 6](./Seminar%206.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
@@ -140,45 +140,46 @@
 | 5 | Performing Copyright: Law, Theatre and Authorship | [Authored Book](./C06RR05.pdf) | Luke McDonagh, *Performing Copyright: Law, Theatre and Authorship* (Hart Publishing 2021) <u>exact page</u>. |
 
 ### 2.7 Seminar 7
-| 25 Feb \| Creators’ earnings and contracts |  |  |  |
+| 4 March \| AI: Inputs and the licensing economy |  |  |  |
 | ---- | ---- | ---- | ---- |
 | **PPT** | [Seminar 7](./Seminar%207.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
+|  |  |  |
+| <span style="background:#C0C0C0">Recommended Reading</span> |
+|  |  |  |
+
+### 2.8 Seminar 8
+| 11 Mar \| AI: Outputs and creativity |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 8](./Seminar%208.pdf) |
+| **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
+| <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | Contemporary Intellectual Property: Law and Policy (**ss. 6.27–6.52.**) | [Authored Book](./C07ER01.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
-| 2 | Contracts Between Art and Commerce | [Journal Article](./C07ER02.pdf) | Richard E. Caves, ‘Contracts Between Art and Commerce’ (2003) 17 Journal of Economic Perspectives 73, <u>exact page</u>. |
+| 1 | Research Handbook on Intellectual Property and Digital Technologies | [Contribution to Edited Book](./C08ER01.pdf) | Author(s), ‘Title’ in Tanya Aplin (ed), *Research Handbook on Intellectual Property and Digital Technologiess* (Edward Elgar Publishing 2020) <u>exact page</u>. |
+| 2 | Copyright and Artificial Intelligence. Part 2: Copyrightability | [Report](./C08ER02.pdf) | United States Copyright Office, ‘Copyright and Artificial Intelligence. Part 2: Copyrightability’ (United States Copyright Office 2025) <u>exact page</u>. |
+| 3 | The Death of the AI Author | [Journal Article](./C08ER03.pdf) | Carys Craig and Ian Kerr, ‘The Death of the AI Author’ (2020) 52 Ottawa Law Review 31, <u>exact page</u>. |
+| <span style="background:#C0C0C0">Recommended Reading</span> |
+| 1 | AI and Work in the Creative Industries: Digital Continuity or Discontinuity? | [Journal Article](./C08RR01.pdf) | Kristofer Erickson, ‘AI and Work in the Creative Industries: Digital Continuity or Discontinuity?’ [2024] Creative Industries Journal 1, <u>exact page</u>. |
+| 2 | The Prompt Artists | [Conference Paper](./C08RR02.pdf) | Minsuk Chang and others, ‘The Prompt Artists’ (15th Conference on Creativity and Cognition, Virtual Event, June 2023) <u>exact page</u>. |
+
+### 2.9 Seminar 9
+| 18 Mar \| Creators’ earnings and contracts |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** |
+| **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
+| <span style="background:#C0C0C0">Essential Reading</span> |
+| # | Title | Access | OSCOLA |
+| 1 | Contemporary Intellectual Property: Law and Policy (**ss. 6.27–6.52.**) | [Authored Book](./C09ER01.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
+| 2 | Contracts Between Art and Commerce | [Journal Article](./C09ER02.pdf) | Richard E. Caves, ‘Contracts Between Art and Commerce’ (2003) 17 Journal of Economic Perspectives 73, <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | Creators’ Earnings & Contracts Hub | [Website](<https://www.create.ac.uk/project/dealing-with-creators-project/2024/06/16/creators-hub/>) |
-| 2 | The Relationship Between Copyright and Contract Law | [Project Report](./C07RR02.pdf) | Martin Kretschmer and others, ‘The Relationship Between Copyright and Contract Law’ (Report No. 2010 (04), Strategic Advisory Board for Intellectual Property Policy 2010) <u>exact page</u>. |
+| 2 | The Relationship Between Copyright and Contract Law | [Project Report](./C09RR02.pdf) | Martin Kretschmer and others, ‘The Relationship Between Copyright and Contract Law’ (Report No. 2010 (04), Strategic Advisory Board for Intellectual Property Policy 2010) <u>exact page</u>. |
 | 3 | The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19 | [Website](<https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875>) | Ananay Aguilar, ‘The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19’ (*Kluwer Copyright Blog*, 15 July 2019) <https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875\> accessed <u>accessed date</u>. |
 
-### 2.8 Seminar 8
-| 4 March \| AI: Inputs and the licensing economy |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-|  |  |  |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-|  |  |  |
-
-### 2.9 Seminar 9
-| 11 Mar \| AI: Outputs and creativity |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| Research Handbook on Intellectual Property and Digital Technologies | [Contribution to Edited Book](./C09ER01.pdf) | Author(s), ‘Title’ in Tanya Aplin (ed), *Research Handbook on Intellectual Property and Digital Technologiess* (Edward Elgar Publishing 2020) <u>exact page</u>. |
-| Copyright and Artificial Intelligence. Part 2: Copyrightability | [Report](./C09ER02.pdf) | United States Copyright Office, ‘Copyright and Artificial Intelligence. Part 2: Copyrightability’ (United States Copyright Office 2025) <u>exact page</u>. |
-| The Death of the AI Author | [Journal Article](./C09ER03.pdf) | Carys Craig and Ian Kerr, ‘The Death of the AI Author’ (2020) 52 Ottawa Law Review 31, <u>exact page</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| AI and Work in the Creative Industries: Digital Continuity or Discontinuity? | [Journal Article](./C09RR01.pdf) | Kristofer Erickson, ‘AI and Work in the Creative Industries: Digital Continuity or Discontinuity?’ [2024] Creative Industries Journal 1, <u>exact page</u>. |
-| The Prompt Artists | [Conference Paper](./C09RR02.pdf) | Minsuk Chang and others, ‘The Prompt Artists’ (15th Conference on Creativity and Cognition, Virtual Event, June 2023) <u>exact page</u>. |
-
 ### 2.10 Seminar 10
-| 18 Mar \| Revision |  |
+| 25 Mar \| Revision |  |
 | ---- | ---- |
 | **PPT** |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
