@@ -211,34 +211,34 @@ There are **no extensions!**
 | 2 | But How Do AI Images and Videos Actually Work? | [Website](<https://www.3blue1brown.com/?v=diffusion-models>) |
 
 ### 2.8 Seminar 8
-| Seminar 8 AI lifecycle |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
+| Seminar 8 AI lifecycle |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 8](./Seminar%208.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-| Title | Access | OSCOLA |
-| AI Governance: Themes, Knowledge Gaps and Future Agendas (**Please note, you only need to read pp.133–154**) | [Journal Article](./AI08ER01.pdf) | Teemu Birkstedt and others, ‘AI Governance: Themes, Knowledge Gaps and Future Agendas’ (2023) 33 Internet Research 133, <u>exact page</u>. |
-| AI Regulation Is (Not) All You Need | [Conference Paper](./AI08ER02.pdf) | Laura Lucaj, Patrick van der Smagt, and Djalel Benbouzid, ‘AI Regulation Is (Not) All You Need’ (2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago, June 2023) <u>exact page</u>.|
-| Defining Organizational AI Governance | [Journal Article](./AI08ER03.pdf) | Matti Mäntymäki and others, ‘Defining Organizational AI Governancet’ (2022) 2 AI and Ethics 603, <u>exact page</u>. |
-| Discerning Between the “Easy” and “Hard” Problems of AI Governance | [Journal Article](./AI08ER04.pdf) | Matti Minkkinen and Matti Mäntymäki, ‘Discerning Between the “Easy” and “Hard” Problems of AI Governance’ (2023) 4 Transactions on Technology and Society 188, <u>exact page</u>. |
-| An Artificial Intelligence Life Cycle: From Conception to Production | [Journal Article](./AI08ER05.pdf) | Daswin De Silva and Damminda Alahakoon, ‘An Artificial Intelligence Life Cycle: From Conception to Productiont’ (2022) 3 Patterns 1, <u>exact page</u>. |
-| Stakeholder Roles in Artificial Intelligence Projects | [Journal Article](./AI08ER06.pdf) | Gloria J. Miller, ‘Stakeholder Roles in Artificial Intelligence Projects’ (2022) 3 Project Leadership and Society 1, <u>exact page</u>. |
-| Harmonising Innovation and Governance: A Lifecycle Model for High-Risk AI Systems Under the European AI Act | [Conference Paper](./AI08ER07.pdf) | Carolin Gotsch and Jörg Puchan, ‘Harmonising Innovation and Governance: A Lifecycle Model for High-Risk AI Systems Under the European AI Act’ (AKWI Jahrestagung 2024, Landshut, September 2024) <u>exact page</u>. |
-| The Importance of AI Governance | [Video](<https://www.youtube.com/watch?v=Q020C-Jw0o8>) |
-| Data Governance vs. Model Governance: Building a Strong Foundation for AI | [Video](<https://www.youtube.com/watch?v=Ixt-4T6oxk4>) |
-| AI Life Cycle | [Video](<https://www.youtube.com/watch?v=9_LtCH6AnNw>) |
+| # | Title | Access | OSCOLA |
+| 1 | AI Governance: Themes, Knowledge Gaps and Future Agendas (**Please note, you only need to read pp.133–154**) | [Journal Article](./AI08ER01.pdf) | Teemu Birkstedt and others, ‘AI Governance: Themes, Knowledge Gaps and Future Agendas’ (2023) 33 Internet Research 133, <u>exact page</u>. |
+| 2 | AI Regulation Is (Not) All You Need | [Conference Paper](./AI08ER02.pdf) | Laura Lucaj, Patrick van der Smagt, and Djalel Benbouzid, ‘AI Regulation Is (Not) All You Need’ (2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago, June 2023) <u>exact page</u>.|
+| 3 | Defining Organizational AI Governance | [Journal Article](./AI08ER03.pdf) | Matti Mäntymäki and others, ‘Defining Organizational AI Governancet’ (2022) 2 AI and Ethics 603, <u>exact page</u>. |
+| 4 | Discerning Between the “Easy” and “Hard” Problems of AI Governance | [Journal Article](./AI08ER04.pdf) | Matti Minkkinen and Matti Mäntymäki, ‘Discerning Between the “Easy” and “Hard” Problems of AI Governance’ (2023) 4 Transactions on Technology and Society 188, <u>exact page</u>. |
+| 5 | An Artificial Intelligence Life Cycle: From Conception to Production | [Journal Article](./AI08ER05.pdf) | Daswin De Silva and Damminda Alahakoon, ‘An Artificial Intelligence Life Cycle: From Conception to Productiont’ (2022) 3 Patterns 1, <u>exact page</u>. |
+| 6 | Stakeholder Roles in Artificial Intelligence Projects | [Journal Article](./AI08ER06.pdf) | Gloria J. Miller, ‘Stakeholder Roles in Artificial Intelligence Projects’ (2022) 3 Project Leadership and Society 1, <u>exact page</u>. |
+| 7 | Harmonising Innovation and Governance: A Lifecycle Model for High-Risk AI Systems Under the European AI Act | [Conference Paper](./AI08ER07.pdf) | Carolin Gotsch and Jörg Puchan, ‘Harmonising Innovation and Governance: A Lifecycle Model for High-Risk AI Systems Under the European AI Act’ (AKWI Jahrestagung 2024, Landshut, September 2024) <u>exact page</u>. |
+| 8 | The Importance of AI Governance | [Video](<https://www.youtube.com/watch?v=Q020C-Jw0o8>) |
+| 9 | Data Governance vs. Model Governance: Building a Strong Foundation for AI | [Video](<https://www.youtube.com/watch?v=Ixt-4T6oxk4>) |
+| 10 | AI Life Cycle | [Video](<https://www.youtube.com/watch?v=9_LtCH6AnNw>) |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| Title | Access | OSCOLA |
-| Principles for Responsible AI Innovation | [Website](<https://www.ai-lawenforcement.org/guidance/principles>) | AI-POL, ‘Principles for Responsible AI Innovation’ (*AI-POL*) <https://www.ai-lawenforcement.org/guidance/principles\> accessed <u>accessed date</u>. |
-| Governing AI for Humanity: Final Report | [Report](./AI08RR02.pdf) | UN. Advisory Body on Artificial Intelligence, ‘Governing AI for Humanity’ (UN 2024) <u>exact page</u>. |
-| Artificial Intelligence (AI) End-to-End: The Environmental Impact of the Full AI Lifecycle Needs to Be Comprehensively Assessed | [Report](./AI08RR03.pdf) | United Nations Environment Programme, ‘Artificial Intelligence (AI) End-to-End: The Environmental Impact of the Full AI Lifecycle Needs to Be Comprehensively Assessed’ (UN 2024) <u>exact page</u>. |
-| Artificial Intelligence Governance And Auditing | [Website](<https://ai-governance.eu/about-aiga/>) | The AI Governance Framework, ‘Artificial Intelligence Governance And Auditing’ (*The AI Governance Framework*) <https://ai-governance.eu/about-aiga/\> accessed <u>accessed date</u>. |
-| AI Actors and the Landscape of AI Regulation | [Authored Book](./AI08RR05.pdf) | Mark Chinen, *The International Governance of Artificial Intelligence* (Edward Elgar Publishing 2023) <u>exact page</u>. |
-| AI Developers, Associations, and the Academic Community | [Authored Book](./AI08RR06.pdf) | Mark Chinen, *The International Governance of Artificial Intelligence* (Edward Elgar Publishing 2023) <u>exact page</u>. |
-| Exploring Organizational AI Governance Maturity: A Case Study with Six Multinational Companies | [Conference Paper](./AI08RR07.pdf) | Eva Gengler and Kian Schmalenbach, ‘Exploring Organizational AI Governance Maturity: A Case Study with Six Multinational Companies’ (ICIS 2024, Bangkok, December 2024) <u>exact page</u>. |
-| When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence | [Journal Article](./AI03RR03.pdf) | Brian Judge, Mark Nitzberg, and Stuart Russell, ‘When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence’ (2025) 44 Policy and Society 85, <u>exact page</u>. |
-| AI Life Cycle Core Principles | [Website](<https://law.stanford.edu/2023/03/17/ai-life-cycle-core-principles/>) | Eran Kahana, ‘AI Life Cycle Core Principles’ (*Stanford Law School*, 17 March 2023) <https://law.stanford.edu/2023/03/17/ai-life-cycle-core-principles/\> accessed <u>accessed date</u>. |
-| Artificial Intelligence Risk Management Framework (AI RMF 1.0) | [Report](./AI08RR10.pdf) | National Institute of Standards and Technology, ‘Artificial Intelligence Risk Management Framework’ (Report No. NIST AI 100-1, National Institute of Standards and Technology 2023) <u>exact page</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | Principles for Responsible AI Innovation | [Website](<https://www.ai-lawenforcement.org/guidance/principles>) | AI-POL, ‘Principles for Responsible AI Innovation’ (*AI-POL*) <https://www.ai-lawenforcement.org/guidance/principles\> accessed <u>accessed date</u>. |
+| 2 | Governing AI for Humanity: Final Report | [Report](./AI08RR02.pdf) | UN. Advisory Body on Artificial Intelligence, ‘Governing AI for Humanity’ (UN 2024) <u>exact page</u>. |
+| 3 | Artificial Intelligence (AI) End-to-End: The Environmental Impact of the Full AI Lifecycle Needs to Be Comprehensively Assessed | [Report](./AI08RR03.pdf) | United Nations Environment Programme, ‘Artificial Intelligence (AI) End-to-End: The Environmental Impact of the Full AI Lifecycle Needs to Be Comprehensively Assessed’ (UN 2024) <u>exact page</u>. |
+| 4 | Artificial Intelligence Governance And Auditing | [Website](<https://ai-governance.eu/about-aiga/>) | The AI Governance Framework, ‘Artificial Intelligence Governance And Auditing’ (*The AI Governance Framework*) <https://ai-governance.eu/about-aiga/\> accessed <u>accessed date</u>. |
+| 5 | AI Actors and the Landscape of AI Regulation | [Authored Book](./AI08RR05.pdf) | Mark Chinen, *The International Governance of Artificial Intelligence* (Edward Elgar Publishing 2023) <u>exact page</u>. |
+| 6 | AI Developers, Associations, and the Academic Community | [Authored Book](./AI08RR06.pdf) | Mark Chinen, *The International Governance of Artificial Intelligence* (Edward Elgar Publishing 2023) <u>exact page</u>. |
+| 7 | Exploring Organizational AI Governance Maturity: A Case Study with Six Multinational Companies | [Conference Paper](./AI08RR07.pdf) | Eva Gengler and Kian Schmalenbach, ‘Exploring Organizational AI Governance Maturity: A Case Study with Six Multinational Companies’ (ICIS 2024, Bangkok, December 2024) <u>exact page</u>. |
+| 8 | When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence | [Journal Article](./AI03RR03.pdf) | Brian Judge, Mark Nitzberg, and Stuart Russell, ‘When Code Isn’t Law: Rethinking Regulation for Artificial Intelligence’ (2025) 44 Policy and Society 85, <u>exact page</u>. |
+| 9 | AI Life Cycle Core Principles | [Website](<https://law.stanford.edu/2023/03/17/ai-life-cycle-core-principles/>) | Eran Kahana, ‘AI Life Cycle Core Principles’ (*Stanford Law School*, 17 March 2023) <https://law.stanford.edu/2023/03/17/ai-life-cycle-core-principles/\> accessed <u>accessed date</u>. |
+| 10 | Artificial Intelligence Risk Management Framework | [Report](./AI08RR10.pdf) | National Institute of Standards and Technology, ‘Artificial Intelligence Risk Management Framework’ (Report No. NIST AI 100-1, National Institute of Standards and Technology 2023) <u>exact page</u>. |
 
 ### 2.9 Seminar 9
 | Seminar 9 AI value chains |  |  |
