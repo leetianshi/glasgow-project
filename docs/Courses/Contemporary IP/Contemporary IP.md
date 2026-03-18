@@ -203,13 +203,24 @@ April/May exam diet
 | 1 | Open Licensing Models in the Cultural Heritage Sector | [Report](./CI08RR01.pdf) | Bartolomeo Meletti and others, ‘Open Licensing Models in the Cultural Heritage Sector’ (Zonodo 2025) <u>exact page</u>. |
 
 ### 2.9 Seminar 9
-| 9: NFTs, blockchain and virtual goods |  |  |
-| ---- | ---- | ---- |
+| 9: NFTs, blockchain and virtual goods |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 9](./Seminar%209.pptx) |
+| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
+| <span style="background:#C0C0C0">Essential Reading</span> |
+| # | Title | Access | OSCOLA |
+| 1 | The Treachery of Images: Non-Fungible Tokens and Copyright | [Journal Article](./CI09ER01.pdf) | Andres Guadamuz, ‘The Treachery of Images: Non-Fungible Tokens and Copyright’ (2021) 16 Journal of Intellectual Property Law & Practice 1367, <u>exact page</u>. |
+| 2 | Creation and Competition in the Metaverse | [Journal Article](./CI09ER02.pdf) | Friso Bostoen, ‘Creation and Competition in the Metaverse’ (2025) 8 Interactive Entertainment and Law Review 102, <u>exact page</u>. |
+
+### 2.10 Seminar 10
+| 10: Traditional knowledge |  |  |  |
+| ---- | ---- | ---- | ---- |
 | **PPT** |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-| Title | Access | OSCOLA |
-| The Treachery of Images: Non-Fungible Tokens and Copyright | [Journal Article](./CI09ER01.pdf) | Andres Guadamuz, ‘The Treachery of Images: Non-Fungible Tokens and Copyright’ (2021) 16 Journal of Intellectual Property Law & Practice 1367, <u>exact page</u>. |
-| Creation and Competition in the Metaverse | [Journal Article](./CI09ER02.pdf) | Friso Bostoen, ‘Creation and Competition in the Metaverse’ (2025) 8 Interactive Entertainment and Law Review 102, <u>exact page</u>. |
-
-### 2.10 Seminar 10
+| # | Title | Access | OSCOLA |
+| 1 | Why Is Traditional Knowledge Different from All Other Intellectual Property? | [Journal Article](./CI10ER01.pdf) | William Fisher, ‘Why Is Traditional Knowledge Different from All Other Intellectual Property?’ (2019) 58 Washburn Law Journal 365, <u>exact page</u>. |
+| 2 | Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions | [Report](./CI10ER02.pdf) | WIPO, ‘Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions’ (WIPO 2020) <u>exact page</u>. |
+| 3 | Navigating Traditional Knowledge and IP — “The Adventures of the Yakuanoi” | [Website](<https://www.wipo.int/tk/en/tk/yakuanoi.html>) |
+| <span style="background:#C0C0C0">Recommended Reading</span> |
+| 1 | Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions | [Website](<https://www.wipo.int/en/web/traditional-knowledge>) |
