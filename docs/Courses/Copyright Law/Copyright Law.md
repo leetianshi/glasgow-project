@@ -166,7 +166,7 @@
 ### 2.9 Seminar 9
 | 18 Mar \| Creators’ earnings and contracts |  |  |  |
 | ---- | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 9](./Seminar%209.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |

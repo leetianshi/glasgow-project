@@ -241,27 +241,27 @@ There are **no extensions!**
 | 10 | Artificial Intelligence Risk Management Framework | [Report](./AI08RR10.pdf) | National Institute of Standards and Technology, ‘Artificial Intelligence Risk Management Framework’ (Report No. NIST AI 100-1, National Institute of Standards and Technology 2023) <u>exact page</u>. |
 
 ### 2.9 Seminar 9
-| Seminar 9 AI value chains |  |  |
-| ---- | ---- | ---- |
-| **PPT** |
+| Seminar 9 AI value chains |  |  |  |
+| ---- | ---- | ---- | ---- |
+| **PPT** | [Seminar 9](./Seminar%209.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/9154C59E-126F-1898-2283-36B7CF5DB5E1.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
-| Title | Access | OSCOLA |
-| Understanding Accountability in Algorithmic Supply Chains | [Conference Paper](./AI09ER01.pdf) | Jennifer Cobbe, Michael Veale, and Jatinder Singh, ‘Understanding Accountability in Algorithmic Supply Chains’ (2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago, June 2023) <u>exact page</u>. |
-| Reconciling the AI Value Chain with the EU’s Artificial Intelligence Act | [Report](./AI09ER02.pdf) | Alex C. Engler and Andrea Renda, ‘Reconciling the AI Value Chain with the EU’s Artificial Intelligence Act’ (CEPS 2022) <u>exact page</u>. |
-| Exploring Opportunities in the Generative AI Value Chain | [Website](<https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain>) | Tobias Härlin and others, ‘Exploring Opportunities in the Generative AI Value Chain’ (*QuantumBlack*, 26 April 2023) <https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain\> accessed <u>accessed date</u>. |
-| The AI Tech-Stack Model | [Journal Article](./AI09ER04.pdf) | Rua-Huan Tsaih and others, ‘The AI Tech-Stack Model’ (2023) 66 Communications of the ACM 69, <u>exact page</u>. |
-| Product Liability Law and AI: Revival or Death of Product Liability Law | [Contributions to Edited Book](./AI09ER05.pdf) | Vibe Ulfbeck, ‘Product Liability Law and AI: Revival or Death of Product Liability Law’ in Ernest Lim and Phillip Morgan (eds), *The Cambridge Handbook of Private Law and Artificial Intelligence* (Cambridge University Press 2024) <u>exact page</u>. |
-| Dislocated Accountabilities in the “AI Supply Chain”: Modularity and Developers’ Notions of Responsibility | [Journal Article](./AI09ER06.pdf) | David Gray Widder and Dawn Nafus, ‘Dislocated Accountabilities in the “AI Supply Chain”: Modularity and Developers’ Notions of Responsibility’ (2023) 10 Big Data & Society 1, <u>exact page</u>. |
-| Constructing an AI Value Chain and Ecosystem Model | [Video](<https://www.youtube.com/watch?v=g2qRWaVhedI>) |
-| The Global Value Chain of Artificial Intelligence (AI) | [Video](<https://www.youtube.com/watch?v=7dyZLmvKwLw>) |
+| # | Title | Access | OSCOLA |
+| 1 | Understanding Accountability in Algorithmic Supply Chains | [Conference Paper](./AI09ER01.pdf) | Jennifer Cobbe, Michael Veale, and Jatinder Singh, ‘Understanding Accountability in Algorithmic Supply Chains’ (2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago, June 2023) <u>exact page</u>. |
+| 2 | Reconciling the AI Value Chain with the EU’s Artificial Intelligence Act | [Report](./AI09ER02.pdf) | Alex C. Engler and Andrea Renda, ‘Reconciling the AI Value Chain with the EU’s Artificial Intelligence Act’ (CEPS 2022) <u>exact page</u>. |
+| 3 | Exploring Opportunities in the Generative AI Value Chain | [Website](<https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain>) | Tobias Härlin and others, ‘Exploring Opportunities in the Generative AI Value Chain’ (*QuantumBlack*, 26 April 2023) <https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain\> accessed <u>accessed date</u>. |
+| 4 | The AI Tech-Stack Model: Management and Technology Challenges of AI-enabled Application Projects | [Journal Article](./AI09ER04.pdf) | Rua-Huan Tsaih and others, ‘The AI Tech-Stack Model’ (2023) 66 Communications of the ACM 69, <u>exact page</u>. |
+| 5 | Product Liability Law and AI: Revival or Death of Product Liability Law | [Contributions to Edited Book](./AI09ER05.pdf) | Vibe Ulfbeck, ‘Product Liability Law and AI: Revival or Death of Product Liability Law’ in Ernest Lim and Phillip Morgan (eds), *The Cambridge Handbook of Private Law and Artificial Intelligence* (Cambridge University Press 2024) <u>exact page</u>. |
+| 6 | Dislocated Accountabilities in the “AI Supply Chain”: Modularity and Developers’ Notions of Responsibility | [Journal Article](./AI09ER06.pdf) | David Gray Widder and Dawn Nafus, ‘Dislocated Accountabilities in the “AI Supply Chain”: Modularity and Developers’ Notions of Responsibility’ (2023) 10 Big Data & Society 1, <u>exact page</u>. |
+| 7 | Constructing an AI Value Chain and Ecosystem Model | [Video](<https://www.youtube.com/watch?v=g2qRWaVhedI>) |
+| 8 | The Global Value Chain of Artificial Intelligence (AI) | [Video](<https://www.youtube.com/watch?v=7dyZLmvKwLw>) |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| Title | Access | OSCOLA |
-| The Ethics of AI Value Chains | [Working Paper](./AI09RR01.pdf) | Blair Attard-Frost and David Gray Widder, ‘The Ethics of AI Value Chains’ (2024) arXiv:2307.16787, <u>exact page</u> <https://arxiv.org/abs/2307.16787\> accessed <u>accessed date</u>. |
-| Constructing an AI Value Chain and Ecosystem Model | [Working Paper](./AI09RR02.pdf) | Richard Heeks and Paul Spiesberger, ‘Constructing an AI Value Chain and Ecosystem Model’ (2024) Manchester Centre for Digital Development Working Paper 109, <u>exact page</u> <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960510\> accessed <u>accessed date</u>. |
-| Allocating Accountability in AI Supply Chains: A UK-Centred Regulatory Perspective | [Expert Explainer](./AI09RR03.pdf) | Ian Brown, ‘Allocating Accountability in AI Supply Chains: A UK-Centred Regulatory Perspective’ (Ada Lovelace Institute 2023) <u>exact page</u>. |
-| Artificial Intelligence, Data and Competition — Background Note | [OECD Document](./AI09RR04.pdf) | OECD Secretariat, ‘Artificial Intelligence, Data and Competition — Background Note’ (Doc No. DAF/COMP(2024)2, OECD 2024) <u>exact page</u>. |
-| Diving Deep into the AI Value Chain | [Website](<https://www.nasdaq.com/articles/diving-deep-into-the-ai-value-chain>) | SPEAR Invest, ‘Diving Deep into the AI Value Chain’ (*Nasdaq*, 18 December 2023) <https://www.nasdaq.com/articles/diving-deep-into-the-ai-value-chain\> accessed <u>accessed date</u>. |
+| # | Title | Access | OSCOLA |
+| 1 | The Ethics of AI Value Chains | [Working Paper](./AI09RR01.pdf) | Blair Attard-Frost and David Gray Widder, ‘The Ethics of AI Value Chains’ (2024) arXiv:2307.16787, <u>exact page</u> <https://arxiv.org/abs/2307.16787\> accessed <u>accessed date</u>. |
+| 2 | Constructing an AI Value Chain and Ecosystem Model | [Working Paper](./AI09RR02.pdf) | Richard Heeks and Paul Spiesberger, ‘Constructing an AI Value Chain and Ecosystem Model’ (2024) Manchester Centre for Digital Development Working Paper 109, <u>exact page</u> <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960510\> accessed <u>accessed date</u>. |
+| 3 | Allocating Accountability in AI Supply Chains: A UK-Centred Regulatory Perspective | [Expert Explainer](./AI09RR03.pdf) | Ian Brown, ‘Allocating Accountability in AI Supply Chains: A UK-Centred Regulatory Perspective’ (Ada Lovelace Institute 2023) <u>exact page</u>. |
+| 4 | Artificial Intelligence, Data and Competition — Background Note | [OECD Document](./AI09RR04.pdf) | OECD Secretariat, ‘Artificial Intelligence, Data and Competition — Background Note’ (Doc No. DAF/COMP(2024)2, OECD 2024) <u>exact page</u>. |
+| 5 | Diving Deep into the AI Value Chain | [Website](<https://www.nasdaq.com/articles/diving-deep-into-the-ai-value-chain>) | SPEAR Invest, ‘Diving Deep into the AI Value Chain’ (*Nasdaq*, 18 December 2023) <https://www.nasdaq.com/articles/diving-deep-into-the-ai-value-chain\> accessed <u>accessed date</u>. |
 
 ### 2.10 Seminar 10
 | Seminar 10 Artificial intelligence technology as a tool of governance |  |  |
