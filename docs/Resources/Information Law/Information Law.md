@@ -1,40 +1,6 @@
-# Dissertation
-## 1. Clarifying the Timeline
-### 1.1 Materials
-[LLM Dissertation Student Guidelines 2025-26](./LLM%20Dissertation%20Student%20Guidelines%202025-26.pdf)
-
-[LLM Dissertation Info Session- 13 Nov 2025- Ordinary Dissertation Slides](./LLM%20Dissertation%20Info%20Session-%2013%20Nov%202025-%20Ordinary%20Dissertation%20Slides.pptx)
-
-## 2. Choosing Topic
-### 2.1 Materials
-[Dissertation workshop](./Dissertation%20workshop.pdf)
-
-[LLM Outstanding Dissertations](<https://www.create.ac.uk/create-publications/llm-dissertation-examples/>)
-
-### 2.2 My Topics
-(1) Area of Law <br>
-Information Law
-
-(2) Primary Choice <br>
-**Provisional title**: Contextual Assessment in EU Hate Speech Moderation: Legal Requirements, Implementation, and Legitimacy Risks <br>
-**Research question**: This dissertation will analyse whether EU law requires online platforms—and, if so, to what extent—to conduct a contextual assessment when moderating hate speech, and identify the legal sources of any such requirement. It will further explore how contextual assessment could be implemented in large-scale content moderation and evaluate the legitimacy risks that such implementation may generate.
-
-(3) Secondary Choice <br>
-**Provisional title**: Meaningful Human Involvement Beyond “Solely Automated” Decision-Making: Formal vs Substantive Standards and Regulatory Detection of Token Review <br>
-**Research question**: This dissertation will examine what constitutes meaningful human involvement such that a decision cannot be regarded as solely automated, and consider whether the relevant standard should be assessed on a formal or substantive basis. It will also explore how organisations may design processes that merely appear to involve human review, and how regulators can detect, scrutinise, and challenge such practices effectively.
-
-## 3. Useful Readings
-### 3.1 Materials
-[Academic Prasebank](../../Resources/Academic%20Phrasebank.pdf) (Defining Terms p.106–p.110)
-
-[Writing Law Dissertations: An Introduction and Guide to the Conduct of Legal Research](../../Courses/Copyright%20Law/C10RR01.pdf)
-
-[Research Methods in Law](../../Resources/Research%20Methods%20in%20Law.pdf)
-
-[英文论文里横线破折号标准格式用法](<https://www.bilibili.com/opus/497866870876401599>)
-
-### 3.2 Information Law and Policy
-#### 3.2.1 Seminar 1
+# Information Law
+## 1. PPT & Reading List
+### 1.1 Seminar 1
 | 1. Introduction \| Key concepts |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -63,7 +29,7 @@ Information Law
 |  | Surveillance | [Journal Article](./IL01RR20.pdf) | David Lyon, ‘Surveillance’ (2022) 11 Internet Policy Review 1, <u>exact page</u>. |
 |  | Transparency in Artificial Intelligence | [Journal Article](./IL01RR21.pdf) | Stefan Larsson and Fredrik Heintz, ‘Transparency in Artificial Intelligence’ (2020) 9 Internet Policy Review 1, <u>exact page</u>. |
 
-#### 3.2.2 Seminar 2
+### 1.2 Seminar 2
 | 2. Internet and platform governance |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -87,7 +53,7 @@ Information Law
 | 7 | Net Neutrality: This is serious | [Website](<https://web.archive.org/web/20060703142912/http://dig.csail.mit.edu/breadcrumbs/node/144>) | Tim Berners-Lee, ‘Net Neutrality: This is serious’ (*Decentralized Information Group*, 21 June 2006) <https://web.archive.org/web/20060703142912/http://dig.csail.mit.edu/breadcrumbs/node/144\> accessed <u>accessed date</u>. |
 | 8 | Models of Internet Governance | [Contribution to Edited Book]() | Lawrence B. Solum, ‘Models of Internet Governance’ in Lee A. Bygrave and Jon Bing (eds), *Internet Governance: Infrastructure and Institutions* (Oxford University Press 2009) <u>exact page</u>. |
 
-#### 3.2.3 Seminar 3
+### 1.3 Seminar 3
 | 3. Online Intermediaries I: Liability for Online Content |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -115,7 +81,7 @@ Information Law
 | 9 | The Twenty-Six Words That Created the Internet | [Authored Book](./IL03RR09.pdf) | Jeff Kosseff, *The Twenty-Six Words That Created the Internet* (Cornell University Press 2019) <u>exact page</u>. |
 | 10 | Lumen | [Website](<https://lumendatabase.org/>) |
 
-#### 3.2.4 Seminar 4
+### 1.4 Seminar 4
 | 4. Online Intermediaries II: Freedom of expression and Content Moderation |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -150,7 +116,7 @@ Information Law
 | 7 | Joint Declarations **⤵** | [Website](<https://rfom.osce.org/fom/66176>) |
 |  | Joint Declaration on Freedom of Expression and the Internet | [Joint Declaration](./IL04FR07.pdf) | Frank LaRue and others, ‘Joint Declaration on Freedom of Expression and the Internet’ (Organization for Security and Co-operation in Europe 2011). |
 
-#### 3.2.5 Seminar 5
+### 1.5 Seminar 5
 | 5. Open Knowledge |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -169,7 +135,7 @@ Information Law
 | 6 | Data Cartels: The Companies That Control and Monopolize Our Information | [Authored Book](./IL05RR05.pdf) | Sarah Lamdan, *Data Cartels: The Companies That Control and Monopolize Our Information* (Stanford University Press 2023) <u>exact page</u>. |
 | 7 | Read-and-Publish Open Access Deals Are Heightening Global Inequalities in Access to Publication | [Website](<https://blogs.lse.ac.uk/impactofsocialsciences/2020/02/21/read-and-publish-open-access-deals-are-heightening-global-inequalities-in-access-to-publication/>) | Jefferson Pooley, ‘Read-and-Publish Open Access Deals Are Heightening Global Inequalities in Access to Publication’ (*LSE Blogs*, 21 February 2020) <https://blogs.lse.ac.uk/impactofsocialsciences/2020/02/21/read-and-publish-open-access-deals-are-heightening-global-inequalities-in-access-to-publication/\> accessed <u>accessed date</u>. |
 
-#### 3.2.6 Seminar 6
+### 1.6 Seminar 6
 | 6. Online Intermediaries III: transparency and accountability |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -199,7 +165,7 @@ Information Law
 | 4 | Researchers’ Access to Information From Regulated Services: Presented to Parliament Pursuant to Section 162(5) of the Online Safety Act 2023 | [Report](./IL06FR04.pdf) | Ofcom, ‘Researchers’ Access to Information From Regulated Services: Presented to Parliament Pursuant to Section 162(5) of the Online Safety Act 2023’ (GOV.UK 2025) <u>exact page</u>. |
 | 5 | Commission Publishes Guidelines on the Protection of Minors | [Website](<https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-protection-minors>) |
 
-#### 3.2.7 Seminar 7
+### 1.7 Seminar 7
 | 7. Foundations of data protection: principles and legal framework |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -218,7 +184,7 @@ Information Law
 | 5 | Law and the Internet: A Foundation for Electronic Commerce (**Only Chapter 3: Privacy and Data Protection 1**) | [Contribution to Edited Book](./IL07RR05.pdf) | Lilian Edwards, ‘Privacy and Data Protection Online: The Laws Don’t Work?’ in Lilian Edwards and Charlotte Waelde (eds), *Law and the Internet: A Foundation for Electronic Commerce* (3rd edn, Hart Publishing 2009) <u>exact page</u>. |
 | 6 | The Distinction Between Privacy and Data Protection in the Jurisprudence of the CJEU and the ECtHR | [Journal Article](./IL07RR06.pdf) | Juliane Kokott and Christoph Sobotta, ‘The Distinction Between Privacy and Data Protection in the Jurisprudence of the CJEU and the ECtHR’ (2013) 3 International Data Privacy Law 222, <u>exact page</u>. |
 
-#### 3.2.8 Seminar 8
+### 1.8 Seminar 8
 | 8. Data Protection in the digital era: regulating algorithms and automated decision making |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -234,7 +200,7 @@ Information Law
 | # | Title | Access | OSCOLA |
 | 1 | Slave to the Algorithm? Why a ‘Right to an Explanation’ Is Probably Not the Remedy You Are Looking For | [Journal Article](./IL08RR01.pdf) |  Lilian Edwards and Michael Veale, ‘Slave to the Algorithm? Why a ‘Right to an Explanation’ Is Probably Not the Remedy You Are Looking For’ (2017) 16 Duke Law & Technology Review 18, <u>exact page</u>. |
 
-#### 3.2.9 Seminar 9
+### 1.9 Seminar 9
 | 9. Dark Patterns |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |
@@ -258,7 +224,7 @@ Information Law
 | 5 | Illuminating Manipulative Design: From “Dark Patterns” to Information Asymmetry and the Repression of Free Choice under the Unfair Commercial Practices Directive | [Journal Article](./IL09RR05.pdf) | Wen-Ting Yang and Mark Leiser, ‘Illuminating Manipulative Design: From “Dark Patterns” to Information Asymmetry and the Repression of Free Choice under the Unfair Commercial Practices Directive’ (2022) 34 Loyola Consumer Law Review 484, <u>exact page</u>. |
 | 6 | Dark Patterns, Enforcement, and the Emerging Digital Design *Acquis*: Manipulation beneath the Interface | [Journal Article](./IL09RR06.pdf) | Mark Leiser and Cristiana Santos, ‘Dark Patterns, Enforcement, and the Emerging Digital Design *Acquis*: Manipulation beneath the Interface’ (2024) 15 European Journal of Law and Technology. |
 
-#### 3.2.10 Seminar 10
+### 1.10 Seminar 10
 | 10. Platform Regulation and AI – AI chatbots as online search engines? |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/B93A6B50-95A1-0F18-D147-6C6B22FEF468.html?lang=en-GB> |

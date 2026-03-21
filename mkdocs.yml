@@ -32,18 +32,18 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  
-  - Courses:
-    - AI Law: Courses/AI Law/AI Law.md
-    - Copyright Law: Courses/Copyright Law/Copyright Law.md
-    - Contemporary IP: Courses/Contemporary IP/Contemporary IP.md
-    - Dissertation: Courses/Dissertation/Dissertation.md
-  
-  - Resources:
-    - OSCOLA 4th Edition: Resources/OSCOLA 4th Edition.md
-    - Others: Resources/Others.md
 
-  - Deadlines: Deadlines/Deadlines.md
+  - Resources:
+    - AI Law: Resources/AI Law/AI Law.md
+    - Contemporary IP: Resources/Contemporary IP/Contemporary IP.md
+    - Copyright Law: Resources/Copyright Law/Copyright Law.md
+    - Information Law: Resources/Information Law/Information Law.md
+    - Investment Law: Resources/Investment Law/Investment Law.md
+    - OSCOLA: Resources/OSCOLA.md
+    - Websites and Files: Resources/Websites and Files.md
+    - Deadlines: Resources/Deadlines.md
+  
+  - Dissertation: Dissertation/Dissertation.md
 
 plugins:
   - search

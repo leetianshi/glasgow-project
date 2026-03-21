@@ -173,7 +173,7 @@
   }
 </style>
 
-# OSCOLA 4th Edition
+# OSCOLA
 ## 1. Footnote: Frequently Referenced Items
 ### 1.1 Parts of Statutes
 | Full Form | Abbreviation |
