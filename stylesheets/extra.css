@@ -76,3 +76,19 @@
 .md-content a:hover {
   color: #63B3ED;
 }
+
+.oscola-separator {
+  position: relative;
+  margin-top: 10px;
+  padding-top: 14px;
+}
+
+.oscola-separator::before {
+  content: "";
+  position: absolute;
+  top: -6px;
+  left: 0;          /* 控制横线起点 */
+  width: 65%;      /* 控制横线长度 */
+  height: 1px;
+  background: #d9d9d9;
+}

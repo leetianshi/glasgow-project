@@ -29,3 +29,21 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
+document.addEventListener("DOMContentLoaded", addOscolaSeparator);
+document.addEventListener("pjax:complete", addOscolaSeparator);
+
+function addOscolaSeparator() {
+  // 找所有左侧导航链接
+  const links = document.querySelectorAll(".md-nav__link, .md-sidebar a");
+
+  links.forEach((link) => {
+    const text = link.textContent.trim();
+    if (text === "OSCOLA") {
+      const item = link.closest(".md-nav__item, li");
+      if (item) {
+        item.classList.add("oscola-separator");
+      }
+    }
+  });
+}
