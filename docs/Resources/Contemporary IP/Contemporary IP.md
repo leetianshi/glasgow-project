@@ -215,7 +215,7 @@ April/May exam diet
 ### 2.10 Seminar 10
 | 10: Traditional knowledge |  |  |  |
 | ---- | ---- | ---- | ---- |
-| **PPT** |
+| **PPT** | [Seminar 10](./Seminar%2010.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |

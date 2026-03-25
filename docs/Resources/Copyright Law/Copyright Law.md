@@ -179,10 +179,11 @@
 | 3 | The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19 | [Website](<https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875>) | Ananay Aguilar, ‘The New Copyright Directive: Fair Remuneration in Exploitation Contracts of Authors and Performers — Part 1, Articles 18 and 19’ (*Kluwer Copyright Blog*, 15 July 2019) <https://legalblogs.wolterskluwer.com/copyright-blog/the-new-copyright-directive-fair-remuneration-in-exploitation-contracts-of-authors-and-performers-part-1-articles-18-and-19/?doing_wp_cron=1563207253.8664081096649169921875\> accessed <u>accessed date</u>. |
 
 ### 2.10 Seminar 10
-| 25 Mar \| Revision |  |
-| ---- | ---- |
-| **PPT** |
+| 25 Mar \| Revision |  |  |
+| ---- | ---- | ---- |
+| **PPT** | [Seminar 10](./Seminar%2010.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/2C281D55-2D56-4769-5013-5D649ADA5E36.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
-| Writing Law Dissertations: An Introduction and Guide to the Conduct of Legal Research | [Access](./C10RR01.pdf) |
-| The Ultimate Cheatsheet for Critical Thinking | [Access](./C10RR02.pdf) |
+| # | Title | Access |
+| 1 | Writing Law Dissertations: An Introduction and Guide to the Conduct of Legal Research | [Access](./C10RR01.pdf) |
+| 2 | The Ultimate Cheatsheet for Critical Thinking | [Access](./C10RR02.pdf) |
