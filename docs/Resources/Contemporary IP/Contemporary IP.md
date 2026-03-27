@@ -220,7 +220,7 @@ April/May exam diet
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | Why Is Traditional Knowledge Different from All Other Intellectual Property? | [Journal Article](./CI10ER01.pdf) | William Fisher, ‘Why Is Traditional Knowledge Different from All Other Intellectual Property?’ (2019) 58 Washburn Law Journal 365, <u>exact page</u>. |
-| 2 | Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions | [Report](./CI10ER02.pdf) | WIPO, ‘Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions’ (WIPO 2020) <u>exact page</u>. |
+| 2 | Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions (**This document is available in 6 languages. You will read the English version, but may consider reading another version for better understanding.**) | [Report](./CI10ER02.pdf) | WIPO, ‘Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions’ (WIPO 2020) <u>exact page</u>. |
 | 3 | Navigating Traditional Knowledge and IP — “The Adventures of the Yakuanoi” | [Website](<https://www.wipo.int/tk/en/tk/yakuanoi.html>) |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | 1 | Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions | [Website](<https://www.wipo.int/en/web/traditional-knowledge>) |
