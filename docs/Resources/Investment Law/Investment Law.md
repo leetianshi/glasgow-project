@@ -7,7 +7,7 @@
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | Principles of International Investment Law | [Authored Book](./IL01ER01.pdf) | Rudolf Dolzer, Ursula Kriebaum, and Christoph Schreuer, *Principles of International Investment Law* (3rd edn, Oxford University Press 2022) <u>exact page</u>. |
-| 2 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 2 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL01ER02.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | 3 | Rational Design or Accidental Evolution? The Emergence of International Investment Law | [Contribution to Edited Book](./IL01ER03.pdf) | Joost Pauwelyn, ‘Rational Design or Accidental Evolution? The Emergence of International Investment Law’ in Zachary Douglas, Joost Pauwelyn, and Jorge E. Viñuales (eds), *The Foundations of International Investment Law: Bringing Theory into Practice* (Oxford University Press 2014) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
@@ -26,7 +26,7 @@
 | [Reading List](./Reading%20List%202.docx) |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL02ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | Principles of International Investment Law | [Authored Book](IL02RR01.pdf) | Rudolf Dolzer, Ursula Kriebaum, and Christoph Schreuer, *Principles of International Investment Law* (3rd edn, Oxford University Press 2022) <u>exact page</u>. |
@@ -41,7 +41,7 @@
 | [Reading List](./Reading%20List%203.docx) |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL03ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | 2 | Expropriation | [Contribution to Edited Book](./IL03ER02.pdf) | Nicholás M. Perrone, ‘Expropriation’, in David Schneiderman and Gus Van Harten (eds), *Rethinking Investment Law* (Oxford University Press 2023) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
@@ -57,7 +57,7 @@
 | [Reading List](./Reading%20List%204.docx) |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL04ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | 2 | Fair and Equitable Treatment | [Contribution to Edited Book](./IL04ER02.pdf) | Josef Ostřanský, ‘Fair and Equitable Treatment’, in David Schneiderman and Gus Van Harten (eds), *Rethinking Investment Law* (Oxford University Press 2023) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
@@ -76,7 +76,7 @@
 | [Reading List](./Reading%20List%205.docx) |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL05ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | 2 | National Treatment | [Contribution to Edited Book](./IL05ER02.pdf) | David Schneiderman, ‘National Treatment’, in David Schneiderman and Gus Van Harten (eds), *Rethinking Investment Law* (Oxford University Press 2023) <u>exact page</u>. |
 | 3 | Most Favoured National Treatment | [Contribution to Edited Book](./IL05ER03.pdf) | Anil Yilmaz Vastardis, ‘Most Favoured National Treatment’, in David Schneiderman and Gus Van Harten (eds), *Rethinking Investment Law* (Oxford University Press 2023) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
@@ -95,7 +95,7 @@
 | [Reading List](./Reading%20List%206.docx) |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL06ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | Principles of International Investment Law | [Authored Book](./IL06RR01.pdf) | Rudolf Dolzer, Ursula Kriebaum, and Christoph Schreuer, *Principles of International Investment Law* (3rd edn, Oxford University Press 2022) <u>exact page</u>. |
@@ -111,7 +111,7 @@
 | [Reading List](./Reading%20List%207.docx) |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL07ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | State Compliance with Investment Awards | [Journal Article](./IL07RR01.pdf) | Emmanuel Gaillard and Ilija Mitrev Penushliski, ‘State Compliance with Investment Awards’ (2020) 35 ICSID Review 540, <u>exact page</u>. |
@@ -130,7 +130,7 @@
 | [Reading List](./Reading%20List%208.docx) |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL08ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | 2 | Regulatory Chill in a Warming World: The Threat to Climate Policy Posed by Investor-State Dispute Settlement | [Journal Article](./IL08ER02.pdf) | Kyla Tienhaara, ‘Regulatory Chill in a Warming World: The Threat to Climate Policy Posed by Investor-State Dispute Settlement’ (2018) 7 Transnational Environmental Law 229, <u>exact page</u>. |
 | 3 | The Role of Human Rights in Investment Law and Arbitration | [Contribution to Edited Book](./IL08ER03.pdf) | Silvia Steininger, ‘The Role of Human Rights in Investment Law and Arbitration’ in Ilias Bantekas and Michael Ashley Stein (eds), *The Cambridge Companion to Business and Human Rights Law* (Cambridge University Press 2021) <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
@@ -155,7 +155,7 @@
 | 2 | A Multilateral Instrument on ISDS Reform (MIIR): Selected Design Issues | [Website](<https://www.ejiltalk.org/a-multilateral-instrument-on-isds-reform-miir-selected-design-issues/>) | Joshua Paine, ‘A Multilateral Instrument on ISDS Reform (MIIR): Selected Design Issues’ (*EJIL: Talk!*, 3 June 2025) <https://www.ejiltalk.org/a-multilateral-instrument-on-isds-reform-miir-selected-design-issues/\> accessed <u>accessed date</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book] | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
+| 1 | International Investment Law and Arbitration: Commentary, Awards and other Materials | [Authored Book](./IL08ER01.pdf) | C. L. Lim, Jean Ho, and Martins Paparinskis, *International Investment Law and Arbitration: Commentary, Awards and other Materials* (Cambridge University Press 2021) <u>exact page</u>. |
 | 2 | UNCITRAL and ISDS Reform (Online): Crossing the Chasm | [Website](<https://www.ejiltalk.org/uncitral-and-isds-reform-online-crossing-the-chasm/>) | Anthea Roberts and Taylor St John, ‘UNCITRAL and ISDS Reform (Online): Crossing the Chasm’ (*EJIL: Talk!*, 17 February 2021) <https://www.ejiltalk.org/uncitral-and-isds-reform-online-crossing-the-chasm/\> accessed <u>accessed date</u>. |
 | 3 | Imperfect Alternatives: Institutional Choice and the Reform of Investment Law | [Journal Article](./IL09RR03.pdf) | Sergio Puig and Gregory Shaffer, ‘Imperfect Alternatives: Institutional Choice and the Reform of Investment Law’ (2018) 112 American Journal of International Law 361, <u>exact page</u>. |
 | 4 | ISDS at a Crossroads | [Journal Article](./IL06RR02.pdf) | Charles N. Brower, ‘ISDS at a Crossroads: How the Settlement of Investor-State Disputes Is Being Transformed’ (2019) 12 Proceedings of the ASIL Annual Meeting 191, <u>exact page</u>. |
