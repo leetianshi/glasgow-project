@@ -31,6 +31,10 @@
 
 [LLM Coursework Submission Template](./LLM%20Coursework%20Submission%20Template.docx)
 
+[PDF 3103914 Copyright in the Digital Environment Summative Essay](./PDF%203103914%20Copyright%20in%20the%20Digital%20Environment%20Summative%20Essay.pdf)
+
+[WORD 3103914 Copyright in the Digital Environment Summative Essay](./WORD%203103914%20Copyright%20in%20the%20Digital%20Environment%20Summative%20Essay.docx)
+
 #### 1.2.2 Participation
 **·** Worth 15% of your overall grade </br>
 **·** Via digital activities (e.g., Microsoft Forms, Moodle, Padlet) </br>

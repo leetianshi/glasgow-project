@@ -1,5 +1,5 @@
 # Investment Law
-## 1. PPT & Reading List
+## 1. Reading List
 ### 1.1 Seminar 1
 | Basic Features and Historical Development of International Investment Law |  |  |  |
 | ---- | ---- | ---- | ---- |
