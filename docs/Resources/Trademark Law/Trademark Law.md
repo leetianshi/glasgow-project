@@ -95,7 +95,7 @@
 | 12 | Zee Entertainment Enterprises Ltd v Zeebox Ltd | [UK Case](./TL04RR12.pdf) | *Zee Entertainment Enterprises Ltd v. Zeebox Ltd* [2014] EWCA Civ 82 <u>[exact paragraph]</u>. |
 
 ### 1.5 Seminar 5
-| 5: Infringement cont'd and defences |  |  |  |
+| 5: Infringement cont’d and defences |  |  |  |
 | ---- | ---- | ---- | ---- |
 | Reading List | <https://rl.talis.com/3/glasgow/lists/485FE965-7453-1AEC-F070-22119FE34E6F.html?lang=en-GB>  |
 | <span style="background:#C0C0C0">Essential Reading</span> |
@@ -125,7 +125,39 @@
 | There is no set reading for this session. |
 
 ### 1.7 Seminar 7
-
+| 7. Individuals and Image |  |  |  |
+| ---- | ---- | ---- | ---- |
+| Reading List | <https://rl.talis.com/3/glasgow/lists/485FE965-7453-1AEC-F070-22119FE34E6F.html?lang=en-GB>  |
+| <span style="background:#C0C0C0">Essential Reading</span> |
+| # | Title | Access | OSCOLA |
+| 1 | Intellectual Property Law: Text, Cases, and Materials (**See: Chapter 5.2, ‘The Elements of Passing Off’, pp. 292–352.**) | [Authored Book](./TL07ER01.pdf) | Tanya Aplin and Jennifer Davis, *Intellectual Property Law: Text, Cases, and Materials* (4th edn, Oxford University Press 2021) <u>exact page</u>. |
+| 2 | Contemporary Intellectual Property: Law and Policy (**See: ch.18: pp. 726–728 [18.5] and pp. 738–748 [18.31–18.63]**) | [Authored Book](./TL07ER02.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
+| 3 | Martin v Bodegas San Huberto SA [2025] EWHC 1827 (IPEC) | [UK Case](./TL07ER03.pdf) | *Martin v. Bodegas San Huberto SA* [2025] EWHC 1827 (IPEC) <u>[exact paragraph]</u>. |
+| 4 | Thatchers Cider Company Ltd v Aldi Stores Ltd [2025] EWCA Civ 5 | [UK Case](./TL05ER04.pdf) | *Thatchers Cider Company Ltd v. Aldi Stores Ltd* [2025] EWCA Civ 5 <u>[exact paragraph]</u>. |
+| 5 | Tesco v Lidl [2024] EWCA Civ 262 | [UK Case](./TL07ER05.pdf) | *Lidl v. Tesco* [2024] EWCA Civ 262 <u>[exact paragraph]</u>. |
+| 6 | Easy Group Ltd v Easy Live (Services) Ltd [2023] EWCA Civ 1508 | [UK Case](./TL07ER06.pdf) | *Easy Group Ltd v Easy Live (Services) Ltd* [2023] EWCA Civ 1508 <u>[exact paragraph]</u>. |
+| 7 | Alyssa Smith Jewellery Ltd v Goodstone (t/a Alyssa Jewellery Design) [2021] EWHC 1482 (IPEC) | [UK Case](./TL07ER07.pdf) | *Alyssa Smith Jewellery Ltd v. Goodstone (T/A Alyssa Jewellery Design)* [2021] EWHC 1482 (IPEC) <u>[exact paragraph]</u>. |
+| 8 | Diana, Princess of Wales Trade Mark [2001] ETMR 25 | [UK Case](./TL07ER08.pdf) | *Diana, Princess of Wales Trade Mark* [2001] ETMR 25 <u>[exact paragraph]</u>. |
+| 9 | United Biscuits (U.K.) Limited v Asda Stores Limited | [UK Case](./TL07ER09.pdf) | *United Biscuits (U.K.) Limited v. Asda Stores Limited* [1997] RPC 513, <u>exact page</u>. |
+| 10 | Taittinger SA v Allbev Ltd [1993] FSR 641 | [UK Case](./TL07ER10.pdf) | *Taittinger SA v. Allbev Ltd* [1993] FSR 641, <u>exact page</u>. |
+| 11 | Reckitt & Colman Products Ltd. v Borden Inc. and Others | [UK Case](./TL07ER11.pdf) | *Reckitt & Colman Products Ltd. v. Borden Inc. and Others* [1990] 1 WLR 491, <u>exact page</u>. |
+| 12 | Fenty & Ors v Arcadia Group Brands Ltd & Anor [2015] EWCA Civ 3 (22 January 2015) | [UK Case](./TL07ER12.pdf) | *Fenty & Ors v. Arcadia Group Brands Ltd & Anor* [2015] EWCA Civ 3 <u>[exact paragraph]</u>. |
+| 13 | Edmund Irvine Tidswell Ltd. v Talksport Ltd. [2002] EWHC 367 (Ch) (13th March, 2002) | [UK Case](./TL07ER13.pdf) | *Edmund Irvine Tidswell Ltd. v. Talksport Ltd.* [2002] EWHC 367(Ch) <u>[exact paragraph]</u>. |
+| 14 | Mirage Studios v Counter-Feat Clothing Co Ltd [1991] FSR 145 | [UK Case](./TL07ER14.pdf) | *Mirage Studios v. Counter-Feat Clothing Co Ltd* [1991] FSR 145, <u>exact page</u>. |
+| 15 | OBG Ltd v Allan [2008] 1 AC 1; [2007] UKHL 21 (Douglas v Hello!) | [UK Case](./TL07ER15.pdf) | *OBG Ltd v. Allan* [2008] 1 AC 1, <u>exact page</u>. |
+| <span style="background:#C0C0C0">Further Reading</span> |
+| # | Title | Access | OSCOLA |
+| 1 | Publicity and Image Rights in Scots Law | [Journal Article](./TL07RR01.pdf) | Gillian Black, ‘Publicity and Image Rights in Scots Law’ (2010) 14 Edinburgh Law Review 364, <u>exact page</u>. |
+| 2 | Advertising, Publicity Rights and English Law | [Journal Article](./TL07RR02.pdf) | Hazel Carty, ‘Advertising, Publicity Rights and English Law’ (2004) 3 Intellectual Property Quarterly 209, <u>exact page</u>. |
+| 3 | Copyright and AI: Response by the CREATe Centre to the UK Government’s Consultation (**Only the section on Image Rights (pp. 39–43)**) | [Working Paper](./TL07RR03.pdf) | Martin Kretschmer, ‘Copyright and AI: Response by the CREATe Centre to the UK Government’s Consultation’ (2025) CREATe Working Paper 2025/2, <u>exact page</u> <https://zenodo.org/records/14931964\> accessed <u>accessed date</u>. |
+| 4 | Why the United Kingdom Should Have a Law Against Misappropriation | [Journal Article](./TL07RR04.pdf) | Jennifer Davis, ‘Why the United Kingdom Should Have a Law Against Misappropriation’ (2010) 69 The Cambridge Law Journal 561, <u>exact page</u>. |
+| 5 | Putting a Face to the Game: The Intellectual Property Implications of Using Celebrity Likenesses in Videogames | [Journal Article](./TL07RR05.pdf) | Yin Harn Lee, ‘Putting a Face to the Game: The Intellectual Property Implications of Using Celebrity Likenesses in Videogames’ (2018) 13 Journal of Intellectual Property Law & Practice 143, <u>exact page</u>. |
+| 6 | The Law of Passing Off — Goodwill Beyond Goods | [Journal Article](./TL07RR06.pdf) | Catherine W. Ng, ‘The Law of Passing Off — Goodwill Beyond Goods’ (2016) 47 International Review of Intellectual Property and Competition Law 817, <u>exact page</u>. |
+| 7 | Image Rights and Passing Off: Should Reputation Be Enough for Celebrities to Succeed in English Courts? | [Journal Article](./TL07RR07.pdf) | Emmanuel K. Oke, ‘Image Rights and Passing Off: Should Reputation Be Enough for Celebrities to Succeed in English Courts?’ (2020) 15 Journal of Intellectual Property Law & Practice 49, <u>exact page</u>. |
+| 8 | Commercialising Celebrity Persona: Intellectual Property Law and Practice (**The relevant chapter for this seminar is ch. 2 “Legal Regulation of Persona in the UK, New York and California”**) | [Authored Book](./TL07RR08.pdf) | Emma Perot, *Commercialising Celebrity Persona: Intellectual Property Law and Practice* (Hart Publishing 2023) <u>exact page</u>. |
+| 9 | Fake It Till You Make It: An Examination of the US and English Approaches to Persona Protection as Applied to Deepfakes on Social Media | [Journal Article](./TL07RR09.pdf) | Emma Perot and Frederick Mostert, ‘Fake It Till You Make It: An Examination of the US and English Approaches to Persona Protection as Applied to Deepfakes on Social Media’ (2020) 15 Journal of Intellectual Property Law & Practice 32, <u>exact page</u>. |
+| 10 | Why Has Cole Palmer Trademarked ‘Cold Palmer’? | [Website](<https://www.bbc.co.uk/sport/football/articles/cp8j0852810o>) | Max Chesterton, ‘Why Has Cole Palmer Trademarked ‘Cold Palmer’?’ (*BBC*, 10 November 2025) <https://www.bbc.co.uk/sport/football/articles/cp8j0852810o\> accessed <u>accessed date</u>. |
+| 11 | Kylian Mbappé Has Trademarked His Iconic Goal Celebration — Why a Pose Can Form Part of a Player’s Protected Brand | [Website](<https://theconversation.com/kylian-mbappe-has-trademarked-his-iconic-goal-celebration-why-a-pose-can-form-part-of-a-players-protected-brand-224302?utm_source=linkedin&utm_medium=bylinelinkedinbutton>) | Enrico Bonadio and Andrea Zappalaglio, ‘Kylian Mbappé Has Trademarked His Iconic Goal Celebration — Why a Pose Can Form Part of a Player’s Protected Brand’ (*The Conversation*, 5 March 2024) <https://theconversation.com/kylian-mbappe-has-trademarked-his-iconic-goal-celebration-why-a-pose-can-form-part-of-a-players-protected-brand-224302?utm_source=linkedin&utm_medium=bylinelinkedinbutton\> accessed <u>accessed date</u>. |
 
 ### 1.8 Seminar 8
 
