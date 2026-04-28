@@ -190,6 +190,26 @@
 | 7 | The International Protection of Geographical Indications: A Complex Bowl of Spaghetti Lacking the Flavour of a Collectively Defined and Controlled Product Specification? | [Journal Article](./TL08FR07.pdf) | Delphine Marie-Vivien, ‘The International Protection of Geographical Indications: A Complex Bowl of Spaghetti Lacking the Flavour of a Collectively Defined and Controlled Product Specification?’ (2025) 56 International Review of Intellectual Property and Competition Law 1261, <u>exact page</u>. |
 
 ### 1.9 Seminar 9
-
+| 9. Sports Events |  |  |  |
+| ---- | ---- | ---- | ---- |
+| Reading List | <https://rl.talis.com/3/glasgow/lists/485FE965-7453-1AEC-F070-22119FE34E6F.html?lang=en-GB>  |
+| <span style="background:#C0C0C0">Essential Reading</span> |
+| # | Title | Access | OSCOLA |
+| 1 | Contemporary Intellectual Property: Law and Policy (**Only page 591 in Chapter 14.**) | [Authored Book](./TL09ER01.pdf) | Abbe Brown and others, *Contemporary Intellectual Property: Law and Policy* (6th edn, Oxford University Press 2023) <u>exact page</u>. |
+| 2 | Intellectual Property Law (**Only page 1038 in Chapter 37 (Section 4.5).**) | [Authored Book](./TL09ER02.pdf) | Lionel Bently and others, *Intellectual Property Law* (6th edn, Oxford University Press 2022) <u>exact page</u>. |
+| 3 | Guilty by Association: Olympic Law and the IP Effect | [Journal Article](./TL09ER03.pdf) | Mark James and Guy Osborn, ‘Guilty by Association: Olympic Law and the IP Effect’ (2013) 2 Intellectual Property Quarterly 97, <u>exact page</u>. |
+| 4 | “FIFA v. PUMA” | [Journal Article](./TL09ER04.pdf) | Federal Supreme Court of Switzerland, ‘“FIFA v. PUMA”’ (2023) 54 International Review of Intellectual Property and Competition Law 148, <u>exact page</u>. |
+| 5 | Comite International Olympique v Temptitng Brands Netherlands BV [2019] ATMO 41 (25 March 2019) | [Australia Case](./TL09ER05.pdf) | *Comite International Olympique v. Temptitng Brands Netherlands BV* [2019] ATMO 41 <u>[exact paragraph]</u>. |
+| 6 | Australian Olympic Committee, Inc v Telstra Corporation Limited [2017] FCAFC 165 (25 October 2017) | [Australia Case](./TL09ER06.pdf) | *Australian Olympic Committee, Inc v. Telstra Corporation Limited* [2017] FCAFC 165 <u>[exact paragraph]</u>. |
+| 7 | Tartan Army Ltd v SETT GmbH 2017 SLT 532 | [UK Case](./TL09ER07.pdf) | *Tartan Army Ltd v. SETT GmbH* 2017 SLT 532 <u>[exact paragraph]</u>. |
+| 8 | American Clothing Associates SA v OHIM - C‑202/08 | [EU Case](./TL09ER08.pdf) | Cases C-202/08 P and C-208/08 P *American Clothing Associates NV v. OHIM* EU:C:2009:477, [2009] ECR I-06933 <u>[exact paragraph]</u>. |
+| 9 | New Zealand Olympic and Commonwealth Games Association Inc. v Telecom New Zealand Limited [1996] FSR 757 (New Zealand) | [New Zealand Case](./TL09ER09.pdf) | *New Zealand Olympic and Commonwealth Games Association Inc. v. Telecom New Zealand Limited* [1996] FSR 757 <u>[exact paragraph]</u>. |
+| <span style="background:#C0C0C0">Further Reading</span> |
+| # | Title | Access | OSCOLA |
+| 1 | Erasing Ambush Marketing | [Journal Article](./TL09FR01.pdf) | Barbara Cookson, ‘Erasing Ambush Marketing’ (2011) 6 Journal of Intellectual Property Law & Practice 149, <u>exact page</u>. |
+| 2 | Ambush Marketing: Unsporting Behaviour or Fair Play? | [Journal Article](./TL09FR02.pdf) | David Cran and Simon Griffiths, ‘Ambush Marketing: Unsporting Behaviour or Fair Play?’ (2010) 21 Entertainment Law Review 293, <u>exact page</u>. |
+| 3 | Analysing the harms of ambush marketing after Australian Olympic Committee v Telstra | [Article](./TL09FR03.pdf) | Emily Hudson, ‘Analysing the harms of ambush marketing after *Australian Olympic Committee v Telstra*’ (King’s College London 2018) <u>exact page</u>. |
+| 4 | The Protection of Sports Events in the EU: Property, Intellectual Property, Unfair Competition and Special Forms of Protection | [Paper](./TL09FR04.pdf) | Thomas Margoni, ‘The Protection of Sports Events in the EU: Property, Intellectual Property, Unfair Competition and Special Forms of Protection’ (SSRN 2015) <u>exact page</u>. |
+| 5 | Intellectual Property Excesses: Exploring the Boundaries of IP Protection (**See: ‘Ambush Marketing and IP Expansion: FIFA, Bavaria and the 2010 World Cup South Africa’ by Amanda Scardamaglia.**) | [Contribution to Edited Book](./TL09FR05.pdf) | Amanda Scardamaglia, ‘Ambush Marketing and IP Expansion: FIFA, Bavaria and the 2010 World Cup South Africa’ in Enrico Bonadio and Aislinn O’Connell (eds), *Intellectual Property Excesses: Exploring the Boundaries of IP Protection* (Hart Publishing 2022) <u>exact page</u>. |
 
 ### 1.10 Seminar 10
