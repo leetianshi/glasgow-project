@@ -22,3 +22,5 @@ Information Law
 (3) Secondary Choice <br>
 **Provisional title**: Meaningful Human Involvement Beyond “Solely Automated” Decision-Making: Formal vs Substantive Standards and Regulatory Detection of Token Review <br>
 **Research question**: This dissertation will examine what constitutes meaningful human involvement such that a decision cannot be regarded as solely automated, and consider whether the relevant standard should be assessed on a formal or substantive basis. It will also explore how organisations may design processes that merely appear to involve human review, and how regulators can detect, scrutinise, and challenge such practices effectively.
+
+## 3. Research Proposal
