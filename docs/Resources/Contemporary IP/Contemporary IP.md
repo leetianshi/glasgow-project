@@ -54,14 +54,14 @@ April/May exam diet
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | Weaponizing Copyright (**Please read sections I–II and IV–VI. As the article addresses the US system only, you should page through section III, but you don't have to read it thoroughly.**) | [Journal Article](./CI01ER01.pdf) | ‘Weaponizing Copyright’ (2021) 35 Harvard Journal of Law & Technology 193, <u>exact page</u>. |
+| CI01ER01 | Weaponizing Copyright (**Please read sections I–II and IV–VI. As the article addresses the US system only, you should page through section III, but you don't have to read it thoroughly.**) | [Journal Article](./CI01ER01.pdf) | Cathay Y. N. Smith, ‘Weaponizing Copyright’ (2021) 35 Harvard Journal of Law & Technology 193, <u>exact page</u>. |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | Watch a Police Officer Admit to Playing Taylor Swift to Keep a Video Off YouTube | [Website](<https://www.theverge.com/2021/7/1/22558292/police-officer-video-taylor-swift-youtube-copyright>) | Zoë Schiffer and Adi Robertson, ‘Watch a Police Officer Admit to Playing Taylor Swift to Keep a Video Off YouTube’ (*The Verge*, 1 July 2021) <https://www.theverge.com/2021/7/1/22558292/police-officer-video-taylor-swift-youtube-copyright\> accessed <u>accessed date</u>. |
 | 2 | Paparazzi vs. Stars: Who Owns That Instagram Pic? | [Website](<https://www.hollywoodreporter.com/business/business-news/paparazzi-stars-who-owns-instagram-pic-1081902/>) | Ashley Cullins, ‘Paparazzi vs. Stars: Who Owns That Instagram Pic?’ (*The Hollywood Reporter*, 8 February 2018) <https://www.hollywoodreporter.com/business/business-news/paparazzi-stars-who-owns-instagram-pic-1081902/\> accessed <u>accessed date</u>. |
 | 3 | Hospitals Need to Repair Ventilators. Manufacturers Are Making That Impossible | [Website](<https://www.vice.com/en/article/hospitals-need-to-repair-ventilators-manufacturers-are-making-that-impossible/>) | Jason Koebler, ‘Hospitals Need to Repair Ventilators. Manufacturers Are Making That Impossible’ (*VICE*, 18 March 2020) <https://www.vice.com/en/article/hospitals-need-to-repair-ventilators-manufacturers-are-making-that-impossible/\> accessed <u>accessed date</u>. |
 | 4 | Meghan Wins Copyright Claim Against Mail on Sunday Over Letter | [Website](<https://www.theguardian.com/uk-news/2021/may/05/meghan-wins-copyright-claim-against-mail-on-sunday-over-letter>) | Caroline Davies, ‘Meghan Wins Copyright Claim Against Mail on Sunday Over Letter’ (*The Guardian*, 5 May 2021) <https://www.theguardian.com/uk-news/2021/may/05/meghan-wins-copyright-claim-against-mail-on-sunday-over-letter\> accessed <u>accessed date</u>. |
-| 5 | Theories of Intellectual Property | [Contribution to Edited Book](./CI01RR05.pdf) | William Fisher, ‘Theories of Intellectual Property’ in Stephen R. Munzer (ed), *New Essays in the Legal and Political Theory of Property* (Cambridge University Press 2001) <u>exact page</u>. |
+| CI01RR05 | Theories of Intellectual Property | [Contribution to Edited Book](./CI01RR05.pdf) | William Fisher, ‘Theories of Intellectual Property’ in Stephen R. Munzer (ed), *New Essays in the Legal and Political Theory of Property* (Cambridge University Press 2001) <u>exact page</u>. |
 
 ### 2.2 Seminar 2
 | 2: Linking, framing and embedding |  |  |  |
@@ -224,3 +224,53 @@ April/May exam diet
 | 3 | Navigating Traditional Knowledge and IP — “The Adventures of the Yakuanoi” | [Website](<https://www.wipo.int/tk/en/tk/yakuanoi.html>) |
 | <span style="background:#C0C0C0">Recommended Reading</span> |
 | 1 | Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions | [Website](<https://www.wipo.int/en/web/traditional-knowledge>) |
+
+## 3. Exam Preparation
+### 3.1 CI01ER01
+#### 3.1.1 I. Introduction
+<u>Original Text 1</u>: Copyright grants authors **exclusive rights** in their works in order to **encourage creation and dissemination** of socially valuable works. It permits copyright owners to assert their copyright **against violations** of those rights when necessary to **protect** their **market exclusivity** and **economic interests**.
+
+<u>Original Text 2</u>: Increasingly, however, copyright is being used by individuals to achieve **other objectives**. For instance, ... All these stories have one thing in common: they all involve copyright owners using copyright to advance **noncopyright interests**. This Article refers to these actions as “**weaponizing copyright**.”
+
+<u>Original Text 3</u>: Third, this Article attempts to **challenge** the presumption that weaponizing copyright is **always harmful and must be discouraged**, and then attempts to rely on moral intuition to judge the good weaponization from the bad weaponization. It does so by exploring the power dynamics and blurry lines between weaponization by **aggressors** to **punish, erase, and suppress**, and weaponization by the **vulnerable** to **preserve, defend, and protect personal interests**.
+
+<u>Original Text 4</u>: Therefore, for the purpose of this Article, weaponizing copyright refers to uses of copyright to achieve **noncopyright objectives**, **regardless** of whether the reasons for those uses **may seem justified**.
+
+<u>Original Text 5</u>: Furthermore, there is no denying that there are many **other problematic and abusive uses of copyright**, such as overreaching copyright claims, copyright trolling, anticompetitive uses of copyright, or even abusive claims of copyright over employee creations. However, these uses of copyright are ultimately driven by **preserving market exclusivity** and **economic interests**. Therefore, even though these uses can be problematic, harmful, or abusive, they are nevertheless **excluded from** this Article’s analysis because they are not advanced for noncopyright purposes.
+
+#### 3.1.2 II. Weaponizing Copyright
+<u>Original Text 6</u>: Copyright encourages the **creation and dissemination of socially valuable works** to “**promote the Progress of Science and useful Arts**.” It does so by promising a copyright owner market exclusivity in their creative works. ... In other words, under copyright’s standard rationale, a copyright owner’s objective in asserting copyright is to ensure their **market exclusivity** in their work and to protect their **economic interests**.
+
+<u>Original Text 7</u>: Therefore, when we envision a typical copyright infringement dispute it might involve, for instance, a copyright owner asserting their copyright **against** an infringer who reproduces a copyrighted work **without authorization** or an infringer who incorporates a song **without obtaining a license**. Because every unauthorized copy an infringer makes, sells, or uses is **one less copy** someone will buy or license from the copyright owner, the copyright owner asserts their copyright to **prevent** these infringing uses **from supplanting** their market in their works.
+
+<u>Original Text 8</u>: Copyright owners, however, **do not always** assert copyright to **protect** their **market exclusivity** or **economic interest** in their copyrighted works. In 1988, Judge Leval, writing for the Southern District of New York, warned that copyright has the ability to be used “as an aggressive weapon to **prevent the publication of embarrassing revelations** and to **obstruct criticism**.”
+
+<u>Original Text 9</u>: We have become more aware of individuals using copyright for other reasons, and copyright owners today “often pursue IP disputes for reasons **having little to do with revenue streams, creativity, or intellectual labor**.” For instance, ... All of those uses of copyright are attempts to achieve objectives **other than protection of the market exclusivity and economic interests** in a copyrighted work. In other words, these are uses of copyright to **vindicate noncopyright interests**. This Article identifies these uses, and other assertions of copyright to **protect personal rather than economic interests**, as weaponizing copyright.
+
+<u>Original Text 10</u>: The practice is likely **more expansive** than this Article can capture, especially considering the many disputes that are **quietly settled** when content is **voluntarily taken down**, or when content is **quickly removed** by online platforms in response to copyright takedown requests.
+
+<u>Original Text 11</u>: Even though TD Bank had no intention of publishing Hill’s original manuscript, it nevertheless filed a copyright infringement suit against Hill seeking to **permanently** enjoin his publication and dissemination of *FANS!*. In 2016, a court granted TD Bank a **permanent injunction** and it was not until three years later, in 2019, that an appellate court vacated the permanent injunction when it considered the injunction’s **harm to the public interest** weighed against **TD Bank’s interest**.
+
+<u>Original Text 12</u>: Musicians John Lyon and Paul Collins filed notices to **terminate the transfer** of their copyrights to Sony for their musical sound recordings “Here Comes The Night, Live It Up,” “The Beat,” and other songs. In response, Sony filed suit against Lyon and Collins for, among other things, **contributory copyright infringement**. ... Sony’s assertion of copyright against Lyon and Collins appeared to be purely **retributive**, meant to **punish** the musicians for **exercising their copyright termination** rights and, perhaps, to **warn** other musicians who might consider doing the same.
+
+<u>Original Text 13</u>: In clear “retaliation for Falwell’s prior legal action against him,” *Hustler* sued Falwell for infringing the copyright to its parody ad. After four years of litigation, the court finally *dismissed* Hustler’s retaliatory copyright suit under copyright’s **fair use doctrine**.
+
+<u>Original Text 14</u>: Weaponizing copyright to punish or retaliate out of spite can **harm the public** without necessarily providing the public with a corresponding gain. ... While some of the goals of these assertions, such as to punish racist or sexist outbursts on video, may appear worthwhile or justifiable, they can still harm the public interest when they result in the **loss of valuable social commentary, cultural expression, or intangible artifacts**, or make those works **unavailable** to the public and **inaccessible** to those who seek them.
+
+<u>Original Text 15</u>: It is axiomatic that the **more successful** copyright owners are at **weaponizing copyright** to silence or erase information, the **less likely** their **abusive actions** are to be discovered.
+
+<u>Original Text 16</u>: The same letter demanded that **Farrow** “turn over all [his] work product relating to TWC,” and threatened media outlets that worked with Farrow, including **The New Yorker**, that they were “on notice of [the] legal claims against them.” ... After **consulting with an attorney**, and despite these threats, Farrow eventually went ahead and **published** his exposé of Weinstein.
+
+<u>Original Text 17</u>: Drew also threatened social media **users resharing** the video compilation that “[i]nfringing copywrite [*sic*] laws is a crime.
+
+<u>Original Text 18</u>: YouTube **took down** the video compilation in response to Drew’s copyright threats and takedown notice. Eventually, the video became **available again** and there were **no suits against social media users** that shared the video compilation.
+
+<u>Original Text 19</u>: As Professors Eric Goldman and Jessica Silbey explained, asserting copyright to erase facts and bury information can create “memory holes” in society by “relegat[ing] the facts and ideas which those works contain to persist[] **only in people’s memories**.” This can allow facts or ideas to “**fade out of circulation** — and eventually fade away altogether.” In this way, “[b]y facilitating the selective suppression of information for private benefit,” certain copyright owners are empowered to **reclaim** historical narrative and **control** what and how society thinks.
+
+<u>Original Text 20</u>: Furthermore, using copyright to erase facts can “remove the most credible **evidence** to validate or contest those facts and ideas,” which “creat[es] opportunities to **undermine** the search for truth in the first place.”
+
+<u>Original Text 21</u>: At the same time, some of the uses that copyright owners find most **objectionable** may be uses that **benefit** the public interest or **offer** the most social value.
+
+<u>Original Text 22</u>: In other instances, however, weaponizing copyright to protect privacy could **hinder** the rights of others to express facts or to comment on issues of public concern. Indeed, in certain instances, there appears to be a **thin line** between weaponizing copyright to **protect privacy** and weaponizing copyright to **erase facts and bury information**.
+
+#### 3.1.3 IV. What to Do About Copyright Weaponization?
