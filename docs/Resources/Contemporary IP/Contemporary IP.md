@@ -1,233 +1,51 @@
-# Contemporary IP
-## 1. Course Information
-### 1.1 Timetable
-| # | Date | Introduction | Lecturer |
-| ---- | ---- | ---- | ---- |
-| (1) | 14 January | Introduction: (Un)creative copyright | Furgał |
-| (2) | 21 January | Can I share this? Linking, framing and embedding  | Furgał |
-| (3) | 28 January | Right to repair | Mahapatra |
-| (4) | 4 February | eBooks and digital exhaustion | Furgał |
-| (5) | 11 February | Contracting out of copyright | Mahapatra |
-| Reading week (16-22 February) |
-| (6) | 25 February | Press vs big tech: bargaining over payments | Furgał |
-| (7) | 4 March | Open business models, follow-on and user innovation | Erickson |
-| (8) | 11 March | Preservation/GLAM/TPMs | Erickson |
-| (9) | 18 March | NFTs, blockchain and virtual goods | Erickson |
-| (10) | 25 March | Traditional knowledge | Zhang |
-
-### 1.2 Assessment
-Assessment will be by way of
-
-#### 1.2.1 1,500-word essay (25% final mark)
-Questions will be released in due course </br>
-Deadline: 6 March 2026 (tbc)
-
-[Summative coursework task](./Summative%20coursework%20task.png)
-
-[Example essay](./Example%20essay.pdf)
-
-[LLM Coursework Summative Submission Instructions](./LLM%20Coursework%20Summative%20Submission%20Instructions.docx)
-
-[LLM Summative Coursework Submission Template](./LLM%20Summative%20Coursework%20Submission%20Template.docx)
-
-[PDF 3103914 Contemporary Issues in Intellectual Property Law Summative Essay](./PDF%203103914%20Contemporary%20Issues%20in%20Intellectual%20Property%20Law%20Summative%20Essay.pdf)
-
-[WORD 3103914 Contemporary Issues in Intellectual Property Law Summative Essay](./WORD%203103914%20Contemporary%20Issues%20in%20Intellectual%20Property%20Law%20Summative%20Essay.docx)
-
-#### 1.2.2 2-hour examination (75% final mark)
-You must answer 2 out of 4 questions </br>
-April/May exam diet
-
-[2022 Exam](./2022%20Exam.pdf)
-
-[2021 Exam](./2021%20Exam.pdf)
-
-[2020 Exam](./2020%20Exam.pdf)
-
-[2018 Exam](./2018%20Exam.pdf)
-
-## 2. PPT & Reading List
-### 2.1 Seminar 1
+# *Contemporary IP
+## 1. Essential Reading and Exam Preparation (Seminar 1, 3, 4, 5, 6, 8, and 10)
 | 1: Introduction \| (Un)creative copyright |  |  |  |
 | ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 1](./Seminar%201.pdf) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| CI01ER01 | Weaponizing Copyright (**Please read sections I–II and IV–VI. As the article addresses the US system only, you should page through section III, but you don't have to read it thoroughly.**) | [Journal Article](./CI01ER01.pdf) | Cathay Y. N. Smith, ‘Weaponizing Copyright’ (2021) 35 Harvard Journal of Law & Technology 193, <u>exact page</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Watch a Police Officer Admit to Playing Taylor Swift to Keep a Video Off YouTube | [Website](<https://www.theverge.com/2021/7/1/22558292/police-officer-video-taylor-swift-youtube-copyright>) | Zoë Schiffer and Adi Robertson, ‘Watch a Police Officer Admit to Playing Taylor Swift to Keep a Video Off YouTube’ (*The Verge*, 1 July 2021) <https://www.theverge.com/2021/7/1/22558292/police-officer-video-taylor-swift-youtube-copyright\> accessed <u>accessed date</u>. |
-| 2 | Paparazzi vs. Stars: Who Owns That Instagram Pic? | [Website](<https://www.hollywoodreporter.com/business/business-news/paparazzi-stars-who-owns-instagram-pic-1081902/>) | Ashley Cullins, ‘Paparazzi vs. Stars: Who Owns That Instagram Pic?’ (*The Hollywood Reporter*, 8 February 2018) <https://www.hollywoodreporter.com/business/business-news/paparazzi-stars-who-owns-instagram-pic-1081902/\> accessed <u>accessed date</u>. |
-| 3 | Hospitals Need to Repair Ventilators. Manufacturers Are Making That Impossible | [Website](<https://www.vice.com/en/article/hospitals-need-to-repair-ventilators-manufacturers-are-making-that-impossible/>) | Jason Koebler, ‘Hospitals Need to Repair Ventilators. Manufacturers Are Making That Impossible’ (*VICE*, 18 March 2020) <https://www.vice.com/en/article/hospitals-need-to-repair-ventilators-manufacturers-are-making-that-impossible/\> accessed <u>accessed date</u>. |
-| 4 | Meghan Wins Copyright Claim Against Mail on Sunday Over Letter | [Website](<https://www.theguardian.com/uk-news/2021/may/05/meghan-wins-copyright-claim-against-mail-on-sunday-over-letter>) | Caroline Davies, ‘Meghan Wins Copyright Claim Against Mail on Sunday Over Letter’ (*The Guardian*, 5 May 2021) <https://www.theguardian.com/uk-news/2021/may/05/meghan-wins-copyright-claim-against-mail-on-sunday-over-letter\> accessed <u>accessed date</u>. |
-| CI01RR05 | Theories of Intellectual Property | [Contribution to Edited Book](./CI01RR05.pdf) | William Fisher, ‘Theories of Intellectual Property’ in Stephen R. Munzer (ed), *New Essays in the Legal and Political Theory of Property* (Cambridge University Press 2001) <u>exact page</u>. |
-
-### 2.2 Seminar 2
-| 2: Linking, framing and embedding |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 2](./Seminar%202.pdf) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Links and Law | [Website](<https://www.w3.org/DesignIssues/LinkLaw>) | Tim Berners-Lee, ‘Links and Law’ (*World Wide Web Consortium*, April 1997) <https://www.w3.org/DesignIssues/LinkLaw\> accessed <u>accessed date</u>. |
-| 2 | Untangling the Hyperlinking Web: In Search of the Online Right of Communication to the Public | [Journal Article](../Copyright%20Law/C03RR04.pdf) | João Pedro Quintais, ‘Untangling the Hyperlinking Web: In Search of the Online Right of Communication to the Public’ (2018) 21 The Journal of World Intellectual Property 385, <u>exact page</u>. |
-| 3 | Liability for Providing Hyperlinks to Copyright-Infringing Content: International and Comparative Law Perspectives (**Read section III.A Direct Liability for Hyperlinking in the United States (pp 177–193) only**) | [Journal Article](./CI02ER03.pdf) | Jane C. Ginsburg and Luke Ali Budiardjo, ‘Liability for Providing Hyperlinks to Copyright-Infringing Content: International and Comparative Law Perspectives’ (2018) 41 The Columbia Journal of Law & the Arts 153, <u>exact page</u>. |
-| <span style="background:#C0C0C0">Case Law</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Svensson v Retriever Sverige (C-466/12) | [EU Case](./CI02CL01.pdf) | Case C-466/12 *Svensson v. Retriever Sverige* EU:C:2014:76 <u>[exact paragraph]</u>. |
-| 2 | GS Media v Sanoma (C-160/15) | [EU Case](./CI02CL02.pdf) | Case C-160/15 *GS Media v. Sanoma* EU:C:2016:644 <u>[exact paragraph]</u>. |
-| 3 | Stichting Brein v Jack Frederik Wullems (C-527/15) | [EU Case](./CI02CL03.pdf) | Case C-527/15 *Stichting Brein v. Jack Frederik Wullems* EU:C:2017:300  <u>[exact paragraph]</u>. |
-| 4 | Stichting Brein v Ziggo BV (C-610/15) | [EU Case](./CI02CL04.pdf) | Case C-610/15 *Stichting Brein v. Ziggo BV* EU:C:2017:456 <u>[exact paragraph]</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Communication to a New Public? Three Reasons Why EU Copyright Law Can Do Without a “New Public” | [Journal Article](./CI02RR01.pdf) | P. Bernt Hugenholtz and Sam C. van Velze, ‘Communication to a New Public? Three Reasons Why EU Copyright Law Can Do Without a “New Public”’ (2016) 47 International Review of Intellectual Property and Competition Law 797, <u>exact page</u>. |
-| 2 | Communication to the Public and Technological Restrictions Against “Framing” Copyright Works | [Journal Article](./CI02RR02.pdf) | Christina Angelopoulos, ‘Communication to the Public and Technological Restrictions Against “Framing” Copyright Works’ (2021) 80 Cambridge Law Journal 225, <u>exact page</u>. |
-| 3 | The EU Right of Communication to the Public — Still Looking for a Good Link | [Contribution to Edited Book](./CI02RR03.pdf) | Justin Koo, ‘The EU Right of Communication to the Public — Still Looking for a Good Link’ in Eleonora Rosati (ed), *The Routledge Handbook of EU Copyright Law* (Routledge 2021) <u>exact page</u>. |
-| 4 | Breaking Down the Instagram Photo Embedding Class Action Lawsuit | [Website](<https://copyrightlately.com/instagram-photo-embedding-class-action-lawsuit/>) | Aaron Moss, ‘Breaking Down the Instagram Photo Embedding Class Action Lawsuit’ (*Copyright Lately*, 27 May 2021) <https://copyrightlately.com/instagram-photo-embedding-class-action-lawsuit/\> accessed <u>accessed date</u>. |
-| 5 | Geoblocking Measures Sufficient to Prevent a “Communication to the Public”? The CJEU Gets a Second Chance | [Website](<https://legalblogs.wolterskluwer.com/copyright-blog/geoblocking-measures-sufficient-to-prevent-a-communication-to-the-public-the-cjeu-gets-a-second-chance/>) | Iris Toepoel and Etienne Valk, ‘Geoblocking Measures Sufficient to Prevent a “Communication to the Public”? The CJEU Gets a Second Chance’ (*Kluwer Copyright Blog*, 31 October 2024) <https://legalblogs.wolterskluwer.com/copyright-blog/geoblocking-measures-sufficient-to-prevent-a-communication-to-the-public-the-cjeu-gets-a-second-chance\> accessed <u>accessed date</u>. |
-| 6 | YouTube/Cyando — An Important Ruling for Platform Liability — Part 1 | [Website](<https://legalblogs.wolterskluwer.com/copyright-blog/youtubecyando-an-important-ruling-for-platform-liability-part-1/>) | Felix Reda and Joschka Selinger, ‘YouTube/Cyando — An Important Ruling for Platform Liability — Part 1’ (*Copyright Lately*, 1 July 2021) <https://legalblogs.wolterskluwer.com/copyright-blog/youtubecyando-an-important-ruling-for-platform-liability-part-1/\> accessed <u>accessed date</u>. |
-
-### 2.3 Seminar 3
-| 3: Right to Repair |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 3](./Seminar%203.pdf) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
+| [CI01ER01](#11-ci01er01) | Weaponizing Copyright (**Please read sections I–II and IV–VI. As the article addresses the US system only, you should page through section III, but you don't have to read it thoroughly.**) | [Journal Article](./CI01ER01.pdf) | Cathay Y. N. Smith, ‘Weaponizing Copyright’ (2021) 35 Harvard Journal of Law & Technology 193, <u>exact page</u>. |
+| [CI01RR05](#12-ci01rr05) | Theories of Intellectual Property | [Contribution to Edited Book](./CI01RR05.pdf) | William Fisher, ‘Theories of Intellectual Property’ in Stephen R. Munzer (ed), *New Essays in the Legal and Political Theory of Property* (Cambridge University Press 2001) <u>exact page</u>. |
+| **3: Right to Repair** |  |  |  |
 | # | Title | Access | OSCOLA |
 | 1 | The Fight for the Right to Repair Around the World | [Website](<https://www.repair.org/world>) |
-| 2 | The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People | [Journal Article](./CI03ER02.pdf) | S. Kyle Montello, ‘The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People’ (2020) 22 Tulane Journal of Technology and Intellectual Property 165, <u>exact page</u>. |
-| 3 | Consumer Perceptions of the Right to Repair | [Journal Article](./CI03ER03.pdf) | Aaron Perzanowski, ‘Consumer Perceptions of the Right to Repair’ (2021) 96 Indiana Law Journal 361, <u>exact page</u>. |
-| 4 | Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects | [Journal Article](./CI03ER04.pdf) | Christopher Boniface, ‘Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects’ (2024) 52 Computer Law & Security Review 1, <u>exact page</u>. |
-| 5 | ‘Slowing Down the Loop’: Smart Devices and the Right to Repair | [Journal Article](./CI03ER05.pdf) | Kayleen Manwaring, ‘‘Slowing Down the Loop’: Smart Devices and the Right to Repair’ (2024) 38 International Review of Law, Computers & Technology 268, <u>exact page</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
+| CI03ER02 | The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People | [Journal Article](./CI03ER02.pdf) | S. Kyle Montello, ‘The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People’ (2020) 22 Tulane Journal of Technology and Intellectual Property 165, <u>exact page</u>. |
+| CI03ER03 | Consumer Perceptions of the Right to Repair | [Journal Article](./CI03ER03.pdf) | Aaron Perzanowski, ‘Consumer Perceptions of the Right to Repair’ (2021) 96 Indiana Law Journal 361, <u>exact page</u>. |
+| CI03ER04 | Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects | [Journal Article](./CI03ER04.pdf) | Christopher Boniface, ‘Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects’ (2024) 52 Computer Law & Security Review 1, <u>exact page</u>. |
+| CI03ER05 | ‘Slowing Down the Loop’: Smart Devices and the Right to Repair | [Journal Article](./CI03ER05.pdf) | Kayleen Manwaring, ‘‘Slowing Down the Loop’: Smart Devices and the Right to Repair’ (2024) 38 International Review of Law, Computers & Technology 268, <u>exact page</u>. |
+| **4: eBooks and digital exhaustion** |  |  |  |
 | # | Title | Access | OSCOLA |
-| 1 | The End of Ownership: Personal Property in the Digital Economy | [Authored Book](./CI03RR01.pdf) | Aaron Perzanowski and Jason Schultz, *The End of Ownership: Personal Property in the Digital Economy* (The MIT Press 2016) <u>exact page</u>. |
-| 2 | Regulation Through “Bricking”: Private Ordering in the “Internet of Things” | [Journal Article](./CI03RR02.pdf) | Natasha Tusikov, ‘Regulation Through “Bricking”: Private Ordering in the “Internet of Things”’ (2019) 8 Internet Policy Review 1, <u>exact page</u>. |
-| 3 | Tractor Rage: Intellectual Property, Agriculture, Competition Policy, and the Right to Repair | [Journal Article](./CI03RR03.pdf) | Matthew Rimmer, ‘Tractor Rage: Intellectual Property, Agriculture, Competition Policy, and the Right to Repair’ (2025) 56 International Review of Intellectual Property and Competition Law 115, <u>exact page</u>. |
-| 4 | The Medical Right to Repair: Intellectual Property, the Maker Movement, and COVID-19 | [Journal Article](./CI03RR04.pdf) | Matthew Rimmer, ‘The Medical Right to Repair: Intellectual Property, the Maker Movement, and COVID-19’ (2023) 15 Sustainability 1, <u>exact page</u>. |
-| 5 | The Right to Repair, the Right to Tinker, and the Right to Innovate | [Journal Article](./CI03RR05.pdf) | Masayuki Hatta, ‘The Right to Repair, the Right to Tinker, and the Right to Innovate’ (2020) 19 Annals of Business Administrative Science 143, <u>exact page</u>. |
-| 6 | Repair as Research: How Copyright Impedes Learning About Devices | [Research Paper](./CI03RR06.pdf) | Anthony D. Rosborough and Aaron Perzanowski, ‘Repair as Research: How Copyright Impedes Learning About Devices’ (PIJIP/TLS Research Paper Series No. 101, American University Washington College of Law 2023) <u>exact page</u>. |
-
-### 2.4 Seminar 4
-| 4: eBooks and digital exhaustion |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 4-1](./Seminar%204-1.pdf) <br> [Seminar 4-2](./Seminar%204-2.pdf) <br> [Seminar 4-3](./Seminar%204-3.pdf) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | The Theory of Copyright Exhaustion (**Read sections 1.1–1.3 only (pp 7–16).**) | [Authored Book](./CI04ER01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
+| CI04ER01 | The Theory of Copyright Exhaustion (**Read sections 1.1–1.3 only (pp 7–16).**) | [Authored Book](./CI04ER01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
 | 2 | French Publishers Voice Concerns Over Rise in Used Book Sales | [Website](<https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales>) | Sarah Elzas, ‘French Publishers Voice Concerns Over Rise in Used Book Sales’ (*RFI*, 21 April 2024) <https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales\> accessed <u>accessed date</u>. |
-| 3 | e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives (**Read pages 8–24 (Executive summary) only.**) | [Report](./CI04ER03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
-| <span style="background:#C0C0C0">Case Law</span> |
+| CI04ER03 | e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives (**Read pages 8–24 (Executive summary) only.**) | [Report](./CI04ER03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
+| CI04ER04 | UsedSoft (C-128/11) | [EU Law](./CI04ER04.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
+| CI04ER05 | Tom Kabinet (C‑263/18) | [EU Law](./CI04ER05.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
+| CI04ER06 | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./CI04ER06.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
+| **5: Contracting out of copyright** |  |  |  |
 | # | Title | Access | OSCOLA |
-| 1 | UsedSoft (C-128/11) | [EU Law](./CI04CL01.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
-| 2 | Tom Kabinet (C‑263/18) | [EU Law](./CI04CL02.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
-| 3 | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./CI04CL03.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
+| CI05ER01 | Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./CI05ER01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
+| CI05ER02 | Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments | [Journal Article](./CI05ER02.pdf) | Adrian Aronsson-Storrier, ‘Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments’ (2016) 6 Queen Mary Journal of Intellectual Property 111, <u>exact page</u>. |
+| CI05ER03 | What We Buy When We Buy Now | [Journal Article](./CI05ER03.pdf) | Aaron Perzanowski and Chris Jay Hoofnagle, ‘What We Buy When We Buy Now’ (2017) 165 University of Pennsylvania Law Review 315, <u>exact page</u>. |
+| CI05ER04 | Wrapping Information in Contract: How Does it Affect the Public Domain? | [Contribution to Edited Book](./CI05ER04.pdf) | Lucie Guibault, ‘Wrapping Information in Contract: How Does it Affect the Public Domain?’ in Lucie Guibault and P. Bernt Hugenholtz (eds), *The Future of the Public Domain: Identifying the Commons in Information Law* (Kluwer Law International 2006) <u>exact page</u>. |
+| **6: Press vs big tech: bargaining over payments** |  |  |  |
 | # | Title | Access | OSCOLA |
-| 1 | The Need for a More Balanced Policy Approach for Digital Exhaustion | [Contribution to Edited Book](./CI04RR01.pdf) | Péter Mezei and Caterina Sganga, ‘The Need for a More Balanced Policy Approach for Digital Exhaustion’ in Péter Mezei, Hannibal Travis, and Anett Pogácsás (eds), *Harmonizing Intellectual Property Law for a Trans-Atlantic Knowledge Economy* (Brill \| Nijhoff 2024) <u>exact page</u>. |
-| 2 | Digital First Sale Doctrine Ante Portas | [Journal Article](./CI04RR02.pdf) | Peter Mezei, ‘Digital First Sale Doctrine Ante Portas’ (2015) 6 Journal of Intellectual Property, Information Technology and Electronic Commerce Law 23, <u>exact page</u>. |
-| 3 | Why Amazon Went Big Brother on Some Kindle E-Books | [Website](<https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/>) | Ken Fisher, ‘Why Amazon Went Big Brother on Some Kindle E-Books’ (*Ars Technica*, 18 July 2009) <https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/\> accessed <u>accessed date</u>. |
-| 4 | Capitol Records v ReDigi | [US Case](./CI04RR04.pdf) | *Capitol Records v. ReDigi* No. 16-2321 (2d Cir. 2018) <u>exact page</u>. |
-| 5 | The Digital Exhaustion of Copyright | [Journal Article](./CI04RR05.pdf) | Christina Angelopoulos, ‘The Digital Exhaustion of Copyright’ (2020) 79 The Cambridge Law Journal 227, <u>exact page</u>. |
-| 6 | Copyright Exhaustion: Law and Policy in the United States and the European Union | [Authored Book](./CI04RR06.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (2nd edn, Cambridge University Press 2022) <u>exact page</u>. |
-
-### 2.5 Seminar 5
-| 5: Contracting out of copyright |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 5](./Seminar%205.pdf) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./CI05ER01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
-| 2 | Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments | [Journal Article](./CI05ER02.pdf) | Adrian Aronsson-Storrier, ‘Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments’ (2016) 6 Queen Mary Journal of Intellectual Property 111, <u>exact page</u>. |
-| 3 | What We Buy When We Buy Now | [Journal Article](./CI05ER03.pdf) | Aaron Perzanowski and Chris Jay Hoofnagle, ‘What We Buy When We Buy Now’ (2017) 165 University of Pennsylvania Law Review 315, <u>exact page</u>. |
-| 4 | Wrapping Information in Contract: How Does it Affect the Public Domain? | [Contribution to Edited Book](./CI05ER04.pdf) | Lucie Guibault, ‘Wrapping Information in Contract: How Does it Affect the Public Domain?’ in Lucie Guibault and P. Bernt Hugenholtz (eds), *The Future of the Public Domain: Identifying the Commons in Information Law* (Kluwer Law International 2006) <u>exact page</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Copyright Limitations and Contracts: An Analysis of the Contractual Overridability of Limitations on Copyright | [Authored Book](./CI05RR01.pdf) | Luciee M.C.R. Guibau, *Copyright Limitations and Contracts: An Analysis of the Contractual Overridability of Limitations on Copyright* (Kluwer Law International 2002) <u>exact page</u>. |
-| 2 | Protecting User Rights Against Contract Override | [Research Paper](./CI05RR02.pdf) | Jonathan Band, ‘Protecting User Rights Against Contract Override’ (PIJIP/TLS Research Paper Series No. 97, American University Washington College of Law 2023) <u>exact page</u>. |
-| 3 | Privatizing Copyright | [Journal Article](./CI05RR03.pdf) | Xiyin Tang, ‘Privatizing Copyright’ (2023) 121 Michigan Law Review 753, <u>exact page</u>. |
-| 4 | End-User Flexibilities in Digital Copyright Law — An Empirical Analysis of End-user License Agreements | [Journal Article](./CI05RR04.pdf) | Péter Mezei and István Harkai, ‘End-User Flexibilities in Digital Copyright Law — An Empirical Analysis of End-user License Agreements’ (2022) 5 Interactive Entertainment and Law Review 2, <u>exact page</u>. |
-| 5 | Super-Copyright: Contracts, Preemption, and the Structure of Copyright Policymaking | [Journal Article](./CI05RR05.pdf) | Viva R. Moffat, ‘Super-Copyright: Contracts, Preemption, and the Structure of Copyright Policymaking’ (2007) 41 University of California, Davis 45, <u>exact page</u>. |
-| 6 | Copyright Policy and the Limits of Freedom of Contract | [Journal Article](./CI05RR06.pdf) | Niva Elkin-Koren, ‘Copyright Policy and the Limits of Freedom of Contract’ (1997) 12 Berkeley Technology Law Journal 93, <u>exact page</u>. |
-| 7 | Against Copyright Customization | [Journal Article](./CI05RR07.pdf) | Guy A. Rub, ‘Against Copyright Customization’ (2022) 107 Iowa Law Review 677, <u>exact page</u>. |
-
-### 2.6 Seminar 6
-| 6: Press vs big tech: bargaining over payments |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 6](./Seminar%206.pdf) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Copyright in the Digital Single Market Directive (**Read art. 15 and recitals 54–59 only.**) | [EU Law](./CI06ER01.pdf) | Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on Copyright and Related Rights in the Digital Single Market and Amending Directives 96/9/EC and 2001/29/EC [2019] OJ L130/92 (Copyright in the Digital Single Market Directive), art <u>XXX</u>. |
-| 2 | News Media and Digital Platforms Mandatory Bargaining Code 2021 (**Read following sections only: 52B, 52E, 52ZE(1), 52ZH, 52ZL(2), 52ZX(1)(2)(6)–(9).**) | [Australia Law](./CI06ER02.pdf) | Treasury Laws Amendment (News Media and Digital Platforms Mandatory Bargaining Code) Act 2021, s <u>XXX</u>. |
-| 3 | The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings | [Journal Article](./CI06ER03.pdf) | Ula Furgał, ‘The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings’ (2023) 72 GRUR International 650, <u>exact page</u>. |
+| CI06ER01 | Copyright in the Digital Single Market Directive (**Read art. 15 and recitals 54–59 only.**) | [EU Law](./CI06ER01.pdf) | Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on Copyright and Related Rights in the Digital Single Market and Amending Directives 96/9/EC and 2001/29/EC [2019] OJ L130/92 (Copyright in the Digital Single Market Directive), art <u>XXX</u>. |
+| CI06ER02 | News Media and Digital Platforms Mandatory Bargaining Code 2021 (**Read following sections only: 52B, 52E, 52ZE(1), 52ZH, 52ZL(2), 52ZX(1)(2)(6)–(9).**) | [Australia Law](./CI06ER02.pdf) | Treasury Laws Amendment (News Media and Digital Platforms Mandatory Bargaining Code) Act 2021, s <u>XXX</u>. |
+| CI06ER03 | The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings | [Journal Article](./CI06ER03.pdf) | Ula Furgał, ‘The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings’ (2023) 72 GRUR International 650, <u>exact page</u>. |
 | 4 | How Google Invests in News | [Website](<https://blog.google/products-and-platforms/products/news/how-google-invests-news/>) | Richard Gingras, ‘How Google Invests in News’ (*The Keyword*, 25 September 2019) <https://blog.google/products-and-platforms/products/news/how-google-invests-news/\> accessed <u>accessed date</u>. |
 | 5 | Microsoft’s Endorsement of Australia’s Proposal on Technology and the News | [Website](<https://blogs.microsoft.com/on-the-issues/2021/02/11/endorsement-australias-proposal-technology-news/>) | Brad Smith, ‘Microsoft’s Endorsement of Australia’s Proposal on Technology and the News’ (*The Official Microsoft Blog*, 11 February 2021) <https://blogs.microsoft.com/on-the-issues/2021/02/11/endorsement-australias-proposal-technology-news/\> accessed <u>accessed date</u>. |
 | 6 | Google AI Mode is Undermining Original Journalism | [Website](<https://pressgazette.co.uk/platforms/how-google-ai-mode-is-undermining-original-journalism/>) | Rob Waugh, ‘Google AI Mode is Undermining Original Journalism’ (*Press Gazette*, 29 May 2025) <https://pressgazette.co.uk/platforms/how-google-ai-mode-is-undermining-original-journalism/\> accessed <u>accessed date</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | CREATe Public Lectures on the Proposed EU Right for Press Publishers | [Journal Article](./CI06RR01.pdf) | James Meese, ‘CREATe Public Lectures on the Proposed EU Right for Press Publishers’ (2017) 39 European Intellectual Property Review 607, <u>exact page</u>. |
-| 2 | Making Google and Facebook Pay? Comparing the EU Press Publishers’ Right and Australian Draft Media Bargaining Code | [Website](<https://www.create.ac.uk/blog/2020/09/15/making-google-and-facebook-pay-comparing-the-eu-press-publishers-right-and-australian-draft-media-bargaining-code/>) | Ula Furgał, ‘Making Google and Facebook Pay? Comparing the EU Press Publishers’ Right and Australian Draft Media Bargaining Code’ (*CREATe*, 15 September 2020) <https://www.create.ac.uk/blog/2020/09/15/making-google-and-facebook-pay-comparing-the-eu-press-publishers-right-and-australian-draft-media-bargaining-code/\> accessed <u>accessed date</u>. |
-| 3 | Australia Pressured Google and Facebook to Pay for Journalism. Is America Next? | [Website](<https://www.cjr.org/business_of_news/australia-pressured-google-and-facebook-to-pay-for-journalism-is-america-next.php>) | Bill Grueskin, ‘Australia Pressured Google and Facebook to Pay for Journalism. Is America Next?’ (*Columbia Journalism Review*, 9 March 2022) <https://www.cjr.org/business_of_news/australia-pressured-google-and-facebook-to-pay-for-journalism-is-america-next.php\> accessed <u>accessed date</u>. |
-| 4 | Bargaining in the Shadow of the Press Publishers‘ Right | [Working Paper](./CI06RR04.pdf) | Ula Furgał and Martin Kretschmer, ‘Bargaining in the Shadow of the Press Publishers‘ Right’ (2024) CREATe Working Paper 2024/4, <u>exact page</u>  <https://zenodo.org/records/10948500\> accessed <u>accessed date</u>. |
-| 5 | Press Publishers Versus AI – Not a Matter of Property but of Fairness | [Journal Article](./CI06RR05.pdf) | Viktoria Kraetzig, ‘Press Publishers Versus AI – Not a Matter of Property but of Fairness’ (2025) 56 International Review of Intellectual Property and Competition Law 1752, <u>exact page</u>. |
-
-### 2.7 Seminar 7
-| 7: Open business models, follow-on and user innovation |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 7](./Seminar%207.pptx) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Democratizing Innovation | [Authored Book](./CI07ER01.pdf) | Eric von Hippel, *Democratizing Innovation* (The MIT Press 2006) <u>exact page</u>. |
-| 2 | The Time Limit on Copyright: An Unlikely Tragedy of the Intellectual Commons | [Journal Article](./CI07ER02.pdf) | Maxime Lambrecht, ‘The Time Limit on Copyright: An Unlikely Tragedy of the Intellectual Commons’ (2017) 43 European Journal of Law and Economics 475, <u>exact page</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | The Role of Openness in Creative Innovation: Evidence from Digital Crowdfunding | [Journal Article](./CI07RR01.pdf) | Kristofer Erickson, Fabian Homberg, and Martin Kretschmer, ‘The Role of Openness in Creative Innovation: Evidence from Digital Crowdfunding’ (2024) 206 Technological Forecasting and Social Change 1, <u>exact page</u>. |
-| 2 | Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry | [Journal Article](./CI07RR02.pdf) | Xavier Lecocq and Benoît Demil, ‘Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry’ (2006) 27 Strategic Management Journal 891, <u>exact page</u>. |
-
-### 2.8 Seminar 8
-| 8: Preservation/GLAM/TPMs |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 8](./Seminar%208.pptx) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
+| **8: Preservation/GLAM/TPMs** |  |  |  |
 | # | Title | Access | OSCOLA |
 | 1 | Technological Protection Measures and Digital Preservation: Evidence from Video Games | [Report](./CI08ER01.pdf) | Kristofer Erickson and Felix Rodriguez Perez, ‘Technological Protection Measures and Digital Preservation: Evidence from Video Games’ (Zonodo 2024) <u>exact page</u>. |
 | 2 | International Copyright Issues in Digital Preservation | [Contribution to Edited Book](./CI08ER02.pdf) | Sara Klein and Jess Whyte, ‘International Copyright Issues in Digital Preservation’ in Jessica Coates, Victoria Owen, and Susan Reilly (eds), Navigating Copyright for Libraries: Purpose and Scope (Walter de Gruyter GmbH 2022) <u>exact page</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Open Licensing Models in the Cultural Heritage Sector | [Report](./CI08RR01.pdf) | Bartolomeo Meletti and others, ‘Open Licensing Models in the Cultural Heritage Sector’ (Zonodo 2025) <u>exact page</u>. |
-
-### 2.9 Seminar 9
-| 9: NFTs, blockchain and virtual goods |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 9](./Seminar%209.pptx) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | The Treachery of Images: Non-Fungible Tokens and Copyright | [Journal Article](./CI09ER01.pdf) | Andres Guadamuz, ‘The Treachery of Images: Non-Fungible Tokens and Copyright’ (2021) 16 Journal of Intellectual Property Law & Practice 1367, <u>exact page</u>. |
-| 2 | Creation and Competition in the Metaverse | [Journal Article](./CI09ER02.pdf) | Friso Bostoen, ‘Creation and Competition in the Metaverse’ (2025) 8 Interactive Entertainment and Law Review 102, <u>exact page</u>. |
-
-### 2.10 Seminar 10
-| 10: Traditional knowledge |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **PPT** | [Seminar 10](./Seminar%2010.pdf) |
-| **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
+| **10: Traditional knowledge** |  |  |  |
 | # | Title | Access | OSCOLA |
 | 1 | Why Is Traditional Knowledge Different from All Other Intellectual Property? | [Journal Article](./CI10ER01.pdf) | William Fisher, ‘Why Is Traditional Knowledge Different from All Other Intellectual Property?’ (2019) 58 Washburn Law Journal 365, <u>exact page</u>. |
 | 2 | Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions (**This document is available in 6 languages. You will read the English version, but may consider reading another version for better understanding.**) | [Report](./CI10ER02.pdf) | WIPO, ‘Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions’ (WIPO 2020) <u>exact page</u>. |
 | 3 | Navigating Traditional Knowledge and IP — “The Adventures of the Yakuanoi” | [Website](<https://www.wipo.int/tk/en/tk/yakuanoi.html>) |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| 1 | Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions | [Website](<https://www.wipo.int/en/web/traditional-knowledge>) |
 
-## 3. Exam Preparation
-### 3.1 CI01ER01
-#### 3.1.1 I. Introduction
+### 1.1 CI01ER01
+#### I. Introduction
 <u>Original Text 1</u>: Copyright grants authors **exclusive rights** in their works in order to **encourage creation and dissemination** of socially valuable works. It permits copyright owners to assert their copyright **against violations** of those rights when necessary to **protect** their **market exclusivity** and **economic interests**.
 
 <u>Original Text 2</u>: Increasingly, however, copyright is being used by individuals to achieve **other objectives**. For instance, ... All these stories have one thing in common: they all involve copyright owners using copyright to advance **noncopyright interests**. This Article refers to these actions as “**weaponizing copyright**.”
@@ -238,7 +56,7 @@ April/May exam diet
 
 <u>Original Text 5</u>: Furthermore, there is no denying that there are many **other problematic and abusive uses of copyright**, such as overreaching copyright claims, copyright trolling, anticompetitive uses of copyright, or even abusive claims of copyright over employee creations. However, these uses of copyright are ultimately driven by **preserving market exclusivity** and **economic interests**. Therefore, even though these uses can be problematic, harmful, or abusive, they are nevertheless **excluded from** this Article’s analysis because they are not advanced for noncopyright purposes.
 
-#### 3.1.2 II. Weaponizing Copyright
+#### II. Weaponizing Copyright
 <u>Original Text 6</u>: Copyright encourages the **creation and dissemination of socially valuable works** to “**promote the Progress of Science and useful Arts**.” It does so by promising a copyright owner market exclusivity in their creative works. ... In other words, under copyright’s standard rationale, a copyright owner’s objective in asserting copyright is to ensure their **market exclusivity** in their work and to protect their **economic interests**.
 
 <u>Original Text 7</u>: Therefore, when we envision a typical copyright infringement dispute it might involve, for instance, a copyright owner asserting their copyright **against** an infringer who reproduces a copyrighted work **without authorization** or an infringer who incorporates a song **without obtaining a license**. Because every unauthorized copy an infringer makes, sells, or uses is **one less copy** someone will buy or license from the copyright owner, the copyright owner asserts their copyright to **prevent** these infringing uses **from supplanting** their market in their works.
@@ -273,4 +91,43 @@ April/May exam diet
 
 <u>Original Text 22</u>: In other instances, however, weaponizing copyright to protect privacy could **hinder** the rights of others to express facts or to comment on issues of public concern. Indeed, in certain instances, there appears to be a **thin line** between weaponizing copyright to **protect privacy** and weaponizing copyright to **erase facts and bury information**.
 
-#### 3.1.3 IV. What to Do About Copyright Weaponization?
+#### IV. What to Do About Copyright Weaponization?
+<u>Original Text 23</u>: Limiting copyright assertions to **only** instances where a copyright owner’s objective is to **protect economic interests** in their copyrighted works may also be the cleanest and clearest rule to **limit censorial uses** of copyright that impede speech or limit dissemination of information.
+
+<u>Original Text 24</u>: For instance, Judge Margaret McKeown **rejects** assertions of copyright that are incompatible with copyright and its function as the engine of **free expression**, including using copyright to protect **privacy**.
+
+<u>Original Text 25</u>: Because of this resulting imbalance, Buccafusco and Fagundes maintain that “[w]hen there is **no reason** to think that the defendant’s copy will **substitute** for the author’s work, there is **no threat** to the author’s **creative incentives**, and thus, **no need** for copyright protection.”
+
+<u>Original Text 26</u>: These poor rules have the potential to **distort** copyright law and future decisions by being **applied to archetypical copyright cases** “outside of the contexts in which they were relevant.”
+
+<u>Original Text 27</u>: As a preliminary matter, it can be difficult to a**ccurately determine** a copyright owner’s **economic** versus **noneconomic** objective, especially where the copyright owner may be motivated to achieve **multiple objectives**. One of those objectives could be to protect the economic interest and income stream from their copyrighted work, while another could be to punish and retaliate or to prevent the association of their works with people or causes that they find morally repugnant.
+
+#### V. Blurry Lines and Overlapping Objectives
+<u>Original Text 28</u>: At the same time, any reform must also consider the blurry lines and overlapping objectives that copyright owners often seek in weaponizing copyright. They should take into account existing power **imbalances** of parties involved in weaponizing copyright, and should **help** rather than hinder attempts to level the playing field between traditionally **vulnerable** victims and the **powerful**.
+
+### 1.2 CI01RR05
+#### I. A Preliminary Survey 
+<u>Original Text 1</u>: The first and most popular of the four employs the familiar utilitarian guideline that lawmakers’ beacon when shaping property rights should be the maximization of net **social welfare**. Pursuit of that end in the context of intellectual property, it is generally thought, requires lawmakers to strike an optimal balance between, on one hand, the power of **exclusive rights** to stimulate the creation of inventions and works of art and, on the other, the partially offsetting tendency of such rights to curtail widespread **public enjoyment** of those creations. 
+
+<u>Original Text 2</u>: Those characteristics in combination create a danger that the creators of such products will be unable to **recoup their “costs of expression”** (the time and effort devoted to writing or composing and the costs of negotiating with publishers or record companies), because they will be **undercut** by copyists who bear only the **low “costs of production”** (the costs of manufacturing and distributing books or CDs) and thus can offer consumers identical products **at very low prices**.
+
+<u>Original Text 3</u>: A related argument dominates the same authors’ study of trademark law. The primary economic benefits of **trademarks**, they contend, are (1) the **reduction of consumers’ “search costs”** (because it’s easier to pick a box of “Cheerios” off the grocery shelf than to read the list of ingredients on each container, and because consumers can rely upon their prior experiences with various brands of cereal when deciding which box to buy in the future) and (2) the creation of an incentive for businesses to produce consistently **high-quality** goods and services (because they know that their competitors cannot, by imitating their distinctive marks, take a free ride on the consumer good will that results from consistent quality). 
+
+<u>Original Text 4</u>: The second of the four approaches that currently dominate the theoretical literature springs from the propositions that a person who labors upon resources that are either unowned or “held in common” has a **natural property right** to the fruits of his or her efforts — and that the state has a duty to respect and enforce that natural right. ... Nozick contends, however, that fidelity to Locke’s theory would mandate two limitations on the inventor’s entitlements. **First**, persons who subsequently invented the same device **independently** must be permitted to make and sell it. Otherwise the assignment of the patent to the first inventor would leave them worse off. **Second**, for the same reason, patents **should not last longer than**, on average, it would have taken someone else to invent the same device had knowledge of the invention not disabled them from inventing it **independently**. 
+
+<u>Original Text 5</u>: The premise of the third approach — derived loosely from the writings of Kant and Hegel — is that private property rights are crucial to the satisfaction of some **fundamental human needs**; policymakers should thus strive to create and allocate entitlements to resources in the fashion that best enables people to **fulfill those needs**. From this standpoint, intellectual property rights may be justified either on the ground that they shield from appropriation or modification artifacts through which authors and artists have **expressed their “wills”** (an activity thought central to “personhood”) or on the ground that they **create social and economic conditions** conducive to creative intellectual activity, which in turn is **important to human flourishing**.’ ... The last of the four approaches is rooted in the proposition that property rights in general — and intellectual-property rights in particular — can and should be shaped so as to **help foster** the achievement of a **just and attractive culture**. 
+
+#### II. Explaining the Pattern
+<u>Original Text 6</u>:  The dependence of theorists on ideas formulated and popularized by judges, legislators, and lawyers is especially obvious in the case of **utilitarianism**. References to the role of intellectual-property rights in stimulating the **production of socially valuable works** riddle American law. Thus, for example, the constitutional provision upon which the copyright and patent statutes rest indicates that the purpose of those laws is to provide incentives for creative intellectual **efforts that will benefit the society** at large. The United States Supreme Court, when construing the **copyright and patent** statutes, has repeatedly insisted that their primary objective is **inducing the production and dissemination** of works of the intellect.
+
+<u>Original Text 7</u>: References to the importance of **rewarding** authors and inventors for their **labor** are almost as common. Proponents of legislative extensions of copyright or patent protection routinely make arguments like: “Our American society is founded on the principle that the one who creates something of value is entitled to enjoy the fruits of his labor.’ The United States **Supreme Court** often uses a similar vocabulary. For example, Justice Reed ended his opinion in *Mazer v. Stein* with the solemn statement: “Sacrificial days devoted to . . . creative activities **deserve rewards** commensurate with the services rendered.” **Lower court** opinions and **appellate** arguments frequently take the same tack.
+
+<u>Original Text 8</u>: The French and German copyright regimes, for example, have been strongly shaped by the writings of Kant and Hegel. This influence is especially evident in the generous protection those countries provide for **“moral rights”** — authors’ and artists’ rights to control the public disclosure of their works, to withdraw their works from public circulation, to receive appropriate credit for their creations, and above all to protect their works against mutilation or destruction. This cluster of entitlements has traditionally been justified on the ground that a work of art embodies and helps to realize its **creator’s personality or will**.
+
+#### III. Gaps, Conflicts, and Ambiguities 
+<u>Original Text 9</u>: 
+Most contemporary writers select for this purpose either the **“wealth-maximization” criterion**, which counsels lawmakers to select the system of rules that maximizes aggregate welfare measured by consumers’ ability and **willingness to pay for goods, services, and conditions**, ... Next, skeptics commonly object to both criteria on the grounds that they ignore the incommensurability of utility functions and **bias** analysis **in favor of the desires of the rich**, who, on average, value each dollar less than the poor.
+
+<u>Original Text 10</u>:  At the same time, however, social welfare is reduced by such things as larger **administrative costs** and larger **deadweight losses** associated with the higher prices of intellectual products that would have been created even in the absence of the enhanced incentive. ... Empirical work has suggested that patent law has been more important in **stimulating innovation** in certain industries (e.g., pharmaceuticals and chemicals) than in others, but has failed to answer the ultimate question of whether the stimulus to innovation is worth its **costs**.
+
+<u>Original Text 11</u>: Many years ago, Harold Demsetz argued that the copyright and patent systems play the important roles of letting potential producers of intellectual products **know what consumers want** and thus channelling productive efforts in directions most likely to **enhance consumer welfare**.
