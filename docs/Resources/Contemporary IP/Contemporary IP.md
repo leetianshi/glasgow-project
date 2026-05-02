@@ -3,48 +3,48 @@
 | 1: Introduction \| (Un)creative copyright |  |  |  |
 | ---- | ---- | ---- | ---- |
 | # | Title | Access | OSCOLA |
-| [CI01ER01](#11-ci01er01) | Weaponizing Copyright (**Please read sections I–II and IV–VI. As the article addresses the US system only, you should page through section III, but you don't have to read it thoroughly.**) | [Journal Article](./CI01ER01.pdf) | Cathay Y. N. Smith, ‘Weaponizing Copyright’ (2021) 35 Harvard Journal of Law & Technology 193, <u>exact page</u>. |
-| [CI01RR05](#12-ci01rr05) | Theories of Intellectual Property | [Contribution to Edited Book](./CI01RR05.pdf) | William Fisher, ‘Theories of Intellectual Property’ in Stephen R. Munzer (ed), *New Essays in the Legal and Political Theory of Property* (Cambridge University Press 2001) <u>exact page</u>. |
+| [ER01-01](#11-er01-01) | Weaponizing Copyright (**Please read sections I–II and IV–VI. As the article addresses the US system only, you should page through section III, but you don't have to read it thoroughly.**) | [Journal Article](./ER01-01.pdf) | Cathay Y. N. Smith, ‘Weaponizing Copyright’ (2021) 35 Harvard Journal of Law & Technology 193, <u>exact page</u>. |
+| [RR01-05](#12-rr01-05) | Theories of Intellectual Property | [Contribution to Edited Book](./RR01-05.pdf) | William Fisher, ‘Theories of Intellectual Property’ in Stephen R. Munzer (ed), *New Essays in the Legal and Political Theory of Property* (Cambridge University Press 2001) <u>exact page</u>. |
 | **3: Right to Repair** |  |  |  |
 | # | Title | Access | OSCOLA |
 | 1 | The Fight for the Right to Repair Around the World | [Website](<https://www.repair.org/world>) |
-| CI03ER02 | The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People | [Journal Article](./CI03ER02.pdf) | S. Kyle Montello, ‘The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People’ (2020) 22 Tulane Journal of Technology and Intellectual Property 165, <u>exact page</u>. |
-| CI03ER03 | Consumer Perceptions of the Right to Repair | [Journal Article](./CI03ER03.pdf) | Aaron Perzanowski, ‘Consumer Perceptions of the Right to Repair’ (2021) 96 Indiana Law Journal 361, <u>exact page</u>. |
-| CI03ER04 | Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects | [Journal Article](./CI03ER04.pdf) | Christopher Boniface, ‘Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects’ (2024) 52 Computer Law & Security Review 1, <u>exact page</u>. |
-| CI03ER05 | ‘Slowing Down the Loop’: Smart Devices and the Right to Repair | [Journal Article](./CI03ER05.pdf) | Kayleen Manwaring, ‘‘Slowing Down the Loop’: Smart Devices and the Right to Repair’ (2024) 38 International Review of Law, Computers & Technology 268, <u>exact page</u>. |
+| [ER03-02](#13-er03-02) | The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People | [Journal Article](./ER03-02.pdf) | S. Kyle Montello, ‘The Right to Repair and the Corporate Stranglehold over the Consumer: Profits over People’ (2020) 22 Tulane Journal of Technology and Intellectual Property 165, <u>exact page</u>. |
+| [ER03-03](#14-er03-03) | Consumer Perceptions of the Right to Repair | [Journal Article](./ER03-03.pdf) | Aaron Perzanowski, ‘Consumer Perceptions of the Right to Repair’ (2021) 96 Indiana Law Journal 361, <u>exact page</u>. |
+| [ER03-04](#15-er03-04) | Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects | [Journal Article](./ER03-04.pdf) | Christopher Boniface, ‘Towards a Right to Repair for the Internet of Things: A Review of Legal and Policy Aspects’ (2024) 52 Computer Law & Security Review 1, <u>exact page</u>. |
+| [ER03-05](#16-er03-05) | ‘Slowing Down the Loop’: Smart Devices and the Right to Repair | [Journal Article](./ER03-05.pdf) | Kayleen Manwaring, ‘‘Slowing Down the Loop’: Smart Devices and the Right to Repair’ (2024) 38 International Review of Law, Computers & Technology 268, <u>exact page</u>. |
 | **4: eBooks and digital exhaustion** |  |  |  |
 | # | Title | Access | OSCOLA |
-| CI04ER01 | The Theory of Copyright Exhaustion (**Read sections 1.1–1.3 only (pp 7–16).**) | [Authored Book](./CI04ER01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
+| ER04-01 | The Theory of Copyright Exhaustion (**Read sections 1.1–1.3 only (pp 7–16).**) | [Authored Book](./ER04-01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
 | 2 | French Publishers Voice Concerns Over Rise in Used Book Sales | [Website](<https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales>) | Sarah Elzas, ‘French Publishers Voice Concerns Over Rise in Used Book Sales’ (*RFI*, 21 April 2024) <https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales\> accessed <u>accessed date</u>. |
-| CI04ER03 | e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives (**Read pages 8–24 (Executive summary) only.**) | [Report](./CI04ER03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
-| CI04ER04 | UsedSoft (C-128/11) | [EU Law](./CI04ER04.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
-| CI04ER05 | Tom Kabinet (C‑263/18) | [EU Law](./CI04ER05.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
-| CI04ER06 | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./CI04ER06.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
+| ER04-03 | e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives (**Read pages 8–24 (Executive summary) only.**) | [Report](./ER04-03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
+| ER04-04 | UsedSoft (C-128/11) | [EU Law](./ER04-04.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
+| ER04-05 | Tom Kabinet (C‑263/18) | [EU Law](./ER04-05.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
+| ER04-06 | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./ER04-06.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
 | **5: Contracting out of copyright** |  |  |  |
 | # | Title | Access | OSCOLA |
-| CI05ER01 | Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./CI05ER01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
-| CI05ER02 | Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments | [Journal Article](./CI05ER02.pdf) | Adrian Aronsson-Storrier, ‘Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments’ (2016) 6 Queen Mary Journal of Intellectual Property 111, <u>exact page</u>. |
-| CI05ER03 | What We Buy When We Buy Now | [Journal Article](./CI05ER03.pdf) | Aaron Perzanowski and Chris Jay Hoofnagle, ‘What We Buy When We Buy Now’ (2017) 165 University of Pennsylvania Law Review 315, <u>exact page</u>. |
-| CI05ER04 | Wrapping Information in Contract: How Does it Affect the Public Domain? | [Contribution to Edited Book](./CI05ER04.pdf) | Lucie Guibault, ‘Wrapping Information in Contract: How Does it Affect the Public Domain?’ in Lucie Guibault and P. Bernt Hugenholtz (eds), *The Future of the Public Domain: Identifying the Commons in Information Law* (Kluwer Law International 2006) <u>exact page</u>. |
+| ER05-01 | Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./ER05-01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
+| ER05-02 | Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments | [Journal Article](./ER05-02.pdf) | Adrian Aronsson-Storrier, ‘Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments’ (2016) 6 Queen Mary Journal of Intellectual Property 111, <u>exact page</u>. |
+| ER05-03 | What We Buy When We Buy Now | [Journal Article](./ER05-03.pdf) | Aaron Perzanowski and Chris Jay Hoofnagle, ‘What We Buy When We Buy Now’ (2017) 165 University of Pennsylvania Law Review 315, <u>exact page</u>. |
+| ER05-04 | Wrapping Information in Contract: How Does it Affect the Public Domain? | [Contribution to Edited Book](./ER05-04.pdf) | Lucie Guibault, ‘Wrapping Information in Contract: How Does it Affect the Public Domain?’ in Lucie Guibault and P. Bernt Hugenholtz (eds), *The Future of the Public Domain: Identifying the Commons in Information Law* (Kluwer Law International 2006) <u>exact page</u>. |
 | **6: Press vs big tech: bargaining over payments** |  |  |  |
 | # | Title | Access | OSCOLA |
-| CI06ER01 | Copyright in the Digital Single Market Directive (**Read art. 15 and recitals 54–59 only.**) | [EU Law](./CI06ER01.pdf) | Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on Copyright and Related Rights in the Digital Single Market and Amending Directives 96/9/EC and 2001/29/EC [2019] OJ L130/92 (Copyright in the Digital Single Market Directive), art <u>XXX</u>. |
-| CI06ER02 | News Media and Digital Platforms Mandatory Bargaining Code 2021 (**Read following sections only: 52B, 52E, 52ZE(1), 52ZH, 52ZL(2), 52ZX(1)(2)(6)–(9).**) | [Australia Law](./CI06ER02.pdf) | Treasury Laws Amendment (News Media and Digital Platforms Mandatory Bargaining Code) Act 2021, s <u>XXX</u>. |
-| CI06ER03 | The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings | [Journal Article](./CI06ER03.pdf) | Ula Furgał, ‘The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings’ (2023) 72 GRUR International 650, <u>exact page</u>. |
+| ER06-01 | Copyright in the Digital Single Market Directive (**Read art. 15 and recitals 54–59 only.**) | [EU Law](./ER06-01.pdf) | Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on Copyright and Related Rights in the Digital Single Market and Amending Directives 96/9/EC and 2001/29/EC [2019] OJ L130/92 (Copyright in the Digital Single Market Directive), art <u>XXX</u>. |
+| ER06-02 | News Media and Digital Platforms Mandatory Bargaining Code 2021 (**Read following sections only: 52B, 52E, 52ZE(1), 52ZH, 52ZL(2), 52ZX(1)(2)(6)–(9).**) | [Australia Law](./ER06-02.pdf) | Treasury Laws Amendment (News Media and Digital Platforms Mandatory Bargaining Code) Act 2021, s <u>XXX</u>. |
+| ER06-03 | The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings | [Journal Article](./ER06-03.pdf) | Ula Furgał, ‘The Emperor Has No Clothes: How the Press Publishers’ Right Implementation Exposes Its Shortcomings’ (2023) 72 GRUR International 650, <u>exact page</u>. |
 | 4 | How Google Invests in News | [Website](<https://blog.google/products-and-platforms/products/news/how-google-invests-news/>) | Richard Gingras, ‘How Google Invests in News’ (*The Keyword*, 25 September 2019) <https://blog.google/products-and-platforms/products/news/how-google-invests-news/\> accessed <u>accessed date</u>. |
 | 5 | Microsoft’s Endorsement of Australia’s Proposal on Technology and the News | [Website](<https://blogs.microsoft.com/on-the-issues/2021/02/11/endorsement-australias-proposal-technology-news/>) | Brad Smith, ‘Microsoft’s Endorsement of Australia’s Proposal on Technology and the News’ (*The Official Microsoft Blog*, 11 February 2021) <https://blogs.microsoft.com/on-the-issues/2021/02/11/endorsement-australias-proposal-technology-news/\> accessed <u>accessed date</u>. |
 | 6 | Google AI Mode is Undermining Original Journalism | [Website](<https://pressgazette.co.uk/platforms/how-google-ai-mode-is-undermining-original-journalism/>) | Rob Waugh, ‘Google AI Mode is Undermining Original Journalism’ (*Press Gazette*, 29 May 2025) <https://pressgazette.co.uk/platforms/how-google-ai-mode-is-undermining-original-journalism/\> accessed <u>accessed date</u>. |
 | **8: Preservation/GLAM/TPMs** |  |  |  |
 | # | Title | Access | OSCOLA |
-| 1 | Technological Protection Measures and Digital Preservation: Evidence from Video Games | [Report](./CI08ER01.pdf) | Kristofer Erickson and Felix Rodriguez Perez, ‘Technological Protection Measures and Digital Preservation: Evidence from Video Games’ (Zonodo 2024) <u>exact page</u>. |
-| 2 | International Copyright Issues in Digital Preservation | [Contribution to Edited Book](./CI08ER02.pdf) | Sara Klein and Jess Whyte, ‘International Copyright Issues in Digital Preservation’ in Jessica Coates, Victoria Owen, and Susan Reilly (eds), Navigating Copyright for Libraries: Purpose and Scope (Walter de Gruyter GmbH 2022) <u>exact page</u>. |
+| ER08-01 | Technological Protection Measures and Digital Preservation: Evidence from Video Games | [Report](./ER08-01.pdf) | Kristofer Erickson and Felix Rodriguez Perez, ‘Technological Protection Measures and Digital Preservation: Evidence from Video Games’ (Zonodo 2024) <u>exact page</u>. |
+| ER08-02 | International Copyright Issues in Digital Preservation | [Contribution to Edited Book](./ER08-02.pdf) | Sara Klein and Jess Whyte, ‘International Copyright Issues in Digital Preservation’ in Jessica Coates, Victoria Owen, and Susan Reilly (eds), Navigating Copyright for Libraries: Purpose and Scope (Walter de Gruyter GmbH 2022) <u>exact page</u>. |
 | **10: Traditional knowledge** |  |  |  |
 | # | Title | Access | OSCOLA |
-| 1 | Why Is Traditional Knowledge Different from All Other Intellectual Property? | [Journal Article](./CI10ER01.pdf) | William Fisher, ‘Why Is Traditional Knowledge Different from All Other Intellectual Property?’ (2019) 58 Washburn Law Journal 365, <u>exact page</u>. |
-| 2 | Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions (**This document is available in 6 languages. You will read the English version, but may consider reading another version for better understanding.**) | [Report](./CI10ER02.pdf) | WIPO, ‘Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions’ (WIPO 2020) <u>exact page</u>. |
+| ER10-01 | Why Is Traditional Knowledge Different from All Other Intellectual Property? | [Journal Article](./ER10-01.pdf) | William Fisher, ‘Why Is Traditional Knowledge Different from All Other Intellectual Property?’ (2019) 58 Washburn Law Journal 365, <u>exact page</u>. |
+| ER10-02 | Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions (**This document is available in 6 languages. You will read the English version, but may consider reading another version for better understanding.**) | [Report](./ER10-02.pdf) | WIPO, ‘Intellectual Property and Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions’ (WIPO 2020) <u>exact page</u>. |
 | 3 | Navigating Traditional Knowledge and IP — “The Adventures of the Yakuanoi” | [Website](<https://www.wipo.int/tk/en/tk/yakuanoi.html>) |
 
-### 1.1 CI01ER01
+### 1.1 ER01-01
 #### I. Introduction
 <u>Original Text 1</u>: Copyright grants authors **exclusive rights** in their works in order to **encourage creation and dissemination** of socially valuable works. It permits copyright owners to assert their copyright **against violations** of those rights when necessary to **protect** their **market exclusivity** and **economic interests**.
 
@@ -105,7 +105,7 @@
 #### V. Blurry Lines and Overlapping Objectives
 <u>Original Text 28</u>: At the same time, any reform must also consider the blurry lines and overlapping objectives that copyright owners often seek in weaponizing copyright. They should take into account existing power **imbalances** of parties involved in weaponizing copyright, and should **help** rather than hinder attempts to level the playing field between traditionally **vulnerable** victims and the **powerful**.
 
-### 1.2 CI01RR05
+### 1.2 RR01-05
 #### I. A Preliminary Survey 
 <u>Original Text 1</u>: The first and most popular of the four employs the familiar utilitarian guideline that lawmakers’ beacon when shaping property rights should be the maximization of net **social welfare**. Pursuit of that end in the context of intellectual property, it is generally thought, requires lawmakers to strike an optimal balance between, on one hand, the power of **exclusive rights** to stimulate the creation of inventions and works of art and, on the other, the partially offsetting tendency of such rights to curtail widespread **public enjoyment** of those creations. 
 
@@ -131,3 +131,58 @@ Most contemporary writers select for this purpose either the **“wealth-maximiz
 <u>Original Text 10</u>:  At the same time, however, social welfare is reduced by such things as larger **administrative costs** and larger **deadweight losses** associated with the higher prices of intellectual products that would have been created even in the absence of the enhanced incentive. ... Empirical work has suggested that patent law has been more important in **stimulating innovation** in certain industries (e.g., pharmaceuticals and chemicals) than in others, but has failed to answer the ultimate question of whether the stimulus to innovation is worth its **costs**.
 
 <u>Original Text 11</u>: Many years ago, Harold Demsetz argued that the copyright and patent systems play the important roles of letting potential producers of intellectual products **know what consumers want** and thus channelling productive efforts in directions most likely to **enhance consumer welfare**.
+
+<u>Original Text 12</u>: Its objective is to eliminate or reduce the tendency of intellectual-property rights to foster **duplicative or uncoordinated** inventive activity. The foundation for this approach was laid by a group of economists, led by Yoram Barzel, who over the last three decades have explored the ways in which competition among firms complicates the impact of the **patent** system upon **inventive** activity. This body of literature has sensitized legal theorists to three stages in the inventive process at which **economic waste** can occur.
+
+<u>Original Text 13</u>: With respect to incentive theory, the primary problem is lack of the information necessary to apply the analytic. **To what extent** is the **production** of specific sorts of intellectual products dependent upon **maintenance** of copyright or patent protection? With respect to some fields, some commentators have answered: very **little**.
+
+#### IV. The Value of Theory 
+<u>Original Text 14</u>: That conclusion, however, does not imply that the theories have no practical use. In two respects, I suggest, they retain considerable value. **First**, while they have failed to make good on their promises to provide comprehensive prescriptions concerning the ideal shape of intellectual-property law, they can help **identify** nonobvious attractive **resolutions** of particular problems. **Second**, they can foster valuable **conversations** among the various participants in the **lawmaking** process.
+
+<u>Original Text 15</u>: Through their pervasive presence in the media, sports and entertainment celebrities come to **symbolize** certain **ideas and values**. ... Because celebrities are an important part of our public vocabulary, a **parody** of a celebrity does not merely lampoon the celebrity, but exposes the **weakness** of the idea or value that the celebrity symbolizes in society.
+
+### 1.3 ER03-02
+#### I. Introduction
+<u>Original Text 1</u>: With the addition of these embedded computers and software, it is now **more difficult** for individuals to repair their products. However, this difficulty does not arise from any inherent complexities within the product itself, but rather because the manufacturers of these products do not want you tinkering with “their” products. Manufacturers implement **digital rights management (DRM)** software to artificially **“lock out”** consumers from performing basic repairs.
+
+<u>Original Text 2</u>: Manufacturers maintain that **consumers own the hardware**, but the **manufacturers really own the software**. Since consumers are only licensed to use the software, this creates an **additional roadblock** in any attempts to repair defective products.
+
+<u>Original Text 3</u>: The main opponents of right to repair are manufacturers—manufacturers do not want you to repair your products; they want you to **buy new ones**. If you must repair your device, manufacturers want consumers to use their **repair networks** where they maintain a **monopoly** on repair.
+
+<u>Original Text 4</u>: The DMCA makes it illegal to **circumvent** a technological measure (e.g., DRM) that effectively controls access to copyrighted works. The DMCA also bans the **manufacture** of tools to circumvent these locks. Enacted in 1998, the DMCA was implemented to prevent people from pirating **CDs and DVDs**. The DMCA, along with DRM, has made its way from music and movies to **smartphones, tractors, home appliances, and medical equipment**.
+
+<u>Original Text 5</u>: In 2018, Congress passed **exemptions** to the DMCA that allow consumers the ability to 88 certain software-embedded devices without committing copyright infringement. Sadly, these **exemptions** are extremely **narrow** and only apply to **specific** categories including **smartphones, home appliances, Internet of Things gadgets, and motorized land vehicles**. Further, they **do not** provide repairers access to **manuals, parts, or software tools** to circumvent these restrictions for the purpose of repair.
+
+<u>Original Text 6</u>: For example, John Deere tractors rely on eight different software and hardware components to function. One malfunctioning sensor can render a machine completely inoperable. ... Now, the computer systems embedded in the equipment utilize DRM and Technological Protection Measures (TPM) to reject non-proprietary parts. Further, repairers need access to John Deere’s diagnostics software to repair the equipment. By adding these hurdles to repair, John Deere maintains an **additional revenue** stream because they **force** farmers to utilize their authorized repair network to repair equipment.
+
+#### II. Opponents’ Reasoning Against Right to Repair
+<u>Original Text 7</u>: Opponents maintain that right to repair legislation will infringe on manufacturers’ intellectual property rights including **copyright, trademark, and trade secrets**. They argue that granting repairers the ability to bypass software restrictions on consumer products leaves those products susceptible to infringing uses. Opponents reason that allowing consumers to bypass these restrictions will facilitate **piracy** by giving individuals access to highly expressive works that are not otherwise accessible. Manufacturers argue that accessing their parts in the “grey market” is a violation of their **trademark** and further claim that these products are counterfeits. Manufacturers also argue that providing information to facilitate repair would require them to divulge **trade secrets**.
+
+<u>Original Text 8</u>: Opponents maintain that their current repair networks provide safe quality products and services. Opponents suggest that third-party repairs create **potential safety hazards** for the consumer for which the company could potentially be held liable. ... Opponents also suggest that right to repair legislation could lead to **cybersecurity risks**. For example, Apple cited consumer security concerns when it disabled iPhones with fingerprint scanners repaired by third-party servicers. Apple maintained that **invalid** components compromised the **security** of the device.
+
+<u>Original Text 9</u>: Manufacturers also assert that manufacturer warranties prohibit them from supporting right to repair. However, according to the **Magnuson-Moss Warranty Act**, it is **illegal** for a manufacturer to condition **warranty** coverage on the use of their **repair** services and parts. Yet, this practice is rampant. A recent study found that **90%** of companies surveyed were in **violation** of the Act.
+
+<u>Original Text 10</u>: The key driver for opponents of right to repair is, however, **corporate profits**. .... Manufacturers want to **monopolize** repair services because monopolizing repair is extremely **profitable**. It is estimated that Apple generates between **$1-$2 billion** annually for product **repairs**. However, device **upgrades** are even **more profitable** than repairs.
+
+#### III. Proponents’ Reasoning for Right to Repair
+<u>Original Text 11</u>: Proponents of right to repair legislation posit that individuals have ownership and **dominion** over the products they lawfully acquired. They maintain that the proliferation of software-enabled devices is challenging “**long-established**, fundamental rights and **expectations** of consumers” for those products.
+
+<u>Original Text 12</u>: Proponents also argue that right to repair is **transformative** and, therefore, a non-infringing **fair use**. ... Modifying device software in order to enable new uses is the essence of transformative under the **fair use** doctrine. Proponents insist that enabling **interoperability** and increasing the **utility** of hardware are **fair uses**.
+
+<u>Original Text 13</u>: Proponents maintain that the purpose of **firmware** is primarily **functional** in nature.146 They claim that software used to **restrict** device access “bears only a **thin copyright interest** that is overcome by the need to use that code for **interoperability**.”
+
+<u>Original Text 14</u>: Under the Lanham Act, trademark owners are able to obtain **seizure** orders to prevent the distribution of **counterfeit** goods. However, companies are **misusing** these provisions to control the **grey market**. Trademark law was enacted with the intent to help consumers **identify** products, not to **prevent their repair**.
+
+<u>Original Text 15</u>: Proponents of right to repair contend that current market conditions are **inefficient** and **anti-competitive**. ... Further, authorized repair facilities are **not easily accessible** to everyone.
+
+<u>Original Text 16</u>: Proponents also assert that current practices are unsustainable because of the contribution to e-waste. **E-waste** is incredibly **toxic**; a United Nations’ report found that e-waste is the **fastest growing** part of waste stream in the world, with tens of millions of tons **discarded** annually. ... The Institute of Electrical and Electronics Engineers states that extending a phone’s life from **one to four years** “decreases its environmental impact by about **40 percent**.”
+
+#### IV. The Future of Right to Repair
+<u>Original Text 17</u>: The 2018 exemptions to the DMCA were a huge step in the right direction in the fight for **right to repair**. However, these exemptions only grant consumers the right to repair. Repairers still need access to **parts, diagnostic tools, and repair manuals** to fix devices.
+
+### 1.4 ER03-03
+
+
+### 1.5 ER03-04
+
+### 1.6 ER03-05

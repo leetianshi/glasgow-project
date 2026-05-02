@@ -44,6 +44,8 @@ There are **no extensions!**
 
 [2025 Exam](./2025%20Exam.pdf)
 
+[LLM Download Exam Submission Template](./LLM%20Download%20Exam%20Submission%20Template.docx)
+
 ## 2. PPT & Reading List
 ### 2.1 Seminar 1
 | 1. Introduction to mainstream AI applications, technologies, existing legal and ethical landscape |  |  |
