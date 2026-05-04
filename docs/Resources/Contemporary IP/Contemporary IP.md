@@ -22,10 +22,10 @@
 | [ER04-06](#111-er04-06) | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./ER04-06.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
 | **5: Contracting out of copyright** |  |  |  |
 | # | Title | Access | OSCOLA |
-| ER05-01 | Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./ER05-01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
-| ER05-02 | Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments | [Journal Article](./ER05-02.pdf) | Adrian Aronsson-Storrier, ‘Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments’ (2016) 6 Queen Mary Journal of Intellectual Property 111, <u>exact page</u>. |
-| ER05-03 | What We Buy When We Buy Now | [Journal Article](./ER05-03.pdf) | Aaron Perzanowski and Chris Jay Hoofnagle, ‘What We Buy When We Buy Now’ (2017) 165 University of Pennsylvania Law Review 315, <u>exact page</u>. |
-| ER05-04 | Wrapping Information in Contract: How Does it Affect the Public Domain? | [Contribution to Edited Book](./ER05-04.pdf) | Lucie Guibault, ‘Wrapping Information in Contract: How Does it Affect the Public Domain?’ in Lucie Guibault and P. Bernt Hugenholtz (eds), *The Future of the Public Domain: Identifying the Commons in Information Law* (Kluwer Law International 2006) <u>exact page</u>. |
+| [ER05-01](#112-er05-01) | Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./ER05-01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
+| [ER05-02](#113-er05-02) | Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments | [Journal Article](./ER05-02.pdf) | Adrian Aronsson-Storrier, ‘Copyright Exceptions and Contract in the UK: The Impact of Recent Amendments’ (2016) 6 Queen Mary Journal of Intellectual Property 111, <u>exact page</u>. |
+| [ER05-03](#114-er05-03) | What We Buy When We Buy Now | [Journal Article](./ER05-03.pdf) | Aaron Perzanowski and Chris Jay Hoofnagle, ‘What We Buy When We Buy Now’ (2017) 165 University of Pennsylvania Law Review 315, <u>exact page</u>. |
+| [ER05-04](#115-er05-04) | Wrapping Information in Contract: How Does it Affect the Public Domain? | [Contribution to Edited Book](./ER05-04.pdf) | Lucie Guibault, ‘Wrapping Information in Contract: How Does it Affect the Public Domain?’ in Lucie Guibault and P. Bernt Hugenholtz (eds), *The Future of the Public Domain: Identifying the Commons in Information Law* (Kluwer Law International 2006) <u>exact page</u>. |
 | **6: Press vs big tech: bargaining over payments** |  |  |  |
 | # | Title | Access | OSCOLA |
 | ER06-01 | Copyright in the Digital Single Market Directive (**Read art. 15 and recitals 54–59 only.**) | [EU Law](./ER06-01.pdf) | Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on Copyright and Related Rights in the Digital Single Market and Amending Directives 96/9/EC and 2001/29/EC [2019] OJ L130/92 (Copyright in the Digital Single Market Directive), art <u>XXX</u>. |
@@ -438,3 +438,61 @@ In turn, this can leave libraries **dangerously** exposed to discontinuity of se
 <u>Original Text 10</u>: <span style="color:#B00020;">**52**</span> ... the limitation of simultaneous downloads to a **single copy** implies that the lending capacity of the library concerned **does not exceed** that which it would have as regards a **printed work** ...
 
 <u>Original Text 11</u>: <span style="color:#B00020;">**72**</span> ... Article 6(1) of Directive 2006/115 must be interpreted as meaning that it **precludes** the **public lending exception** ... **from** applying to the making available by a public library of a digital copy of a book in the case where that copy was **obtained from an unlawful source**.
+
+### 1.12 ER05-01
+**5.1. Introduction**
+
+<u>Original Text 1</u>: This is the result of fundamental changes in the creative ecosystem that pull in opposite directions: on the one hand, the rise of **user-generated content** places **individual users at the forefront of creative processes**, strengthening the need to facilitate unlicensed use of creative materials. On the other hand, *8* facilitates a continuing **expansion of copyright** and strengthens **restrictions on the freedom of users** to access, experience, transform, and share creative materials. 
+
+<u>Original Text 2</u>: The rise of cloud computing and mobile Internet has transformed the delivery of content **from the sale of copies to the provision of services**. Streaming gives content **owners ongoing control over the use and distribution** of copyrighted materials. ... Access to creative works is often made possible by **online intermediaries**, **using algorithms to filter, block, and disable access to some materials**. The robustness of algorithmic filtering, removal, and blocking practices is effectively changing copyright default: copyrighted materials were once available unless proven infringing, while now materials **detected by algorithms are unavailable unless explicitly authorized by the copyright owner**.
+
+<u>Original Text 3</u>: In this chapter, I argue that these changes necessitate a **user-rights approach** to copyright law. ... Users’ interests are often examined through the prism of Limitations and Exceptions (L&E) to copyright. However, this narrow view **overlooks the users’ critical role** in serving the **goals of copyright law** and may therefore ultimately lead to inefficient outcomes. ... To achieve copyright goals and promote creation, it is necessary to design rights and duties for both authors and users of creative works and to define p**ermissible uses** that serve the objectives of copyright law as rights rather than as a legal defense. The framing of permissible uses as rights offers a legal framework for analyzing the **potential threats** to desirable uses which serve copyright purposes. This is particularly important given the emerging **threats to the freedom of users and access to knowledge**. 
+
+**5.2. Users in the Digital Ecosystem: Opportunities and Threats**
+
+<u>Original Text 4</u>: Digital technology has **changed the way we create, share, and experience cultural works**, placing **users** at the forefront of **creative processes**.
+
+<u>Original Text 5</u>: Users blog, tweet, edit, take pictures, shoot videos, write software, compose music, report the news, and share pictures, news, and videos on social networks. The digital format enables **easy mix and match, cut and paste, edit and remix**.
+
+<u>Original Text 6</u>: Users often lack the necessary **legal knowledge and skills** required to acquire a license to use copyrighted materials, and even more importantly they often lack a **business model** for funding a license fee. The **uncertainty** regarding permissible uses and the **risk of liability** dampen users’ engagement in cultural works and **impede participation in generating culture**.
+
+<u>Original Text 7</u>: We have become **dependent** on **digital content for almost every aspect of life**: from reading the news and sharing pictures on social media to watching films, listening to music, and managing our financial affairs. Therefore, the **rights and duties pertaining to the use of digital content** might be essential not only for professional and business matters but also for our **social life, personal growth, and self-expression**. 
+
+<u>Original Text 8</u>: The rise of cloud computing and mobile Internet has transformed the delivery of content **from the sale of copies to the provision of services**, facilitating **ongoing control** over the use and distribution of copyrighted materials. ... With the shift from commodity to service, the scope of user rights is defined, for the most part, by a license and the design, using Digital Rights Management (DRM) Systems or Technological Protection Measures (TPM). Consequently, users are subject to ongoing and intermittent changes in the terms of **access to their purchased copies** (e.g., Apple reducing the number of authorized copies of the playlist) or alternatively their **access to purchased content may be terminated altogether**.
+
+**5.3. Formulating a Theory of User Rights**
+
+<u>Original Text 9</u>: In copyright law **users** are often perceived through the prism of **L&E** to copyright. L&Es define **circumstances** where some uses of protected works could be made without authorization. Copyright law may define such **circumstances** by rules which apply to **strictly defined users** (e.g., nonprofit educational institutions), particular uses (e.g., temporary copying), or certain types of works (e.g., computer programs).
+
+
+<u>Original Text 10</u>: Yet fair use provisions are rather **vague and indeterminate**, creating a **high risk of liability**. The uncertainty as to permissible uses and the risk of liability may **impede some uses**, which are otherwise legitimate. ... the high level of **uncertainty** regarding the scope of permissible use for **educational** purposes under fair use might have a strong chilling effect on **making materials available to students for the purpose of teaching and learning**.
+
+<u>Original Text 11</u>: One set of justifications for L&E focuses on the need to **balance author rights** against a **public interest**. From this perspective, it is sometimes necessary to limit the rights of authors in cases where a rigid application of their rights would prevent **socially beneficial uses** and **possibly conflict with the public interest in freedom of expression, competition, consumer protection, or innovation**.
+
+<u>Original Text 12</u>: In a seminal article Wendy Gordon argued that fair use could justify some **socially beneficial uses** that would fail to occur due to a **market failure**. One example is **high transaction costs**. When transaction costs are higher than the expected benefits to the parties, a license agreement might not take place, and **the use will not materialize even when it is likely to increase overall welfare**. ... Similarly, a socially beneficial use may not occur due to another market failure: **externalities**. For instance, even though the public could benefit from compatible computer programs, which are likely to facilitate competitive prices and facilitate further innovation, a license **might not be available**. Rightholders may **refuse** to license a compatible program, or may **overcharge** for it, in order to **minimize competition**.
+
+<u>Original Text 13</u>: **Permitting too much** unauthorized use **extinguishes the economic incentive to create**, which copyright is intended to provide, while **strict** copyright enforcement may **stifle the dissemination of works and limit access by the general public**, which is the ultimate goal that copyright seeks to promote in the first place. ... we must be careful not to place **overbroad restrictions** on the use of copyrighted works, because to do so would **prevent** would-be authors from effectively **building on the ideas of others**.
+
+<u>Original Text 14</u>: I argue that **use** is a fundamental part of any **creative process** and therefore it must be an **integral part of any copyright policy**. Drawing on the role of users in achieving copyright goals, I seek to identify the **interests of users wherein protection** under copyright law is deemed to **achieve its intended purposes**. 
+
+<u>Original Text 15</u>: It considers **users and usage** as **inputs** into a **creative process** rather than recipients of outputs from creative processes. This broader understanding of the way cultural works are created and shared recognizes the **dynamic, interactive, and diffused nature of creative processes**.
+
+<u>Original Text 16</u>: The **use** of copyrighted materials is crucial especially for **learning, training, and acquiring the skills necessary to become an author**. Authors’ **creative skills and their ability to generate new works** depend, inter alia , on opportunities to **access previous works**.
+
+<u>Original Text 17</u>: Creation is presumed to be incremental – new works are built upon previous works – and current authors’ rights are balanced against those of future authors. Authors are often **users of preexisting materials**. ... Creative works are often the **primary resource for further creation**. Software developers ... artists ... Productive users ...
+
+<u>Original Text 18</u>: With the rise of UGC, users’ **freedom to use** copyrighted materials without seeking a **license** has become even more crucial for achieving copyright goals. ... The need to acquire a **license** prior to each and **every use of copyrighted materials** could make it prohibitively **expensive** for individual users to make use of preexisting works.
+
+<u>Original Text 19</u>: In other words, **authors’ rights** in their creative works (for incentives or just reward) and **users’ rights** to use them (e.g., read, learn, disseminate, reuse, and transform) are different mechanisms for **promoting copyright goals**. This analysis suggests that copyright law is not confined merely to designing a proprietary regime in informational works: it also designs a regime where some uses **fall beyond the scope of ownership and could be used without a license**.
+
+<u>Original Text 20</u>: Educational use requires that access to learning materials remains **affordable** and that licensing fees **do not hinder learning**. 
+
+<u>Original Text 21</u>: Digital distribution often involves built-in surveillance. When music or apps are downloaded to a smartphone, or an eBook is downloaded to an e-Reader such as Kindle, rightholders may collect and retain **detailed information about users, their reading habits and intellectual preferences**. ... **Freedom from ongoing monitoring** is necessary to protect the intimacy and private nature of the educational experience that is essential for **meaningful learning**. ... Enabling users to freely participate in cultural discourse may **require access without surveillance**. ... From a user-rights perspective, a right to secure **continued access to knowledge resources** is essential for users’ participation in **cultural processes**.
+
+### 1.13 ER05-02
+
+
+### 1.14 ER05-03
+
+
+### 1.15 ER05-04
