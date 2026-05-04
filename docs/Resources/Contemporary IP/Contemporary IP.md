@@ -17,9 +17,9 @@
 | [ER04-01](#17-er04-01) | The Theory of Copyright Exhaustion (**Read sections 1.1–1.3 only (pp 7–16).**) | [Authored Book](./ER04-01.pdf) | Péter Mezei, *Copyright Exhaustion: Law and Policy in the United States and the European Union* (Cambridge University Press 2022) <u>exact page</u>. |
 | 2 | French Publishers Voice Concerns Over Rise in Used Book Sales | [Website](<https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales>) | Sarah Elzas, ‘French Publishers Voice Concerns Over Rise in Used Book Sales’ (*RFI*, 21 April 2024) <https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales\> accessed <u>accessed date</u>. |
 | [ER04-03](#18-er04-03) | e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives (**Read pages 8–24 (Executive summary) only.**) | [Report](./ER04-03.pdf) | Kenny Barr and others, ‘e-Books: Evidence and Analysis of e-Lending Markets in Europe. Competition Law and Copyright Law Perspectives’ (Zenodo 2025) <u>exact page</u>. |
-| ER04-04 | UsedSoft (C-128/11) | [EU Law](./ER04-04.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
-| ER04-05 | Tom Kabinet (C‑263/18) | [EU Law](./ER04-05.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
-| ER04-06 | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./ER04-06.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
+| [ER04-04](#19-er04-04) | UsedSoft (C-128/11) | [EU Law](./ER04-04.pdf) | Case C-128/11 *UsedSoft* EU:C:2012:407 <u>[exact paragraph]</u>. |
+| [ER04-05](#110-er04-05) | Tom Kabinet (C‑263/18) | [EU Law](./ER04-05.pdf) | Case C‑263/18 *Tom Kabinet* EU:C:2019:1111 <u>[exact paragraph]</u>. |
+| [ER04-06](#111-er04-06) | Vereniging Openbare Bibliotheken (C-174/15) | [EU Law](./ER04-06.pdf) | Case C-174/15 *Vereniging Openbare Bibliotheken* EU:C:2016:856 <u>[exact paragraph]</u>. |
 | **5: Contracting out of copyright** |  |  |  |
 | # | Title | Access | OSCOLA |
 | ER05-01 | Copyright in a Digital Ecosystem: A User-Rights Approach | [Contribution to Edited Book](./ER05-01.pdf) | Niva Elkin-Koren, ‘Copyright in a Digital Ecosystem: A User-Rights Approach’ in Ruth L. Okediji (ed), *Copyright Law in an Age of Limitations and Exceptions* (Cambridge University Press 2017) <u>exact page</u>. |
@@ -357,3 +357,84 @@ In turn, this can leave libraries **dangerously** exposed to discontinuity of se
 (1) Clarification of what constitutes a lawful source. ...<br>
 (2) Regulation of licensing contracts. ...<br>
 (3) Limiting the exercise of exclusive rights. ...
+
+### 1.9 ER04-04
+<u>Original Text 1</u>: <span style="color:#B00020;">**17**</span> Article 4 of the directive, ‘Restricted acts’, provides:<br>
+...<br>
+2.The **first sale** in the Community of a **copy** of a program by the rightholder or with his consent shall **exhaust the distribution right** within the Community of that **copy**, ...
+
+<u>Original Text 2</u>: <span style="color:#B00020;">**35**</span> ... whether and under what conditions the **downloading from the internet of a copy of a computer program**, authorised by the copyright holder, can give rise to **exhaustion** of the right of distribution of that copy in the European Union within the meaning of Article 4(2) of Directive 2009/24.
+
+<u>Original Text 3</u>: <span style="color:#B00020;">**40**</span> ... It follows that that term must be regarded, for the purposes of applying the directive, as designating an **autonomous concept of European Union law**, which must be interpreted in a **uniform** manner throughout the **territory of the European Union** (see, to that effect, DR and TV2 Danmark, paragraph 34).
+
+<u>Original Text 4</u>: <span style="color:#B00020;">**42**</span> According to a commonly accepted definition, a **‘sale’** is an agreement by which a person, in return for payment, transfers to another person his rights of ownership in an item of **tangible or intangible property** belonging to him. ...
+
+<u>Original Text 5</u>: <span style="color:#B00020;">**44**</span> ... the **downloading** of a copy of a computer program and the **conclusion** of a user licence agreement for that copy form an indivisible **whole**.
+
+<u>Original Text 6</u>: <span style="color:#B00020;">**45**</span> ... in return for payment of a fee, a right to use that copy for an **unlimited period** ... thus intended to make the copy usable by the customer, **permanently**, in return for payment of a fee designed to enable the copyright holder to obtain a **remuneration** corresponding to the **economic value** of the copy of the work of which it is the proprietor.
+
+<u>Original Text 7</u>: <span style="color:#B00020;">**48**</span> ... the **transfer** by the copyright holder to a customer of a copy of a computer program, accompanied by the **conclusion** between the same parties of a user licence agreement, constitutes a ‘**first sale** ... of a copy of a program’ ...
+
+<u>Original Text 8</u>: <span style="color:#B00020;">**49**</span> ... if the term **‘sale’** within the meaning of Article 4(2) of Directive 2009/24 **were not given a broad interpretation as encompassing all forms of product** marketing characterised by the grant of a right to use a copy of a computer program ... suppliers would merely have to call the contract a **‘licence’** rather than a **‘sale’** in order to **circumvent** the rule of exhaustion and divest it of all scope.
+
+<u>Original Text 9</u>: <span style="color:#B00020;">**55**</span> ... **Article 4(2)** ... makes no distinction according to the **tangible or intangible** form of the copy in question.
+
+<u>Original Text 10</u>: <span style="color:#B00020;">**61**</span> ... from an economic point of view, the sale of a computer program on **CD-ROM or DVD** and the sale of a program by **downloading** from the internet are **similar**. The **on-line transmission** method is the functional equivalent of the supply of a **material medium**.
+
+<u>Original Text 11</u>: <span style="color:#B00020;">**63**</span> To limit the application ... solely to copies of computer programs that are sold on a **material medium** would allow the copyright holder to **control the resale** of copies downloaded from the internet and to demand further remuneration on the occasion of each new sale, even though the **first sale** of the copy had already enabled the rightholder to **obtain an appropriate remuneration**.
+
+<u>Original Text 12</u>: <span style="color:#B00020;">**77**</span> It must be recalled, next, that the copyright holder’s **distribution right is exhausted**, in accordance with Article 4(2) of Directive 2009/24, on the occasion of the first sale in the European Union by that rightholder, or with his consent, of any copy, **tangible or intangible**, of his **computer program**. It follows that, by virtue of that provision and notwithstanding the existence of contractual terms prohibiting a further transfer, the rightholder in question **can no longer oppose the resale** of that copy.
+
+### 1.10 ER04-05
+<u>Original Text 1</u>: <span style="color:#B00020;">**33**</span> ... the supply by **downloading, for permanent use, of an e-book** constitutes an act of **distribution** ... or whether such supply is covered by the concept of **‘communication to the public’**  ...
+
+<u>Original Text 2</u>: <span style="color:#B00020;">**33**</span> ... The crux of that question ... is whether such supply is subject to the **rule on exhaustion** of the **distribution** right ... on the contrary, it **falls outside such a rule** ... in the case of the right of **communication to the public**.
+
+<u>Original Text 3</u>: <span style="color:#B00020;">**10**</span> ...<br>
+3.The rights referred to in paragraphs 1 and 2 **shall not be exhausted** by any act of **communication to the public or making available to the public** ...
+
+<u>Original Text 4</u>: <span style="color:#B00020;">**36**</span> ... the exclusive right to authorise or prohibit any form of **distribution** ... exhausted where the **first sale or other transfer of ownership** in the European Union of the original or of a copy of the work is made by the rightholder or with his or her **consent**.
+
+<u>Original Text 5</u>: <span style="color:#B00020;">**7**</span> The **Agreed Statements concerning** Articles 6 and 7 of the **WCT** are worded as follows:<br>
+**“copies” and “original and copies”** ... refer exclusively to fixed copies that can be put into circulation as **tangible** objects.’
+
+<u>Original Text 6</u>: <span style="color:#B00020;">**40**</span> ... Article 6(1) **cannot cover** the distribution of **intangible** works such as **e-books**.
+
+<u>Original Text 7</u>: <span style="color:#B00020;">**42**</span> ... to provide for a coherent level playing field for the **electronic and tangible distribution** of protected material and to **draw a clear line between them**’.
+
+<u>Original Text 8</u>: <span style="color:#B00020;">**43**</span> ... the Commission noted that **interactive on-demand transmission** was a new form of exploitation of intellectual property ... should be covered by the right to control **communication to the public** ...
+
+<u>Original Text 9</u>: <span style="color:#B00020;">**45**</span> ... any communication to the public of a work, **other than the distribution of physical copies of the work**, should be covered by that of **‘communication to the public’** ...
+
+<u>Original Text 10</u>: <span style="color:#B00020;">**48**</span> ... principal objective is to establish a **high level of protection of authors**, allowing them to obtain an **appropriate reward** for the use of their works ...
+
+<u>Original Text 11</u>: <span style="color:#B00020;">**51**</span>  ... the question of **exhaustion** of the right **does not arise** in the case of services and **online services** in particular ...
+
+<u>Original Text 12</u>: <span style="color:#B00020;">**51**</span>  ... unlike CD-ROM or CD-I ... every **online service** is in fact an act which should be subject to **authorisation** where the copyright or related right so provides.
+
+<u>Original Text 13</u>: <span style="color:#B00020;">**54**</span>  ... an **e-book is not a computer program**, and it is not appropriate therefore to apply the specific provisions of Directive 2009/24.
+
+<u>Original Text 14</u>: <span style="color:#B00020;">**58**</span> ... dematerialised **digital copies**, unlike books on a material medium, **do not deteriorate with use**, and used copies are therefore **perfect substitutes for new copies**.
+
+### 1.11 ER04-06
+<u>Original Text 1</u>: <span style="color:#B00020;">**54**</span> ... the concept of **‘lending’**, within the meaning of those provisions, **covers the lending of a digital copy of a book** ...
+
+<u>Original Text 2</u>: <span style="color:#B00020;">**54**</span> ... only **one copy** may be downloaded **during the lending period** ...
+
+<u>Original Text 3</u>: <span style="color:#B00020;">**54**</span> ... after that period has **expired**, the downloaded copy can **no longer be used by that user**.
+
+<u>Original Text 4</u>: <span style="color:#B00020;">**54**</span> ... by placing that copy on the **server** of a public library and allowing a user to reproduce that copy by **downloading** it onto his own computer ...
+
+<u>Original Text 5</u>: <span style="color:#B00020;">**39**</span> ... **intangible objects** and non-fixed copies, such as digital copies, must be **excluded from the rental right** ... neither that treaty nor that agreed statement **preclude** the concept of **‘lending’** ... from being interpreted ... as also including certain **lending carried out digitally**.
+
+<u>Original Text 6</u>: <span style="color:#B00020;">**38**</span> ... the EU legislature sought to define the concepts of ‘rental’ and ‘lending’ **separately**. Thus the subject matter of **‘rental’** is **not necessarily identical** to that of **‘lending’**.
+
+<u>Original Text 7</u>: <span style="color:#B00020;">**46**</span> ... to exclude digital lending entirely from the scope of Directive 2006/115 would run counter to the general principle requiring a **high level of protection for authors**.
+
+<u>Original Text 8</u>: <span style="color:#B00020;">**50**</span> ... although Article 6(1) of Directive 2006/115 — as a derogation from the exclusive lending right ... must ... be interpreted **strictly**, the fact remains that the interpretation given **must also enable the effectiveness of the exception** thereby established to be safeguarded and its purpose to be observed ...
+
+<u>Original Text 9</u>: <span style="color:#B00020;">**51**</span> ... Article 6(1) of Directive 2006/115 may apply where the operation carried out by a publicly accessible library ... has **essentially similar characteristics** to the lending of **printed works**.
+
+<u>Original Text 10</u>: <span style="color:#B00020;">**52**</span> ... the limitation of simultaneous downloads to a **single copy** implies that the lending capacity of the library concerned **does not exceed** that which it would have as regards a **printed work** ...
+
+<u>Original Text 11</u>: <span style="color:#B00020;">**72**</span> ... Article 6(1) of Directive 2006/115 must be interpreted as meaning that it **precludes** the **public lending exception** ... **from** applying to the making available by a public library of a digital copy of a book in the case where that copy was **obtained from an unlawful source**.
