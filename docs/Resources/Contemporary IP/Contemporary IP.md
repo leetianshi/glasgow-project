@@ -440,14 +440,6 @@ In turn, this can leave libraries **dangerously** exposed to discontinuity of se
 <u>Original Text 11</u>: <span style="color:#B00020;">**72**</span> ... Article 6(1) of Directive 2006/115 must be interpreted as meaning that it **precludes** the **public lending exception** ... **from** applying to the making available by a public library of a digital copy of a book in the case where that copy was **obtained from an unlawful source**.
 
 ### 1.12 ER05-01
-**5.1. Introduction**
-
-<u>Original Text 1</u>: This is the result of fundamental changes in the creative ecosystem that pull in opposite directions: on the one hand, the rise of **user-generated content** places **individual users at the forefront of creative processes**, strengthening the need to facilitate unlicensed use of creative materials. On the other hand, *8* facilitates a continuing **expansion of copyright** and strengthens **restrictions on the freedom of users** to access, experience, transform, and share creative materials. 
-
-<u>Original Text 2</u>: The rise of cloud computing and mobile Internet has transformed the delivery of content **from the sale of copies to the provision of services**. Streaming gives content **owners ongoing control over the use and distribution** of copyrighted materials. ... Access to creative works is often made possible by **online intermediaries**, **using algorithms to filter, block, and disable access to some materials**. The robustness of algorithmic filtering, removal, and blocking practices is effectively changing copyright default: copyrighted materials were once available unless proven infringing, while now materials **detected by algorithms are unavailable unless explicitly authorized by the copyright owner**.
-
-<u>Original Text 3</u>: In this chapter, I argue that these changes necessitate a **user-rights approach** to copyright law. ... Users’ interests are often examined through the prism of Limitations and Exceptions (L&E) to copyright. However, this narrow view **overlooks the users’ critical role** in serving the **goals of copyright law** and may therefore ultimately lead to inefficient outcomes. ... To achieve copyright goals and promote creation, it is necessary to design rights and duties for both authors and users of creative works and to define p**ermissible uses** that serve the objectives of copyright law as rights rather than as a legal defense. The framing of permissible uses as rights offers a legal framework for analyzing the **potential threats** to desirable uses which serve copyright purposes. This is particularly important given the emerging **threats to the freedom of users and access to knowledge**. 
-
 **5.2. Users in the Digital Ecosystem: Opportunities and Threats**
 
 <u>Original Text 4</u>: Digital technology has **changed the way we create, share, and experience cultural works**, placing **users** at the forefront of **creative processes**.
@@ -489,8 +481,70 @@ In turn, this can leave libraries **dangerously** exposed to discontinuity of se
 
 <u>Original Text 21</u>: Digital distribution often involves built-in surveillance. When music or apps are downloaded to a smartphone, or an eBook is downloaded to an e-Reader such as Kindle, rightholders may collect and retain **detailed information about users, their reading habits and intellectual preferences**. ... **Freedom from ongoing monitoring** is necessary to protect the intimacy and private nature of the educational experience that is essential for **meaningful learning**. ... Enabling users to freely participate in cultural discourse may **require access without surveillance**. ... From a user-rights perspective, a right to secure **continued access to knowledge resources** is essential for users’ participation in **cultural processes**.
 
-### 1.13 ER05-02
+**5.4. Using Rights to Promote Desirable Uses**
 
+<u>Original Text 22</u>: The previous discussion suggested that to promote creation, copyright law **should focus on authors** and **users** alike as both are actively engaged in generating culture. This view assumes that two strategies are equally important in order to **promote the goals of copyright law** and **maintain a proper balance** between authors and users: **ownership by authors** and **sufficient access by users**.
+
+<u>Original Text 23</u>: Patterson and Lindberg argued that the constitutional purpose of copyright law, to **promote the progress of knowledge**, mandates that copyright law should not simply focus on authors, **but also on users who are learning, absorbing, and disseminating knowledge**.
+
+<u>Original Text 24</u>: If copyright is to be understood as creating a reasonable balance between authors and users, it needs to be a balance between like and like, **not between** authors’ **rights** and the public’s **privileges**.
+
+<u>Original Text 25</u>: The Court held that the **fair dealing exception**, as well as the other exceptions in the Canadian Copyright Act, should be understood as “**user rights**.” ... User rights are **not just loopholes**. Both **owner rights and user rights** should therefore be given the **fair and balanced reading** that befits remedial legislation.
+
+<u>Original Text 26</u>: ... users who exercise user rights **do not commit an infringing act** which is excused, but instead they act in a manner that is explicitly **permissible by law**, and therefore there is **no infringement to begin with**. ... when no infringement materializes, there is **no infringement** to ‘contribute’ to ...
+
+<u>Original Text 27</u>: Fair use sets limits on the **exclusive rights of rightholders**, thereby creating a legal space where, at a minimum, **nonowners are not subject to any duty**. ... In fair use circumstances, a user is free to exercise fair use, and under **no duty whatsoever to avoid such use**.
+
+<u>Original Text 28</u>: The view of **user rights** as a mechanism for **promoting copyright goals**, that is, enhancing creativity, mandates that not only authors’ rights **but also users’ rights are protected by copyright law**. Copyright law must therefore not only secure incentives to authors, it must **also promote learning, absorption, transformation, and dissemination of knowledge**.
+
+**5.5. Legal Implications of User Rights**
+
+<u>Original Text 29</u>: The legal implications of the user-rights approach may extend **far beyond procedural consequences**, however. It may affect the **legal interpretation** of fair use and facilitate a **legal oversight** of private ordering.
+
+<u>Original Text 30</u>: While an **affirmative defense** is likely to be given a **strict interpretation**, a legal interpretation inspired by **user rights** may give **more prominence to the interests of users** in applying copyright law in general, and **fair use in particular**.
+
+<u>Original Text 31</u>: The Court reasoned that that since fair dealing is not simply an exception but a **user right**, “it **must not be interpreted restrictively**.”
+
+<u>Original Text 32</u>: A user-rights approach would consider the **use permissible** (rather than excused), therefore **no contributory liability** would apply.
+
+<u>Original Text 33</u>: **Can user rights be overridden** by nonnegotiated standard contracts such as EULA and ToU? User rights could offer a framework for **reviewing such restraints** and **identifying the way they might conflict with copyright goals**.
+
+### 1.13 ER05-02
+**1 Introduction**
+
+<u>Original Text 1</u>: many of the **new exceptions** significantly alter the relationship between **copyright exceptions** and **contract** within their sphere of application. For example, the new parody exception provides that ‘to the extent that a term of a contract purports to **prevent or restrict** the doing of any act which, by virtue of this section, **would not infringe copyright**, that term is **unenforceable**’.
+
+<u>Original Text 2</u>: ... prior to the recent amendments it was generally considered possible to ‘**contract out**’ of most of the **copyright exceptions** in the CDPA ... Some evidence collected prior to the amendments suggested that it was common business practice in many industries for **copyright contracts** to purport to **restrict** users’ ability to **make use of copyright exceptions**.
+
+**2 The UK Amendments and the Legislative Amendments Process**
+
+<u>Original Text 3</u>: The changes to the CDPA which came into effect on 1 June and 1 October 2014 included new and amended copyright exceptions. The new exceptions permit users to engage in **fair dealing** with a copyright protected work to engage in **quotation, parody, text and data mining**.
+
+<u>Original Text 4</u>: These changes were made by the passing of **five Statutory Instruments** (‘SIs’), each of which included a ‘bundle’ of thematically linked amendments.
+
+<u>Original Text 5</u>:  The new fair dealing exceptions **cannot generally be set aside by contract**, whereas the amended sector-specific exceptions (such as those directed to libraries or educational institutions) have a **more complex interaction** with contract law.
+
+<u>Original Text 6</u>: All of the completely **new exceptions (quotation, parody, text and data mining)** include a provision providing that ‘to the extent that a term of a contract purports to **prevent or restrict** the doing of any act which, by virtue of this section, **would not infringe copyright**, that term is **unenforceable**’.
+
+<u>Original Text 7</u>: There have been a significant number of recent **partial reviews** of UK copyright law **over the last decade**, which form an important part of the **legislative and policy backdrop** to the recent amendments.
+
+<u>Original Text 8</u>: The report also proposed that any **new exceptions** introduced into the CDPA **should not** be capable of **being set aside by contract**.
+
+<u>Original Text 9</u>: In summary, it appears that the UK Government’s rationale for preventing copyright exceptions from being overridden by contract is twofold. First of all, mandatory exceptions **provide certainty to users** by allowing them to rely on the statutory rules, rather than being forced to consult the terms of a licence. Secondly, they also **prevent rights holders from acting in a way which undermines the benefit of the exceptions to society**, by using contract to prevent users from relying on the statutory exceptions.
+
+**3 Issues With the UK Amendments as Implemented**
+
+<u>Original Text 10</u>: While the Hargreaves Report suggested that the Government should legislate to ensure that both existing and proposed exceptions could not be set aside by contract, the recent amendments **did not** implement contractual override provisions in relation to **all pre-existing exceptions** in the CDPA.
+
+<u>Original Text 11</u>: Due to the Government’s failure to review the existing fair dealing exceptions in the CDPA during the recent round of amendments, there are **no** explicit contract override provisions in the CDPA for some of the **key public interest** copyright exceptions, such as **criticism, review and news reporting**.
+
+<u>Original Text 12</u>: Accordingly, it is likely that as a matter of domestic UK law, **unless** a fair dealing exception has an **explicit clause** dealing with its relationship with **contract**, that exception will be treated by a court as **being capable of being set aside by contract**.
+
+<u>Original Text 13</u>:  The new copyright exception provisions provide that contractual terms which restrict the new exceptions are **‘unenforceable’**. This stands **in contrast to** the **existing** provision in the CDPA in relation to copyright **exceptions** permitting back-up copies, decompilation and testing of a computer program (‘computer program exceptions’),64 which provide that certain terms in an agreement **‘shall be void’**. ... The preparatory material for the new exceptions **do not conclusively address** what **consequences the drafter intended** by introducing a distinction between void contractual terms and unenforceable contractual terms, or whether the difference in terminology in different sections of the CDPA was **merely an oversight**.
+
+<u>Original Text 14</u>: In the usual course of events therefore there is **unlikely to be a distinction of significance** between categorizing terms as void or unenforceable.
+
+<u>Original Text 15</u>: While it is not controversial to consider that a contractual clause forbidding a user from engaging in an act would clearly ‘purport to prevent’ within the meaning of the provision, it is **less clear** when a term of a contract will merely **‘restrict’** the doing of an act. ...  It is **unclear** whether such a payment would qualify as a **restriction** and therefore **whether such contractual terms would be unenforceable**. The new exceptions and their explanatory material **do not provide helpful guidance** on this issue ...
 
 ### 1.14 ER05-03
 
