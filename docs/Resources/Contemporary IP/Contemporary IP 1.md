@@ -64,17 +64,8 @@ April/May exam diet
 | ---- | ---- | ---- | ---- |
 | **PPT** | [Seminar 2](./Seminar%202.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
 | # | Title | Access | OSCOLA |
-| 1 | Links and Law | [Website](<https://www.w3.org/DesignIssues/LinkLaw>) | Tim Berners-Lee, ‘Links and Law’ (*World Wide Web Consortium*, April 1997) <https://www.w3.org/DesignIssues/LinkLaw\> accessed <u>accessed date</u>. |
-| 2 | Untangling the Hyperlinking Web: In Search of the Online Right of Communication to the Public | [Journal Article](../Copyright%20Law/C03RR04.pdf) | João Pedro Quintais, ‘Untangling the Hyperlinking Web: In Search of the Online Right of Communication to the Public’ (2018) 21 The Journal of World Intellectual Property 385, <u>exact page</u>. |
-| 3 | Liability for Providing Hyperlinks to Copyright-Infringing Content: International and Comparative Law Perspectives (**Read section III.A Direct Liability for Hyperlinking in the United States (pp 177–193) only**) | [Journal Article](./CI02ER03.pdf) | Jane C. Ginsburg and Luke Ali Budiardjo, ‘Liability for Providing Hyperlinks to Copyright-Infringing Content: International and Comparative Law Perspectives’ (2018) 41 The Columbia Journal of Law & the Arts 153, <u>exact page</u>. |
-| 4 | Svensson v Retriever Sverige (C-466/12) | [EU Case](./CI02ER04.pdf) | Case C-466/12 *Svensson v. Retriever Sverige* EU:C:2014:76 <u>[exact paragraph]</u>. |
-| 5 | GS Media v Sanoma (C-160/15) | [EU Case](./CI02ER05.pdf) | Case C-160/15 *GS Media v. Sanoma* EU:C:2016:644 <u>[exact paragraph]</u>. |
-| 6 | Stichting Brein v Jack Frederik Wullems (C-527/15) | [EU Case](./CI02ER06.pdf) | Case C-527/15 *Stichting Brein v. Jack Frederik Wullems* EU:C:2017:300  <u>[exact paragraph]</u>. |
-| 7 | Stichting Brein v Ziggo BV (C-610/15) | [EU Case](./CI02ER07.pdf) | Case C-610/15 *Stichting Brein v. Ziggo BV* EU:C:2017:456 <u>[exact paragraph]</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
-| # | Title | Access | OSCOLA |
+| *1* | Links and Law | [Website](<https://www.w3.org/DesignIssues/LinkLaw>) | Tim Berners-Lee, ‘Links and Law’ (*World Wide Web Consortium*, April 1997) <https://www.w3.org/DesignIssues/LinkLaw\> accessed <u>accessed date</u>. |
 | 1 | Communication to a New Public? Three Reasons Why EU Copyright Law Can Do Without a “New Public” | [Journal Article](./CI02RR01.pdf) | P. Bernt Hugenholtz and Sam C. van Velze, ‘Communication to a New Public? Three Reasons Why EU Copyright Law Can Do Without a “New Public”’ (2016) 47 International Review of Intellectual Property and Competition Law 797, <u>exact page</u>. |
 | 2 | Communication to the Public and Technological Restrictions Against “Framing” Copyright Works | [Journal Article](./CI02RR02.pdf) | Christina Angelopoulos, ‘Communication to the Public and Technological Restrictions Against “Framing” Copyright Works’ (2021) 80 Cambridge Law Journal 225, <u>exact page</u>. |
 | 3 | The EU Right of Communication to the Public — Still Looking for a Good Link | [Contribution to Edited Book](./CI02RR03.pdf) | Justin Koo, ‘The EU Right of Communication to the Public — Still Looking for a Good Link’ in Eleonora Rosati (ed), *The Routledge Handbook of EU Copyright Law* (Routledge 2021) <u>exact page</u>. |
@@ -88,6 +79,7 @@ April/May exam diet
 | **PPT** | [Seminar 3](./Seminar%203.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | # | Title | Access | OSCOLA |
+| *1* | The Fight for the Right to Repair Around the World | [Website](<https://www.repair.org/world>) |
 | 1 | The End of Ownership: Personal Property in the Digital Economy | [Authored Book](./CI03RR01.pdf) | Aaron Perzanowski and Jason Schultz, *The End of Ownership: Personal Property in the Digital Economy* (The MIT Press 2016) <u>exact page</u>. |
 | 2 | Regulation Through “Bricking”: Private Ordering in the “Internet of Things” | [Journal Article](./CI03RR02.pdf) | Natasha Tusikov, ‘Regulation Through “Bricking”: Private Ordering in the “Internet of Things”’ (2019) 8 Internet Policy Review 1, <u>exact page</u>. |
 | 3 | Tractor Rage: Intellectual Property, Agriculture, Competition Policy, and the Right to Repair | [Journal Article](./CI03RR03.pdf) | Matthew Rimmer, ‘Tractor Rage: Intellectual Property, Agriculture, Competition Policy, and the Right to Repair’ (2025) 56 International Review of Intellectual Property and Competition Law 115, <u>exact page</u>. |
@@ -101,6 +93,7 @@ April/May exam diet
 | **PPT** | [Seminar 4-1](./Seminar%204-1.pdf) <br> [Seminar 4-2](./Seminar%204-2.pdf) <br> [Seminar 4-3](./Seminar%204-3.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | # | Title | Access | OSCOLA |
+| *2* | French Publishers Voice Concerns Over Rise in Used Book Sales | [Website](<https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales>) | Sarah Elzas, ‘French Publishers Voice Concerns Over Rise in Used Book Sales’ (*RFI*, 21 April 2024) <https://www.rfi.fr/en/france/20240421-french-book-publishers-concerned-about-rise-in-used-book-sales\> accessed <u>accessed date</u>. |
 | 1 | The Need for a More Balanced Policy Approach for Digital Exhaustion | [Contribution to Edited Book](./CI04RR01.pdf) | Péter Mezei and Caterina Sganga, ‘The Need for a More Balanced Policy Approach for Digital Exhaustion’ in Péter Mezei, Hannibal Travis, and Anett Pogácsás (eds), *Harmonizing Intellectual Property Law for a Trans-Atlantic Knowledge Economy* (Brill \| Nijhoff 2024) <u>exact page</u>. |
 | 2 | Digital First Sale Doctrine Ante Portas | [Journal Article](./CI04RR02.pdf) | Peter Mezei, ‘Digital First Sale Doctrine Ante Portas’ (2015) 6 Journal of Intellectual Property, Information Technology and Electronic Commerce Law 23, <u>exact page</u>. |
 | 3 | Why Amazon Went Big Brother on Some Kindle E-Books | [Website](<https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/>) | Ken Fisher, ‘Why Amazon Went Big Brother on Some Kindle E-Books’ (*Ars Technica*, 18 July 2009) <https://arstechnica.com/gadgets/2009/07/amazon-sold-pirated-books-raided-some-kindles/\> accessed <u>accessed date</u>. |
@@ -128,6 +121,9 @@ April/May exam diet
 | **PPT** | [Seminar 6](./Seminar%206.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
 | # | Title | Access | OSCOLA |
+| *4* | How Google Invests in News | [Website](<https://blog.google/products-and-platforms/products/news/how-google-invests-news/>) | Richard Gingras, ‘How Google Invests in News’ (*The Keyword*, 25 September 2019) <https://blog.google/products-and-platforms/products/news/how-google-invests-news/\> accessed <u>accessed date</u>. |
+| *5* | Microsoft’s Endorsement of Australia’s Proposal on Technology and the News | [Website](<https://blogs.microsoft.com/on-the-issues/2021/02/11/endorsement-australias-proposal-technology-news/>) | Brad Smith, ‘Microsoft’s Endorsement of Australia’s Proposal on Technology and the News’ (*The Official Microsoft Blog*, 11 February 2021) <https://blogs.microsoft.com/on-the-issues/2021/02/11/endorsement-australias-proposal-technology-news/\> accessed <u>accessed date</u>. |
+| *6* | Google AI Mode is Undermining Original Journalism | [Website](<https://pressgazette.co.uk/platforms/how-google-ai-mode-is-undermining-original-journalism/>) | Rob Waugh, ‘Google AI Mode is Undermining Original Journalism’ (*Press Gazette*, 29 May 2025) <https://pressgazette.co.uk/platforms/how-google-ai-mode-is-undermining-original-journalism/\> accessed <u>accessed date</u>. |
 | 1 | CREATe Public Lectures on the Proposed EU Right for Press Publishers | [Journal Article](./CI06RR01.pdf) | James Meese, ‘CREATe Public Lectures on the Proposed EU Right for Press Publishers’ (2017) 39 European Intellectual Property Review 607, <u>exact page</u>. |
 | 2 | Making Google and Facebook Pay? Comparing the EU Press Publishers’ Right and Australian Draft Media Bargaining Code | [Website](<https://www.create.ac.uk/blog/2020/09/15/making-google-and-facebook-pay-comparing-the-eu-press-publishers-right-and-australian-draft-media-bargaining-code/>) | Ula Furgał, ‘Making Google and Facebook Pay? Comparing the EU Press Publishers’ Right and Australian Draft Media Bargaining Code’ (*CREATe*, 15 September 2020) <https://www.create.ac.uk/blog/2020/09/15/making-google-and-facebook-pay-comparing-the-eu-press-publishers-right-and-australian-draft-media-bargaining-code/\> accessed <u>accessed date</u>. |
 | 3 | Australia Pressured Google and Facebook to Pay for Journalism. Is America Next? | [Website](<https://www.cjr.org/business_of_news/australia-pressured-google-and-facebook-to-pay-for-journalism-is-america-next.php>) | Bill Grueskin, ‘Australia Pressured Google and Facebook to Pay for Journalism. Is America Next?’ (*Columbia Journalism Review*, 9 March 2022) <https://www.cjr.org/business_of_news/australia-pressured-google-and-facebook-to-pay-for-journalism-is-america-next.php\> accessed <u>accessed date</u>. |
@@ -139,11 +135,6 @@ April/May exam diet
 | ---- | ---- | ---- | ---- |
 | **PPT** | [Seminar 7](./Seminar%207.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | Democratizing Innovation | [Authored Book](./CI07ER01.pdf) | Eric von Hippel, *Democratizing Innovation* (The MIT Press 2006) <u>exact page</u>. |
-| 2 | The Time Limit on Copyright: An Unlikely Tragedy of the Intellectual Commons | [Journal Article](./CI07ER02.pdf) | Maxime Lambrecht, ‘The Time Limit on Copyright: An Unlikely Tragedy of the Intellectual Commons’ (2017) 43 European Journal of Law and Economics 475, <u>exact page</u>. |
-| <span style="background:#C0C0C0">Recommended Reading</span> |
 | # | Title | Access | OSCOLA |
 | 1 | The Role of Openness in Creative Innovation: Evidence from Digital Crowdfunding | [Journal Article](./CI07RR01.pdf) | Kristofer Erickson, Fabian Homberg, and Martin Kretschmer, ‘The Role of Openness in Creative Innovation: Evidence from Digital Crowdfunding’ (2024) 206 Technological Forecasting and Social Change 1, <u>exact page</u>. |
 | 2 | Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry | [Journal Article](./CI07RR02.pdf) | Xavier Lecocq and Benoît Demil, ‘Strategizing Industry Structure: The Case of Open Systems in a Low-Tech Industry’ (2006) 27 Strategic Management Journal 891, <u>exact page</u>. |
@@ -161,14 +152,11 @@ April/May exam diet
 | ---- | ---- | ---- | ---- |
 | **PPT** | [Seminar 9](./Seminar%209.pptx) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
-| <span style="background:#C0C0C0">Essential Reading</span> |
-| # | Title | Access | OSCOLA |
-| 1 | The Treachery of Images: Non-Fungible Tokens and Copyright | [Journal Article](./CI09ER01.pdf) | Andres Guadamuz, ‘The Treachery of Images: Non-Fungible Tokens and Copyright’ (2021) 16 Journal of Intellectual Property Law & Practice 1367, <u>exact page</u>. |
-| 2 | Creation and Competition in the Metaverse | [Journal Article](./CI09ER02.pdf) | Friso Bostoen, ‘Creation and Competition in the Metaverse’ (2025) 8 Interactive Entertainment and Law Review 102, <u>exact page</u>. |
 
 ### 2.10 Seminar 10
 | 10: Traditional knowledge |  |  |  |
 | ---- | ---- | ---- | ---- |
 | **PPT** | [Seminar 10](./Seminar%2010.pdf) |
 | **Reading List** | <https://rl.talis.com/3/glasgow/lists/583A5966-5B9F-B80D-7FBA-7026BFA06E7B.html?lang=en-GB> |
+| *3* | Navigating Traditional Knowledge and IP — “The Adventures of the Yakuanoi” | [Website](<https://www.wipo.int/tk/en/tk/yakuanoi.html>) |
 | 1 | Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions | [Website](<https://www.wipo.int/en/web/traditional-knowledge>) |

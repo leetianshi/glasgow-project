@@ -1,4 +1,4 @@
-# *AI Law
+# AI Law
 ## 1. Course Information
 ### 1.1 Timetable
 | # | Date | Introduction | Lecturer |

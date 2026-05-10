@@ -34,7 +34,7 @@ nav:
   - Home: index.md
 
   - Resources:
-    - '*AI Law': Resources/AI Law/AI Law.md
+    - AI Law: Resources/AI Law/AI Law.md
     - '*Contemporary IP': Resources/Contemporary IP/Contemporary IP.md
     - Contemporary IP: Resources/Contemporary IP/Contemporary IP 1.md
     - Copyright Law: Resources/Copyright Law/Copyright Law.md
