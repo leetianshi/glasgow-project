@@ -782,95 +782,274 @@
 **Page**: 183
 
 <span style="color:#B00020;">**[Chunck 030301]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; repair cost; replacement; consumer choice; Apple; economic incentives<br>
+**Essay-ready point**: Right-to-repair concerns arise because manufacturers can make repair economically unattractive, encouraging consumers to replace functioning devices rather than repair them.<br>
+**Original Sentence**: Apple currently charges $279 for this fairly straightforward repair, a fee that often makes purchasing a new phone more attractive.<br>
+**Page**: 361–362
 
 <span style="color:#B00020;">**[Chunck 030302]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; profit incentive; replacement; manufacturer strategy; repair market; consumer welfare<br>
+**Essay-ready point**: Manufacturers may prefer replacement because new product sales generate far higher profits than repair services, creating a structural conflict between corporate incentives and consumer repair interests.<br>
+**Original Sentence**: Apple’s apparent preference for replacement over repair is economically rational.<br>
+**Page**: 362
 
 <span style="color:#B00020;">**[Chunck 030303]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; repair restrictions; farmers; hospitals; cars; medical devices<br>
+**Essay-ready point**: The right-to-repair problem extends beyond smartphones: car owners, farmers, photographers, and hospitals also face restrictions that limit their ability to repair essential devices and equipment.<br>
+**Original Sentence**: Car owners, farmers, photographers, and even hospitals are forced to contend with repair restrictions.<br>
+**Page**: 362–363
 
 <span style="color:#B00020;">**[Chunck 030304]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; economic restrictions; technological barriers; legal threats; repair control; IP claims<br>
+**Essay-ready point**: Repair restrictions are not caused by one single mechanism; manufacturers combine economic pricing, product design, software control, warranty threats, and intellectual-property claims to discourage independent repair.<br>
+**Original Sentence**: Device makers rely on an assortment of economic, technological, and legal techniques to curtail repair.<br>
+**Page**: 363
 
 <span style="color:#B00020;">**[Chunck 030305]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; embedded software; cloud software; post-sale control; smart products; repair restriction<br>
+**Essay-ready point**: As devices increasingly depend on embedded or cloud-based software, manufacturers gain greater practical power to limit repairs even after consumers have purchased the physical product.<br>
+**Original Sentence**: As products increasingly depend on local or cloud-based software code for their basic functionality, device makers have even greater power to restrict repair.<br>
+**Page**: 363
 
 <span style="color:#B00020;">**[Chunck 030306]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; e-waste; sustainability; toxic waste; replacement culture; environmental harm<br>
+**Essay-ready point**: The right to repair is also an environmental issue because replacing rather than repairing devices contributes to massive electronic waste and toxic pollution.<br>
+**Original Sentence**: About 1.5 billion mobile phones are sold annually worldwide, contributing to the more than fifty million tons of electronic waste produced every year.<br>
+**Page**: 363
 
 <span style="color:#B00020;">**[Chunck 030307]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; software update; third-party repair; bricked devices; Apple; repair deterrence<br>
+**Essay-ready point**: Manufacturers can use software updates to punish or prevent independent repair, as illustrated by devices that were disabled after Apple software detected third-party repair.<br>
+**Original Sentence**: Phones that were working normally for weeks or months were suddenly ‘bricked’ after the installation of an Apple software update.<br>
+**Page**: 367
 
 <span style="color:#B00020;">**[Chunck 030308]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; planned obsolescence; software throttling; replacement; product lifespan; consumer deception<br>
+**Essay-ready point**: Modern planned obsolescence is not limited to physical design; software can artificially reduce performance and push consumers toward buying replacement products.<br>
+**Original Sentence**: Today, they can leverage software to artificially degrade product performance and spur consumers to buy replacements.<br>
+**Page**: 367
 
 <span style="color:#B00020;">**[Chunck 030309]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; cloud dependence; remote servers; smart products; repair access; digital obsolescence<br>
+**Essay-ready point**: When product functionality depends on remote servers rather than local hardware, owners may be unable to repair or preserve the product once the manufacturer withdraws support.<br>
+**Original Sentence**: Although Jibo’s physical components could be repaired, most of its features were housed on a remote server that Jibo owners could not access, let alone repair.<br>
+**Page**: 368
 
 <span style="color:#B00020;">**[Chunck 030310]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; high repair prices; economic barrier; replacement incentive; consumer decision-making; repair market<br>
+**Essay-ready point**: Manufacturers can discourage repair by charging prices high enough to narrow the difference between repair and replacement, making a new device appear more rational.<br>
+**Original Sentence**: One way to narrow that gap is by charging high prices for repair.<br>
+**Page**: 368
 
 <span style="color:#B00020;">**[Chunck 030311]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; replacement parts; diagnostics; manuals; schematics; independent repair<br>
+**Essay-ready point**: A central obstacle to repair is manufacturers’ control over the practical inputs needed for repair, including parts, diagnostic tools, schematics, and manuals.<br>
+**Original Sentence**: Firms make it difficult to acquire replacement parts ... control access to diagnostic tools ... And they lock down schematics and manuals that would facilitate repair.<br>
+**Page**: 369
 
 <span style="color:#B00020;">**[Chunck 030312]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; John Deere; software authentication; replacement parts; farmers; repair monopoly<br>
+**Essay-ready point**: Software authentication systems can prevent owners and independent repair shops from replacing even simple parts unless the manufacturer authorises the repair.<br>
+**Original Sentence**: The software embedded in John Deere tractors ... requires authentication of new parts before the vehicle will recognize them.<br>
+**Page**: 370
 
 <span style="color:#B00020;">**[Chunck 030313]**</span><br>
-**Key words**: right to repair;<br>
+**Key words**: right to repair; DMCA; § 1201; digital locks; anti-circumvention; repair liability<br>
 **Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Original Sentence**: These digital locks pose practical hurdles for repair. But § 1201 compounds those difficulties by introducing potential legal liability for repairers who remove or bypass such digital locks.<br>
+**Page**: 371
 
 <span style="color:#B00020;">**[Chunck 030314]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; DMCA exemptions; circumvention tools; temporary exemptions; repair advocates; legal limits<br>
+**Essay-ready point**: Although DMCA exemptions are important for repair advocates, they remain limited because they exclude many devices, are temporary, and do not permit sharing circumvention tools.<br>
+**Original Sentence**: These exemptions, while an important success for repair advocates, are limited in important respects ... while it is lawful to circumvent in order to repair these devices, it remains unlawful to create or share tools that enable circumvention.<br>
+**Page**: 371
 
 <span style="color:#B00020;">**[Chunck 030315]**</span><br>
-**Key words**: right to repair;<br>
-**Essay-ready point**: <br>
-**Original Sentence**: <br>
-**Page**: 
+**Key words**: right to repair; consumer expectations; survey evidence; independent repair; legal intervention; repair freedom<br>
+**Essay-ready point**: Survey evidence supports legal intervention because consumers overwhelmingly believe they should be able to repair devices themselves or choose an independent repair shop.<br>
+**Original Sentence**: More than 80% of respondents expressed their belief that they have the right to repair devices themselves or to rely on the repair shop of their choice.<br>
+**Page**: 392
 
+<span style="color:#B00020;">**[Chunck 030401]**</span><br>
+**Key words**: right to repair; IoT repair; hardware; software; data; socio-technical ecosystem<br>
+**Essay-ready point**: The right to repair is especially complex for IoT devices because repair is not limited to replacing hardware; it also involves software, data, cybersecurity, manufacturers, retailers, users, and designers.<br>
+**Original Sentence**: IoT systems pose unique challenges for repair as they implicate hardware, software, and data jointly in a complex ecosystem of actors such as users, designers, manufacturers, and retailers.<br>
+**Page**: 1
+
+<span style="color:#B00020;">**[Chunck 030402]**</span><br>
+**Key words**: right to repair; post-sale control; manufacturer power; IoT devices; software restrictions; consumer relationship<br>
+**Essay-ready point**: Unlike conventional goods, IoT products may remain subject to post-sale control because manufacturers can alter, service, or restrict functionality through software and connectivity.<br>
+**Original Sentence**: Products can continue to be altered, serviced or restricted past the point of sale by manufacturers. The relationship between manufacturer and consumer is more intricate and ongoing than conventional products.<br>
+**Page**: 1
+
+<span style="color:#B00020;">**[Chunck 030403]**</span><br>
+**Key words**: right to repair; planned obsolescence; upgrades; product lifespan; e-waste; consumer rights<br>
+**Essay-ready point**: A central justification for right-to-repair laws is that planned obsolescence shortens product life and pushes consumers into repeated upgrades, creating both consumer-rights and environmental problems.<br>
+**Original Sentence**: Planned obsolescence ... [is] a practice where manufacturers intentionally design products with a limited lifespan, making repairs difficult or impossible ... consumers find themselves trapped in a cycle of constant upgrades, contributing to electronic waste and environmental concerns.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 030404]**</span><br>
+**Key words**: right to repair; modularity; proprietary design; throwaway culture; faulty components; third-party repair<br>
+**Essay-ready point**: The authors argue that proprietary and non-modular design undermines repair because a single defective part may cause the entire IoT device to be discarded.<br>
+**Original Sentence**: Manufacturers often employ proprietary designs, making it difficult for consumers or third-party repair services to access and replace faulty components. This lack of modularity not only obstructs repairs but also contributes to a throwaway culture.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 030405]**</span><br>
+**Key words**: right to repair; embedded software; diagnostic tools; source code; independent repair; manufacturer dependence<br>
+**Essay-ready point**: Independent repair becomes harder when software is tightly integrated with hardware because consumers and repairers need access to source code and diagnostic tools.<br>
+**Original Sentence**: Many IoT devices have embedded software tightly intertwined with the hardware, hindering independent repair efforts. Without access to source codes and diagnostic tools, users are left at the mercy of manufacturers.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 030406]**</span><br>
+**Key words**: right to repair; software updates; device obsolescence; maintenance; product lifespan; IoT<br>
+**Essay-ready point**: Repairability must include software maintenance because limited update support can render otherwise functional IoT devices obsolete.<br>
+**Original Sentence**: Limited support for software updates can render devices obsolete, forcing consumers to purchase new models rather than maintaining and repairing their existing ones.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 030407]**</span><br>
+**Key words**: right to repair; consumer autonomy; privacy; choice; sustainability; repair control<br>
+**Essay-ready point**: The right to repair is connected to broader consumer rights because restrictions on repair limit consumer autonomy and affect privacy, choice, product longevity, security, and sustainability.<br>
+**Original Sentence**: The right to repair is challenged as manufacturers retain tight control over repair processes, limiting consumer autonomy ... ultimately impacting their rights to privacy, choice, and sustainability.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 030408]**</span><br>
+**Key words**: right to repair; cybersecurity; transparency; accountability; updates; IoT resilience<br>
+**Essay-ready point**: The article suggests that repair access should not be framed only as a cybersecurity risk; empowering users to repair and update devices may improve IoT resilience.<br>
+**Original Sentence**: The right to repair is intricately linked to the need for transparency and accountability in addressing cybersecurity threats, as empowering users to fix and update their devices can enhance the overall resilience of the IoT ecosystem.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 030409]**</span><br>
+**Key words**: right to repair; circular economy; sustainability; repairability; IoT technology; product lifespan<br>
+**Essay-ready point**: Right-to-repair policy is closely linked to circular economy objectives because repair extends product lifespans, reduces waste, and promotes more sustainable relationships with technology.<br>
+**Original Sentence**: There has been a growing call for greater repairability of IoT technology alongside wider calls to move towards more circular economies and sustainable relationships with technologies.<br>
+**Page**: 1
+
+<span style="color:#B00020;">**[Chunck 030410]**</span><br>
+**Key words**: right to repair; EU policy; environmental motivation; circular economy; repair legislation; sustainability<br>
+**Essay-ready point**: The EU’s approach to repair is largely framed through environmental policy and circularity, rather than only through individual consumer ownership.<br>
+**Original Sentence**: Numerous jurisdictions have begun implementing policies that facilitate a future right to repair. This policy direction has largely been guided by environmental motivations, with many markets now transitioning towards a ‘circular economy’.<br>
+**Page**: 5
+
+<span style="color:#B00020;">**[Chunck 030411]**</span><br>
+**Key words**: European Commission; repair of goods; EU proposal; right to repair; consumer repair<br>
+**Essay-ready point**: The authors describe the European Commission’s 2023 proposal on promoting repair of goods as a right to repair in substance, even if not always labelled as such.<br>
+**Original Sentence**: In March 2023, the European Commission announced a proposal promoting the repair of goods… This is essentially a right to repair in all but name.<br>
+**Page**: 5
+
+<span style="color:#B00020;">**[Chunck 030412]**</span><br>
+**Key words**: right to repair; repairability index; France; disclosure; manuals; consumer choice<br>
+**Essay-ready point**: France’s repairability index illustrates a consumer-facing regulatory model that uses product information to influence purchasing behaviour toward more repairable and sustainable goods.<br>
+**Original Sentence**: France ... mandated the inclusion of the ‘L’indice de réparabilité’ ... [which] requires that manufacturers provide information on: a products projected lifespan, access to repair components, access to manuals and repair directions, and its waste or recyclability.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 030413]**</span><br>
+**Key words**: right to repair; repair definition; mending; customization; repurposing; tinkering<br>
+**Essay-ready point**: A strong essay point is that right-to-repair debates should define “repair” carefully, because repair may mean mending, customising, repurposing, or tinkering with a device.<br>
+**Original Sentence**: The literature appears to suggest four formulations ... repair as mending ... repair as ‘customization’ ... repair as ‘re-purposing’ ... ‘repair as tinkering’<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 030414]**</span><br>
+**Key words**: right to repair; consumer autonomy; market influence; empowerment; sustainability; repair access<br>
+**Essay-ready point**: The authors connect repairability to consumer empowerment: when consumers can repair products, they gain autonomy and may influence markets toward sustainability.<br>
+**Original Sentence**: By enabling consumers to repair their products, their autonomy and market influence is desirably championed. By empowering consumers, their market force arises and empowers their desire for sustainability.<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 030415]**</span><br>
+**Key words**: right to repair; codified right; limits; partial repair; implementation; practical barriers<br>
+**Essay-ready point**: The article cautions that legal repair rights are unlikely to permit unlimited repair in all contexts; effective policy must clarify the limits, practicalities, and consequences of repair.<br>
+**Original Sentence**: Simply put, it is unlikely any codified right to repair will be a carte blanche green-light to repair however one wishes ... The right is instead likely to be fragmented, partial ways, dictated by the practicalities of different skillsets, access to support and economic realities.<br>
+**Page**: 10
+
+<span style="color:#B00020;">**[Chunck 030501]**</span><br>
+**Key words**: right to repair; circular economy; product lifecycle; waste reduction; sustainability<br>
+**Essay-ready point**: A strong right to repair supports a circular economy by keeping products and materials in use for longer, reducing the need to rely only on recycling after disposal.<br>
+**Original Sentence**: Repair can reduce waste and act to ‘slow ... down the loop’ ... rather than putting used materials back into the loop through recycling.<br>
+**Page**: 269
+
+<span style="color:#B00020;">**[Chunck 030502]**</span><br>
+**Key words**: right to repair; smart products; e-waste; repair market; reuse; circular economy<br>
+**Essay-ready point**: Smart products create a repair-policy challenge because they may substantially increase e-waste, but they can also become valuable inputs into repair and reuse markets.<br>
+**Original Sentence**: These products are a substantial existing and potential source of e-waste ... but also have the potential to be transformed into significant inputs into a repair market as part of a circular economy.<br>
+**Page**: 269
+
+<span style="color:#B00020;">**[Chunck 030503]**</span><br>
+**Key words**: right to repair; UN Guidelines; sustainable consumption; consumer protection; repair capacity; circular economy<br>
+**Essay-ready point**: The author links right-to-repair policy to the UN Guidelines for Consumer Protection, especially their emphasis on sustainable consumption and practical capacities to repair.<br>
+**Original Sentence**: The UN Guidelines contain principles that are helpful for Member States ... in ... building sustainable consumption, legal and practical capacities to repair, and a circular economy.<br>
+**Page**: 269
+
+<span style="color:#B00020;">**[Chunck 030504]**</span><br>
+**Key words**: right to repair; durability; after-sales service; spare parts; consumer protection; repairability<br>
+**Essay-ready point**: Right-to-repair arguments can be grounded in consumer-protection norms requiring products to meet reasonable expectations of durability, utility, reliability, after-sales service, and spare-parts availability.<br>
+**Original Sentence**: The UN Guidelines oblige policies requiring producers to meet “reasonable demands of durability, utility and reliability” and manufacturers and retailers to ensure “adequate availability of reliable after-sales service and spare parts.<br>
+**Page**: 270
+
+<span style="color:#B00020;">**[Chunck 030505]**</span><br>
+**Key words**: right to repair; eObjects; smart devices; software; hardware; hybrid products<br>
+**Essay-ready point**: The right to repair becomes more complex for smart products because even basic “eObjects” combine software, hardware, physical components, data handling, and network connectivity.<br>
+**Original Sentence**: Even the most basic eObject is a hybrid of software, hardware and physical object.<br>
+**Page**: 271
+
+<span style="color:#B00020;">**[Chunck 030506]**</span><br>
+**Key words**: right to repair; external services; cloud dependency; smart devices; repair; functionality<br>
+**Essay-ready point**: Repair policy for smart devices must account for dependence on external services such as cloud storage and processing, because these services may be essential to the device’s original function and later repair.<br>
+**Original Sentence**: Many eObjects have some form of active capacity ... and are also dependent on some form of external services ... such as cloud data storage and processing for fitness devices.<br>
+**Page**: 271
+
+<span style="color:#B00020;">**[Chunck 030507]**</span><br>
+**Key words**: right to repair; repairer choice; competitive price; Productivity Commission; consumer autonomy; repair market<br>
+**Essay-ready point**: The Australian Productivity Commission’s definition frames the right to repair as the ability to obtain repair at a competitive price from a repairer chosen by the consumer.<br>
+**Original Sentence**: The Productivity Commission defined the right to repair as ‘the ability of consumers to have their products repaired at a competitive price using a repairer of their choice.’<br>
+**Page**: 271
+
+<span style="color:#B00020;">**[Chunck 030508]**</span><br>
+**Key words**: right to repair; ownership; possession; smart products; legal disruption; repair rights<br>
+**Essay-ready point**: The growth of hybrid smart products has unsettled traditional legal assumptions about ownership and possession, creating new conflicts over repair rights.<br>
+**Original Sentence**: The growth of the consumer market in various hybrid eObjects has significantly disrupted legal and practical concepts of ownership and possession of consumer products.<br>
+**Page**: 271
+
+<span style="color:#B00020;">**[Chunck 030509]**</span><br>
+**Key words**: right to repair; repair skills; maintenance; practical capacity; legal rights; electronics<br>
+**Essay-ready point**: A right-to-repair framework should not only grant legal rights; it should also preserve and develop the repair skills necessary to maintain increasingly complex electronic products.<br>
+**Original Sentence**: Repair and maintenance are fundamentally practices and skills, and not merely consumer ‘rights’.<br>
+**Page**: 271
+
+<span style="color:#B00020;">**[Chunck 030510]**</span><br>
+**Key words**: right to repair; repair barriers; spare parts; tools; IP rights; licence terms<br>
+**Essay-ready point**: The author identifies repair barriers as multidimensional, including repair-unfriendly design, lack of access to information, specialised tools, spare parts, repair skills, and legal risks under IP and licence terms.<br>
+**Original Sentence**: Barriers to repair in eObjects are various and include: repair-unfriendly design; lack of access to essential repair information, specialised tools and spare parts; lack of necessary repair skills; cost, time and location barriers; and potential infringement of statutory intellectual property (‘IP’) rights and licence conditions.<br>
+**Page**: 272
+
+<span style="color:#B00020;">**[Chunck 030511]**</span><br>
+**Key words**: right to repair; post-sale restrictions; data extraction; income stream; software services; brand lock-in<br>
+**Essay-ready point**: Because smart devices depend on software, services, data, and infrastructure, providers can impose post-sale restrictions that generate ongoing income, data extraction, and brand lock-in.<br>
+**Original Sentence**: Essential software, services and infrastructure provide continuing value to original providers ... resulting in the imposition and enforcement of post-supply restrictions designed to extract and maintain an income stream.<br>
+**Page**: 272
+
+<span style="color:#B00020;">**[Chunck 030512]**</span><br>
+**Key words**: right to repair; safety; cybersecurity; manufacturer arguments; FTC; repair restrictions<br>
+**Essay-ready point**: Although manufacturers often invoke safety, cybersecurity, environmental standards, reputation, and IP as reasons to restrict repair, the author notes that evidence supporting those concerns may be weak.<br>
+**Original Sentence**: Providers argue restrictions protect “public safety, cyber security and environmental standards,” but the FTC reported “there is little real data underpinning the providers’ concerns.<br>
+**Page**: 272–273
+
+<span style="color:#B00020;">**[Chunck 030513]**</span><br>
+**Key words**: right to repair; repair competition; throwaway culture; replacement; financial incentives; market power<br>
+**Essay-ready point**: The author argues that original providers have clear economic incentives to limit repair competition and promote a throwaway culture that encourages replacement purchases.<br>
+**Original Sentence**: Original providers clearly have financial incentives to minimise competition in repair markets ... and/or promote a ‘throwaway’ culture, in order to make it more likely consumers will buy a new product from them rather than repairing the original.<br>
+**Page**: 273
+
+<span style="color:#B00020;">**[Chunck 030514]**</span><br>
+**Key words**: right to repair; embedded software; remote disabling; post-sale control; copyright; consumer autonomy<br>
+**Essay-ready point**: Smart-device repair is constrained by post-sale technological control, because providers may retain copyright in embedded software and may remotely disable or modify connected products.<br>
+**Original Sentence**: Consumers may have only physical ownership while “copyright in embedded software … remains with the original provider,” and providers may “remotely disable or modify eObjects due to their connected nature.”<br>
+**Page**: 273
+
+<span style="color:#B00020;">**[Chunck 030515]**</span><br>
+**Key words**: right to repair; TPM reform; copyright exception; embedded information; diagnosis; repair information<br>
+**Essay-ready point**: A meaningful right to repair requires reform of copyright and technological protection measures so repairers can access embedded information needed for diagnosis and repair, and share repair information lawfully.<br>
+**Original Sentence**: The Productivity Commission recommended amending the TPM regime “to better facilitate repairers’ access to embedded information protected by TPMs necessary for issue diagnosis and repair,” and adding a copyright exception allowing “the reproduction and sharing of repair information.”<br>
+**Page**: 277
 
 ### 2.4 Seminar 4
 
