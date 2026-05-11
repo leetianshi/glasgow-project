@@ -691,6 +691,185 @@
 **Paragraph**: 48
 
 ### 2.3 Seminar 3
+<span style="color:#B00020;">**[Chunck 030201]**</span><br>
+**Key words**: right to repair; embedded software; consumer ownership; repair control; smart devices; product functionality<br>
+**Essay-ready point**: Modern consumer products increasingly depend on embedded software, which allows manufacturers to control repair even after the consumer has bought the physical product.<br>
+**Original Sentence**: Cars, televisions, coffee makers, refrigerators, and printer ink cartridges are all embedded with computers and software. Without that software, these products would not function.<br>
+**Page**: 165
+
+<span style="color:#B00020;">**[Chunck 030202]**</span><br>
+**Key words**: right to repair; artificial barriers; manufacturer control; repair restrictions; consumer autonomy; product design<br>
+**Essay-ready point**: The author argues that modern repair barriers are not merely caused by technical complexity, but by manufacturers’ deliberate efforts to stop consumers from repairing their own devices.<br>
+**Original Sentence**: This difficulty does not arise from any inherent complexities within the product itself, but rather because the manufacturers of these products do not want you tinkering with ‘their’ products.<br>
+**Page**: 165–166
+
+<span style="color:#B00020;">**[Chunck 030203]**</span><br>
+**Key words**: right to repair; DRM; repair lockout; technological protection; consumer repair; access control<br>
+**Essay-ready point**: Digital rights management can function as a repair-control mechanism, preventing consumers from carrying out basic repairs on products they have purchased.<br>
+**Original Sentence**: Manufacturers implement digital rights management (DRM) software to artificially ‘lock out’ consumers from performing basic repairs.<br>
+**Page**: 166
+
+<span style="color:#B00020;">**[Chunck 030204]**</span><br>
+**Key words**: right to repair; software licensing; ownership; hardware; repair roadblocks; EULA<br>
+**Essay-ready point**: Manufacturers often separate hardware ownership from software control, claiming that consumers own the device but merely license the software needed to operate and repair it.<br>
+**Original Sentence**: Manufacturers maintain that consumers own the hardware, but the manufacturers really own the software. Since consumers are only licensed to use the software, this creates an additional roadblock in any attempts to repair defective products.<br>
+**Page**: 166
+
+<span style="color:#B00020;">**[Chunck 030205]**</span><br>
+**Key words**: right to repair; ownership; repair rights; consumer autonomy; third-party repair; lawful purchase<br>
+**Essay-ready point**: The right to repair movement is grounded in the idea that lawful purchasers should be able to repair the products they own, either themselves or through third-party repairers.<br>
+**Original Sentence**: The idea behind the right to repair is simple. You bought the device, you own it, and you should have the right to repair it.<br>
+**Page**: 167
+
+<span style="color:#B00020;">**[Chunck 030206]**</span><br>
+**Key words**: right to repair; consumer safety; cybersecurity; intellectual property; manufacturer opposition; repair legislation<br>
+**Essay-ready point**: Manufacturers justify opposition to right-to-repair legislation by invoking consumer safety, cybersecurity, and intellectual property protection.<br>
+**Original Sentence**: Manufacturers who oppose the right to repair claim they are promoting consumer safety, reducing cybersecurity risks, and protecting their intellectual property portfolio.<br>
+**Page**: 167
+
+<span style="color:#B00020;">**[Chunck 030207]**</span><br>
+**Key words**: right to repair; anti-competitive practices; e-waste; inefficiency; property rights; repair monopoly<br>
+**Essay-ready point**: Supporters argue that manufacturer-controlled repair is anti-competitive, inefficient, harmful to consumer property rights, and contributes to electronic waste.<br>
+**Original Sentence**: Proponents of the right to repair argue that manufacturers’ practices are anti-competitive, inefficient, contribute to an increasing amount of e-waste, and infringe on consumer property rights.<br>
+**Page**: 167
+
+<span style="color:#B00020;">**[Chunck 030208]**</span><br>
+**Key words**: right to repair; Massachusetts law; repair manuals; replacement parts; automotive repair; legislative model<br>
+**Essay-ready point**: The Massachusetts automotive right-to-repair law demonstrates that legislation can require manufacturers to provide repair manuals and parts to the public.<br>
+**Original Sentence**: The bill requires car manufacturers to provide manuals and replacement parts to the public for the purpose of repair.<br>
+**Page**: 167
+
+<span style="color:#B00020;">**[Chunck 030209]**</span><br>
+**Key words**: right to repair; DMCA; anti-circumvention; DRM; embedded software; repair barriers<br>
+**Essay-ready point**: The DMCA can obstruct repair because it prohibits circumvention of technological measures that control access to copyrighted software embedded in devices.<br>
+**Original Sentence**: The DMCA makes it illegal to circumvent a technological measure (e.g., DRM) that effectively controls access to copyrighted works.<br>
+**Page**: 168
+
+<span style="color:#B00020;">**[Chunck 030210]**</span><br>
+**Key words**: right to repair; DMCA exemptions; narrow scope; repair tools; manuals; software-embedded devices<br>
+**Essay-ready point**: Although the 2018 DMCA exemptions recognised some repair rights for software-embedded devices, the author criticises them as narrow because they apply only to limited categories and do not provide access to tools, manuals, or parts.<br>
+**Original Sentence**: These exemptions are extremely narrow and only apply to specific categories including smartphones, home appliances, Internet of Things gadgets, and motorized land vehicles. Further, they do not provide repairers access to manuals, parts, or software tools ...<br>
+**Page**: 168
+
+<span style="color:#B00020;">**[Chunck 030211]**</span><br>
+**Key words**: right to repair; EULA; terms of service; resale; repair restriction; ownership<br>
+**Essay-ready point**: Beyond copyright law, manufacturers use EULAs and terms of service to frame consumers as licensees rather than owners, further restricting repair and resale.<br>
+**Original Sentence**: Corporations rely on Terms of Service (TOS) agreements and End User License Agreements (EULAs) to further restrict consumers’ ability to repair and resell their own products.<br>
+**Page**: 168
+
+<span style="color:#B00020;">**[Chunck 030212]**</span><br>
+**Key words**: right to repair; John Deere; repair monopoly; diagnostics software; TPM; farming equipment<br>
+**Essay-ready point**: John Deere’s tractors show how DRM, proprietary diagnostics, and embedded software can turn repair into a manufacturer-controlled monopoly, especially harming farmers who need fast repairs.<br>
+**Original Sentence**: The computer systems embedded in the equipment utilize DRM and Technological Protection Measures (TPM) to reject non-proprietary parts. Further, repairers need access to John Deere’s diagnostics software to repair the equipment.<br>
+**Page**: 169
+
+<span style="color:#B00020;">**[Chunck 030213]**</span><br>
+**Key words**: right to repair; authorised repair; revenue stream; diagnostics; repair monopoly; proprietary tools<br>
+**Essay-ready point**: By restricting access to diagnostic software and proprietary tools, manufacturers can compel consumers to use authorised repair networks, creating an additional revenue stream.<br>
+**Original Sentence**: By adding these hurdles to repair, John Deere maintains an additional revenue stream because they force farmers to utilize their authorized repair network to repair equipment.<br>
+**Page**: 169–170
+
+<span style="color:#B00020;">**[Chunck 030214]**</span><br>
+**Key words**: right to repair; intellectual property; innovation; economic development; repair rights; competition<br>
+**Essay-ready point**: The author argues that intellectual property law should encourage creativity and innovation, not be used to prevent repair, restrain competition, or block economic development.<br>
+**Original Sentence**: Intellectual property laws were created to protect creativity and promote innovation, not to stifle economic development.<br>
+**Page**: 169
+
+<span style="color:#B00020;">**[Chunck 030215]**</span><br>
+**Key words**: right to repair; model legislation; repair tools; spare parts; manuals; DRM bypass information<br>
+**Essay-ready point**: A meaningful right to repair requires more than a legal permission to repair; it also requires practical access to documents, parts, tools, and information needed to bypass technological restrictions.<br>
+**Original Sentence**: The model legislation seeks to make available documents, parts, tools, and information to bypass DRM measures to facilitate repair.<br>
+**Page**: 183
+
+<span style="color:#B00020;">**[Chunck 030301]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030302]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030303]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030304]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030305]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030306]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030307]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030308]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030309]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030310]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030311]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030312]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030313]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030314]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
+
+<span style="color:#B00020;">**[Chunck 030315]**</span><br>
+**Key words**: right to repair;<br>
+**Essay-ready point**: <br>
+**Original Sentence**: <br>
+**Page**: 
 
 
 ### 2.4 Seminar 4
