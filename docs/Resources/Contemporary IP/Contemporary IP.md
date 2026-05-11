@@ -1503,7 +1503,365 @@
 **Paragraph**: 68
 
 ### 2.5 Seminar 5
+<span style="color:#B00020;">**[Chunck 050101]**</span><br>
+**Key words**: contracting out of copyright; contractual restrictions; digital ecosystem; user freedom; embedded design; copyright control<br>
+**Essay-ready point**: In the digital environment, copyright restrictions are no longer imposed only by statute; they are reinforced by contracts and technical design, which together restrict users’ freedom to access, experience, transform, and share works.<br>
+**Original Sentence**: Moreover, copyright restrictions on the use of online materials are supplemented by contractual restrictions and restraints on use embedded in the design.<br>
+**Page**: 133
 
+<span style="color:#B00020;">**[Chunck 050102]**</span><br>
+**Key words**: contracting out of copyright; user rights; private ordering; contractual terms; copyright goals; legal oversight<br>
+**Essay-ready point**: Elkin-Koren argues that recognising user rights is important because it provides a framework for reviewing contractual terms and limiting private ordering when it undermines copyright’s public purposes.<br>
+**Original Sentence**: A user-rights approach may help set the boundaries between copyright and private ordering, based on a more balanced perspective informed by copyright goals. It creates a legal framework for reviewing contractual terms and setting limits on private ordering ...<br>
+**Page**: 134
+
+<span style="color:#B00020;">**[Chunck 050103]**</span><br>
+**Key words**: contracting out of copyright; permissible uses; legal defense; user rights; copyright objectives; exceptions<br>
+**Essay-ready point**: If user freedoms are treated only as limitations or exceptions, they remain too weak to resist contractual override; treating permissible uses as rights better protects activities that serve copyright’s objectives.<br>
+**Original Sentence**: Permissible uses that serve the objectives of copyright law should therefore be defined as rights rather than as a legal defense.<br>
+**Page**: 132
+
+<span style="color:#B00020;">**[Chunck 050104]**</span><br>
+**Key words**: contracting out of copyright; cloud computing; streaming; licensing; ongoing control; digital services<br>
+**Essay-ready point**: The move from copies to services gives rightsholders continuing control over copyrighted materials, making contractual terms central to users’ access and use.<br>
+**Original Sentence**: The rise of cloud computing and mobile Internet has transformed the delivery of content from the sale of copies to the provision of services. Streaming gives content owners ongoing control over the use and distribution of copyrighted materials.<br>
+**Page**: 133
+
+<span style="color:#B00020;">**[Chunck 050105]**</span><br>
+**Key words**: contracting out of copyright; DRM; TPM; licence; digital services; user rights<br>
+**Essay-ready point**: In digital markets, users’ practical rights are often determined less by copyright doctrine than by licences, DRM, and technological protection measures.<br>
+**Original Sentence**: With the shift from commodity to service, the scope of user rights is defined, for the most part, by a license and the design, using Digital Rights Management (DRM) Systems or Technological Protection Measures (TPM).<br>
+**Page**: 138
+
+<span style="color:#B00020;">**[Chunck 050106]**</span><br>
+**Key words**: contracting out of copyright; access terms; revocation; digital ownership; purchased content; user control<br>
+**Essay-ready point**: A contractual-access model weakens ownership-like control because users may face changing access terms or even lose access to digital content they believed they had purchased.<br>
+**Original Sentence**: Consequently, users are subject to ongoing and intermittent changes in the terms of access to their purchased copies ... or alternatively their access to purchased content may be terminated altogether.<br>
+**Page**: 138
+
+<span style="color:#B00020;">**[Chunck 050107]**</span><br>
+**Key words**: contracting out of copyright; EULA; Terms of Use; resale; digital copies; contractual override<br>
+**Essay-ready point**: End User License Agreements and Terms of Use are key mechanisms for contracting out of copyright freedoms because they restrict how users may use, reuse, or resell digital works.<br>
+**Original Sentence**: Restrictions on users’ rights to use or resell digital copies are set by End User License Agreements (EULAs) or by Terms of Use (TOU) which are often drafted by online mega-platforms.<br>
+**Page**: 139
+
+<span style="color:#B00020;">**[Chunck 050108]**</span><br>
+**Key words**: contracting out of copyright; EULA; overprotection; copyright limits; contractual expansion; private ordering<br>
+**Essay-ready point**: Contractual terms may expand rightholders’ control beyond copyright’s statutory limits by protecting aspects of works that copyright itself would not protect.<br>
+**Original Sentence**: Some EULAs attempt to extend protection to aspects of the work not covered by copyright protection ...<br>
+**Page**: 139
+
+<span style="color:#B00020;">**[Chunck 050109]**</span><br>
+**Key words**: contracting out of copyright; fair use; reverse engineering; contractual restriction; EULA; user freedoms<br>
+**Essay-ready point**: A central concern with contracting out is that licence terms can purport to restrict fair use or equivalent user freedoms, such as reverse engineering.<br>
+**Original Sentence**: Some EULAs attempt ... to restrict fair use, such as the right of software users to engage in reverse engineering.<br>
+**Page**: 139
+
+<span style="color:#B00020;">**[Chunck 050110]**</span><br>
+**Key words**: contracting out of copyright; nonownership; resale limits; digital exhaustion; licence terms; EULA<br>
+**Essay-ready point**: Digital licences often undermine exhaustion-like ownership expectations by declaring that users do not own the copy and by limiting resale rights.<br>
+**Original Sentence**: EULAs often provide nonownership by the licensee in the licensed copy, and to set limits on the right to resell the copy.<br>
+**Page**: 139
+
+<span style="color:#B00020;">**[Chunck 050111]**</span><br>
+**Key words**: contracting out of copyright; eLending; libraries; public function; access to knowledge; licence restrictions<br>
+**Essay-ready point**: Contracting out has public consequences when publishers impose e-lending limits on libraries, because those terms can reduce free access to knowledge and impair libraries’ democratic and educational role.<br>
+**Original Sentence**: Some licenses set limits on public e-lending by libraries ... Restricting the public lending privileges of libraries may undermine their ability to serve their public function by ensuring free access to knowledge ...<br>
+**Page**: 139
+
+<span style="color:#B00020;">**[Chunck 050112]**</span><br>
+**Key words**: contracting out of copyright; licences; technical measures; limitations and exceptions; private power; user freedom<br>
+**Essay-ready point**: Elkin-Koren argues that the combination of expanding copyright, licences, and technological controls can fence off uses that copyright limitations would normally protect.<br>
+**Original Sentence**: The continuous expansion of copyright over recent decades and the fencing of content through licenses and technical means, including cases where L&E would normally apply, strengthen the need to develop a different approach to securing freedom of uses.<br>
+**Page**: 140
+
+<span style="color:#B00020;">**[Chunck 050113]**</span><br>
+**Key words**: contracting out of copyright; clearance culture; fair use; licensing; legal uncertainty; permission<br>
+**Essay-ready point**: When users repeatedly seek permission for uses that may already be lawful, legal uncertainty and contractual control generate a clearance culture in which every use appears to require a licence.<br>
+**Original Sentence**: The more users seek permission for what is presumably fair use, the more others perceive such uses as nonfair; consequently, more people seek permission where such permission is in fact unnecessary. This results in a Clearance Culture, where every use is assumed to require a license.<br>
+**Page**: 152
+
+<span style="color:#B00020;">**[Chunck 050114]**</span><br>
+**Key words**: contracting out of copyright; EULA; Terms of Use; non-negotiated contracts; enforceability; copyright goals<br>
+**Essay-ready point**: The article directly asks whether non-negotiated EULAs and Terms of Use should be able to override user rights, and suggests that user-rights theory provides a basis for reviewing those restraints.<br>
+**Original Sentence**: Can user rights be overridden by nonnegotiated standard contracts such as EULA and ToU? User rights could offer a framework for reviewing such restraints and identifying the way they might conflict with copyright goals.<br>
+**Page**: 166
+
+<span style="color:#B00020;">**[Chunck 050115]**</span><br>
+**Key words**: contracting out of copyright; user rights; property licence; fair use; voluntary consent; unenforceability<br>
+**Essay-ready point**: Elkin-Koren’s strongest contracting-out argument is that if user rights fall outside the copyright owner’s property bundle, a mere property licence cannot unilaterally eliminate them; conflicting terms may require stronger consent or may be unenforceable.<br>
+**Original Sentence**: Yet provisions that pertain to user rights (e.g., limits on fair use) fall beyond the bundle of rights defined by the property rule. Consequently, a property license cannot unilaterally restrict user rights, and stronger evidence of voluntary consent may be required to make such provisions enforceable.<br>
+**Page**: 167
+
+<span style="color:#B00020;">**[Chunck 050201]**</span><br>
+**Key words**: contracting out of copyright; CDPA amendments; copyright exceptions; contract; unenforceable terms; permitted acts<br>
+**Essay-ready point**: The 2014 amendments to the CDPA are significant because they altered the traditional relationship between copyright exceptions and contract by making some contractual terms unenforceable where they restrict statutory permitted acts.<br>
+**Original Sentence**: Many of the remaining new exceptions significantly alter the relationship between copyright exceptions and contract, making contractual terms unenforceable where those terms restrict users from taking advantage of an exception.<br>
+**Page**: 111
+
+<span style="color:#B00020;">**[Chunck 050202]**</span><br>
+**Key words**: contracting out of copyright; contracting out; CDPA; copyright exceptions; contractual override; pre-2014 law<br>
+**Essay-ready point**: Before the 2014 amendments, UK copyright law generally allowed rightsholders to contract out of most copyright exceptions, subject only to limited exceptions such as computer programs, databases, and certain news-reporting uses.<br>
+**Original Sentence**: Prior to the recent amendments it was generally considered possible to ‘contract out’ of most of the copyright exceptions in the CDPA.<br>
+**Page**: 111
+
+<span style="color:#B00020;">**[Chunck 050203]**</span><br>
+**Key words**: contracting out of copyright; business practice; user restrictions; copyright contracts; exceptions; contractual override<br>
+**Essay-ready point**: The article notes empirical evidence that, before reform, many copyright contracts attempted to prevent users from relying on copyright exceptions, making contractual override a practical rather than merely theoretical problem.<br>
+**Original Sentence**: Some evidence collected prior to the amendments suggested that it was common business practice in many industries for copyright contracts to purport to restrict users’ ability to make use of copyright exceptions.<br>
+**Page**: 112
+
+<span style="color:#B00020;">**[Chunck 050204]**</span><br>
+**Key words**: contracting out of copyright; fair dealing; quotation; parody; text and data mining; unenforceability<br>
+**Essay-ready point**: A central feature of the reforms is that new fair dealing exceptions, such as quotation, parody, and text and data mining, were drafted so that contract terms restricting those permitted acts are unenforceable.<br>
+**Original Sentence**: All of the completely new exceptions (quotation, parody, text and data mining) include a provision providing that ‘to the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of this section, would not infringe copyright, that term is unenforceable’<br>
+**Page**: 113
+
+<span style="color:#B00020;">**[Chunck 050205]**</span><br>
+**Key words**: contracting out of copyright; sector-specific exceptions; libraries; education; licensing; contract law<br>
+**Essay-ready point**: The reforms did not adopt a single uniform rule for all exceptions; while some exceptions are protected against contractual override, others remain subject to more complex licensing-based arrangements.<br>
+**Original Sentence**: The new fair dealing exceptions cannot generally be set aside by contract, whereas the amended sector-specific exceptions (such as those directed to libraries or educational institutions) have a more complex interaction with contract law.<br>
+**Page**: 113
+
+<span style="color:#B00020;">**[Chunck 050206]**</span><br>
+**Key words**: contracting out of copyright; educational establishments; licences; broadcast recording; permitted acts; contractual limits<br>
+**Essay-ready point**: In some contexts, copyright exceptions remain limited by licensing markets; for example, the exception for recording broadcasts by educational establishments does not operate where appropriate licences are available and the institution knows or should know this.<br>
+**Original Sentence**: The amended exception which permits the recording of broadcasts by educational establishments provides that the copyright exception will not operate ‘if, or to the extent that, licences are available authorising the acts in question and the educational establishment responsible for those acts knew or ought to have been aware of [the availability of a licence]’.<br>
+**Page**: 113
+
+<span style="color:#B00020;">**[Chunck 050207]**</span><br>
+**Key words**: contracting out of copyright; Hargreaves Report; mandatory exceptions; uncertainty; statutory limits; balance<br>
+**Essay-ready point**: The Hargreaves Report argued that copyright exceptions should not be overridden by contract because mandatory exceptions reduce uncertainty, preserve balance, and stop rightsholders from rewriting copyright’s statutory limits.<br>
+**Original Sentence**: The report argued that mandatory exceptions would minimize uncertainty, maintain balance between rights holders and users, and prevent rights holders from rewriting the limits of the property rights bestowed upon them.<br>
+**Page**: 117
+
+<span style="color:#B00020;">**[Chunck 050208]**</span><br>
+**Key words**: contracting out of copyright; social benefit; copyright aims; exceptions; public interest; permitted use<br>
+**Essay-ready point**: The article explains that copyright exceptions are designed to permit uses whose social value outweighs strict enforcement or which do not significantly undermine copyright’s core aims.<br>
+**Original Sentence**: Copyright exceptions ... were generally ‘designed to allow uses of content that offer benefits deemed either more important than those delivered by the core aims of copyright and/or benefits that do not significantly detract from those aims’.<br>
+**Page**: 117
+
+<span style="color:#B00020;">**[Chunck 050209]**</span><br>
+**Key words**: contracting out of copyright; education; libraries; licence terms; uncertainty; statutory exceptions<br>
+**Essay-ready point**: A key objection to contractual override is that it forces libraries and educational users to check licence terms before relying on statutory exceptions, increasing uncertainty and discouraging permitted uses.<br>
+**Original Sentence**: Without mandatory exceptions there would be considerable uncertainty for users within the education sector as to whether they could rely on statutory copyright exceptions, or whether instead they would need to consult the terms of a licence before making use of an exception.<br>
+**Page**: 117
+
+<span style="color:#B00020;">**[Chunck 050210]**</span><br>
+**Key words**: contracting out of copyright; risk aversion; libraries; universities; restrictive terms; access<br>
+**Essay-ready point**: The Hargreaves Report was concerned that risk-averse libraries and universities dealing with multiple licences may apply the most restrictive terms across all uses, thereby narrowing access beyond what copyright law requires.<br>
+**Original Sentence**: The report expressed a concern that ... risk-averse library and academic administrators ... who had entered into contracts with many providers, might restrict users’ access to the most restrictive set of terms, in order to be certain that contractual licences were not being breached.<br>
+**Page**: 117
+
+<span style="color:#B00020;">**[Chunck 050211]**</span><br>
+**Key words**: contracting out of copyright; Government policy; contractual terms; copyright exceptions; reimposed restrictions; user benefit<br>
+**Essay-ready point**: The UK Government’s stated policy was to prevent rightsholders from using contract to reimpose restrictions that copyright exceptions had deliberately removed.<br>
+**Original Sentence**: The UK Government’s formal response to the Hargreaves Report ... indicated that it would seek to ensure that ‘unnecessary restrictions removed by copyright exceptions are not re-imposed by other means, such as contractual terms, in such a way as to undermine the benefits of the exception’.<br>
+**Page**: 117
+
+<span style="color:#B00020;">**[Chunck 050212]**</span><br>
+**Key words**: contracting out of copyright; licensing; permitted acts; social benefit; contract; copyright balance<br>
+**Essay-ready point**: The reform was not framed as a wholesale rejection of licensing, but as an attempt to preserve socially beneficial permitted acts while allowing licences to remain useful where they expand access or clarify rights.<br>
+**Original Sentence**: The Government’s response to the consultation ... expressed its aim as ‘not to establish contract as superior to permitted act[s] or vice versa, but to ensure licensing does not restrict acts that are beneficial to society as a whole’.<br>
+**Page**: 118
+
+<span style="color:#B00020;">**[Chunck 050213]**</span><br>
+**Key words**: contracting out of copyright; incomplete reform; pre-existing exceptions; contractual override; public interest; CDPA<br>
+**Essay-ready point**: A major weakness of the reforms is that they did not protect all copyright exceptions from contractual override, leaving some core public-interest exceptions potentially vulnerable to contract.<br>
+**Original Sentence**: The recent amendments did not implement contractual override provisions in relation to all pre-existing exceptions in the CDPA.<br>
+**Page**: 118
+
+<span style="color:#B00020;">**[Chunck 050214]**</span><br>
+**Key words**: contracting out of copyright; criticism; review; news reporting; public interest; contractual limitations<br>
+**Essay-ready point**: The article criticises the resulting inconsistency: even after the reforms, contractual limitations may remain possible for important public-interest exceptions such as criticism, review, and news reporting.<br>
+**Original Sentence**: After the amendments not all copyright exceptions in the CDPA include a contractual override clause, and indeed that ‘[b]izarrely ... the effect is that contractual limitations remain possible in relation to the core public interest exceptions ...’.<br>
+**Page**: 118–119
+
+<span style="color:#B00020;">**[Chunck 050215]**</span><br>
+**Key words**: contracting out of copyright; unenforceable terms; chilling effect; litigation risk; user ignorance; rights holders<br>
+**Essay-ready point**: Even where contract terms overriding exceptions are unenforceable, rightsholders may continue to include them, relying on users’ ignorance, risk aversion, or unwillingness to litigate.<br>
+**Original Sentence**: It is also likely that many rights holders will include such terms in their agreement in the hope that the parties whom they contract with are either unaware that such terms are unenforceable or are unwilling to risk the expense of litigation to vindicate their rights.<br>
+**Page**: 123
+
+<span style="color:#B00020;">**[Chunck 050301]**</span><br>
+**Key words**: contracting out of copyright; EULA; digital ownership; resale; lending; inheritance<br>
+**Essay-ready point**: Digital media transactions often use contractual terms to remove ordinary incidents of ownership, such as lending, gifting, resale, and inheritance, even though consumers may believe they have “bought” the work.<br>
+**Original Sentence**: The terms of use and end user license agreements (EULAs) associated with digital media goods typically restrict not only bequeathing those goods by will, but all manner of transfers. According to those provisions, purchasers cannot lend media goods; they cannot give them away as gifts; and they certainly cannot resell them.<br>
+**Page**: 318
+
+<span style="color:#B00020;">**[Chunck 050302]**</span><br>
+**Key words**: contracting out of copyright; first sale; tangible goods; digital media; transfer rights; exhaustion<br>
+**Essay-ready point**: A central problem is that copyright’s first-sale doctrine protects transfers of tangible books, records, and films, while digital retailers use licences to deny equivalent transfer rights in digital copies.<br>
+**Original Sentence**: For tangible goods like books, records, and movies, copyright law’s first sale doctrine guarantees owners the right to transfer them as they see fit.<br>
+**Page**: 318–319
+
+<span style="color:#B00020;">**[Chunck 050303]**</span><br>
+**Key words**: contracting out of copyright; licensed not sold; ownership; digital media; contract; copyright holders<br>
+**Essay-ready point**: The contractual strategy of “licensing, not selling” is central to contracting out of copyright: it allows copyright holders and platforms to argue that consumers never acquire ownership-based rights in digital media.<br>
+**Original Sentence**: Rights holders and retailers maintain that digital media goods are not sold to purchasers; they are merely licensed.<br>
+**Page**: 319
+
+<span style="color:#B00020;">**[Chunck 050304]**</span><br>
+**Key words**: contracting out of copyright; licence terms; consumer consent; unread contracts; EULA; online shopping<br>
+**Essay-ready point**: Contracting out is especially problematic because the legal terms that restrict user rights are usually ignored by consumers, making licence-based limitations unlikely to reflect informed consent.<br>
+**Original Sentence**: The overwhelming majority of online shoppers ignore license terms.<br>
+**Page**: 320
+
+<span style="color:#B00020;">**[Chunck 050305]**</span><br>
+**Key words**: contracting out of copyright; legalese; complexity; notice; consumer contracts; information costs<br>
+**Essay-ready point**: The authors argue that digital licences impose unrealistic informational burdens on consumers because they are long, complex, and written in technical legal language.<br>
+**Original Sentence**: Licenses are notoriously long and complex ... these licenses are overflowing with defined terms, technical jargon, legalese, and complex sentence structures.<br>
+**Page**: 320
+
+<span style="color:#B00020;">**[Chunck 050306]**</span><br>
+**Key words**: contracting out of copyright; term optimism; consumer expectations; unread terms; licensing; digital goods<br>
+**Essay-ready point**: Consumers may assume that unread licence terms are more favourable than they really are, creating a gap between contractual reality and consumer expectations.<br>
+**Original Sentence**: Recent work by Ian Ayres and Alan Schwartz suggests that many consumers suffer from ‘term optimism’—the tendency to ‘expect a contract to contain more favorable terms than it actually provides.’<br>
+**Page**: 321
+
+<span style="color:#B00020;">**[Chunck 050307]**</span><br>
+**Key words**: contracting out of copyright; Buy Now; misleading marketing; licence terms; ownership language; digital marketplace<br>
+**Essay-ready point**: The article’s core argument is that platforms use ownership-like marketing language while imposing licence terms that deny ownership-like rights, making the transaction potentially misleading.<br>
+**Original Sentence**: Consumers are confronted with marketing language that appears to be in tension with the text of the licenses associated with those transactions.<br>
+**Page**: 327
+
+<span style="color:#B00020;">**[Chunck 050308]**</span><br>
+**Key words**: contracting out of copyright; Apple; iTunes; loan; sale; digital restrictions<br>
+**Essay-ready point**: Apple’s terms illustrate how digital contracts can remove ordinary ownership privileges by prohibiting modification, rental, lending, sale, and distribution of digital media.<br>
+**Original Sentence**: The license maintains that consumers may not ‘modify, rent, loan, sell, or distribute’ the movies and music they acquire from iTunes.<br>
+**Page**: 328
+
+<span style="color:#B00020;">**[Chunck 050309]**</span><br>
+**Key words**: contracting out of copyright; consumer belief; ownership; Buy Now; empirical study; digital goods<br>
+**Essay-ready point**: The study shows that ownership-like marketing materially shapes consumer beliefs: most respondents who saw “Buy Now” believed they owned the digital good.<br>
+**Original Sentence**: A sizable majority of respondents—just over 83%—believed that after clicking the Buy Now button, they owned the digital good in question.<br>
+**Page**: 337
+
+<span style="color:#B00020;">**[Chunck 050310]**</span><br>
+**Key words**: contracting out of copyright; permanent access; digital purchase; consumer expectations; possession; ownership<br>
+**Essay-ready point**: A major mismatch between licence terms and consumer expectations concerns permanence: consumers often believe that buying digital goods entitles them to keep them indefinitely.<br>
+**Original Sentence**: More than 86% of respondents who saw the Buy Now button believed that they were entitled to keep their digital purchase for as long as they wanted.<br>
+**Page**: 337
+
+<span style="color:#B00020;">**[Chunck 050311]**</span><br>
+**Key words**: contracting out of copyright; resale; used markets; alienability; licence restrictions; digital goods<br>
+**Essay-ready point**: Digital licence restrictions conflict with the long history of used-book and used-media markets, because resale is routinely prohibited for digital goods even though consumers associate “buying” with alienability.<br>
+**Original Sentence**: Used booksellers have operated in the United States for centuries ... But like lending and gift-giving, resale is uniformly barred by license terms applied to digital goods.<br>
+**Page**: 342
+
+<span style="color:#B00020;">**[Chunck 050312]**</span><br>
+**Key words**: contracting out of copyright; License Now; consumer misunderstanding; disclosure; ownership; digital contracts<br>
+**Essay-ready point**: Although “License Now” reduced ownership claims, it did not fully correct consumer misunderstanding, suggesting that clearer disclosure is needed where contracts remove ownership-like rights.<br>
+**Original Sentence**: The License Now button reduced the number of affirmative responses to the ownership question but had little other effect.<br>
+**Page**: 344
+
+<span style="color:#B00020;">**[Chunck 050313]**</span><br>
+**Key words**: contracting out of copyright; short notice; disclosure; rights information; resale; consumer protection<br>
+**Essay-ready point**: The authors’ experiment suggests that concise, prominent rights notices are more effective than hidden licence terms in informing consumers about restrictions on digital goods.<br>
+**Original Sentence**: Respondents who saw the short notice were less likely to believe they were entitled to resell digital goods ... Although our short notice could undoubtedly be improved ... it is nonetheless a remarkably low-cost intervention.<br>
+**Page**: 349
+
+<span style="color:#B00020;">**[Chunck 050314]**</span><br>
+**Key words**: contracting out of copyright; materiality; consumer preferences; lending; resale; device choice<br>
+**Essay-ready point**: The restrictions imposed by digital licences are not trivial: the authors test materiality by asking whether rights such as lending, resale, and device choice matter to consumers’ market decisions.<br>
+**Original Sentence**: A claim is material to consumers if it influences their decisions in the marketplace ... we asked respondents to state their preferences with respect to three of the rights surveyed above: the rights to lend, to resell, and to use media on their device of choice.<br>
+**Page**: 356
+
+<span style="color:#B00020;">**[Chunck 050315]**</span><br>
+**Key words**: contracting out of copyright; false advertising; deceptive advertising; Buy Now; restrictive licences; consumer protection<br>
+**Essay-ready point**: The authors conclude that using “Buy Now” for restricted digital licences may constitute false and deceptive advertising because it relies on ownership expectations from physical markets while concealing restrictive licence terms.<br>
+**Original Sentence**: Our study has revealed the degree to which consumers are misled by the use of marketing language like the Buy Now button that relies on expectations developed in the tangible goods economy, but which are incompatible with the restrictive license terms that are attached to most digital media transactions. We have argued that use of the Buy Now button in this context constitutes false and deceptive advertising.<br>
+**Page**: 375
+
+<span style="color:#B00020;">**[Chunck 050401]**</span><br>
+**Key words**: contracting out of copyright; digital information; licensing; access control; public domain; intellectual property<br>
+**Essay-ready point**: In the digital environment, contract has become a central mechanism for controlling access to and use of information, whether or not the information is protected by intellectual property rights.<br>
+**Original Sentence**: Contracts are an essential tool in the distribution of information. If a specific element of information has any commercial value at all, its access and use will most likely be governed by the terms of a license, whether it is protected by an intellectual property right or not.<br>
+**Page**: 87
+
+<span style="color:#B00020;">**[Chunck 050402]**</span><br>
+**Key words**: contracting out of copyright; technological measures; contract; anti-copying; use control; digital networks<br>
+**Essay-ready point**: Guibault argues that contractual terms and technological measures together allow information providers to control uses that might otherwise fall outside intellectual property law.<br>
+**Original Sentence**: The combined use of contractual terms and technological measures gives individuals the ability to control the use of their information: first, by allowing them to affix conditions of use to each piece of information; and second, by permitting them to prevent further reproductions or distribution of such information thanks to anti-copying devices.<br>
+**Page**: 87
+
+<span style="color:#B00020;">**[Chunck 050403]**</span><br>
+**Key words**: contracting out of copyright; contractual culture; digital networks; licences; online transactions; copyright defaults<br>
+**Essay-ready point**: The interactive nature of digital networks creates the conditions for a contractual culture in which individual online transactions are governed by licences rather than by copyright defaults.<br>
+**Original Sentence**: The network’s interactive nature provides indeed the perfect preconditions for the development of a contractual culture in the digital networked environment.<br>
+**Page**: 87
+
+<span style="color:#B00020;">**[Chunck 050404]**</span><br>
+**Key words**: contracting out of copyright; public domain; unprotected information; online licences; data; private restrictions<br>
+**Essay-ready point**: A key concern is that online licences can wrap all kinds of information, including public-domain data and materials not protected by copyright or database rights, into privately imposed restrictions.<br>
+**Original Sentence**: All kinds of information are being distributed on the Internet subject to the terms of a license, including among other things: books, magazines, newspapers, videos, music ... collections of case law and legislative texts ... geological and meteorological data, stock exchange quotes, or financial indices.<br>
+**Page**: 87
+
+<span style="color:#B00020;">**[Chunck 050405]**</span><br>
+**Key words**: contracting out of copyright; public domain; information supply; restrictive contracts; access; commodification<br>
+**Essay-ready point**: The article frames contracting out as a public-domain problem: restrictive contracts may either increase information supply or remove information from the public domain by making formerly free uses contractually restricted.<br>
+**Original Sentence**: Would the use of contracts in the trade of information tend to increase the amount of information available to the public anyway? Or would it, on the contrary, withdraw from the public domain some elements of information that were until then freely available?<br>
+**Page**: 88
+
+<span style="color:#B00020;">**[Chunck 050406]**</span><br>
+**Key words**: contracting out of copyright; standard form contracts; click-wrap; bargaining power; IP balance; digital transactions<br>
+**Essay-ready point**: Standard form contracts deserve special scrutiny because they dominate digital information transactions and are more likely than negotiated agreements to disturb the balance set by intellectual property law.<br>
+**Original Sentence**: This chapter focuses on standard form contracts ... because this type of contracts actually governs the vast majority of transactions relating to information in the digital networked environment. Moreover, the enforcement of standard form contracts may ultimately have a greater impact on the balance of interests reached by the intellectual property regime ...<br>
+**Page**: 88
+
+<span style="color:#B00020;">**[Chunck 050407]**</span><br>
+**Key words**: contracting out of copyright; bargaining power; mass-market licences; standard terms; user privileges; negotiation<br>
+**Essay-ready point**: The danger of contracting out is heightened in mass-market licences because individual users usually cannot negotiate restrictions on public-domain information or privileged uses.<br>
+**Original Sentence**: Contrary to standard form contracts, the conclusion of fully negotiated contracts presupposes a more equal bargaining power between information producers and users of the licensed information.<br>
+**Page**: 88
+
+<span style="color:#B00020;">**[Chunck 050408]**</span><br>
+**Key words**: contracting out of copyright; use restrictions; reproduction; redistribution; end users; information products<br>
+**Essay-ready point**: The purpose of many online standard-form licences is to restrict end users’ ability to use, reproduce, or redistribute information products, regardless of whether the underlying material is protected.<br>
+**Original Sentence**: The practice of marketing information to end-users subject to the terms of a standard form contract primarily aims at restricting the end-users’ capacity to use, reproduce or redistribute an undertaking’s information product, whether this information is protected by an intellectual property right or not.<br>
+**Page**: 89
+
+<span style="color:#B00020;">**[Chunck 050409]**</span><br>
+**Key words**: contracting out of copyright; idea-expression; originality; duration; exhaustion; public domain<br>
+**Essay-ready point**: Guibault explains that copyright and related rights contain internal limits—such as protectable subject matter, originality, term limits, and exhaustion—that are designed to preserve the public domain.<br>
+**Original Sentence**: These limits are the definition of protectable subject matter (the idea/expression dichotomy), the criteria for protection ... the fixed duration of the intellectual property protection, and the exhaustion doctrine.<br>
+**Page**: 91
+
+<span style="color:#B00020;">**[Chunck 050410]**</span><br>
+**Key words**: contracting out of copyright; privileged uses; exceptions; free flow; open space; user rights<br>
+**Essay-ready point**: Even if statutory copyright exceptions are not strictly part of the public domain, contracts that restrict those privileged uses still reduce the open space that intellectual property law is meant to preserve.<br>
+**Original Sentence**: Even if the statutory user privileges are not to be considered as part of the public domain in the strict sense, the widespread use of contractual restrictions on the exercise of the privileges recognised by IP law does affect the free flow of information ...<br>
+**Page**: 93–94
+
+<span style="color:#B00020;">**[Chunck 050411]**</span><br>
+**Key words**: contracting out of copyright; shrinking public domain; contractual control; copyright limits; information access; private ordering<br>
+**Essay-ready point**: The article adopts the view that when contracts expand control beyond copyright, they shrink the public domain by converting legally free uses into contractually restricted uses.<br>
+**Original Sentence**: To the extent that contractual arrangements expand rights of control over informational works provided by copyright law, such contracts are shrinking the public domain.<br>
+**Page**: 94
+
+<span style="color:#B00020;">**[Chunck 050412]**</span><br>
+**Key words**: contracting out of copyright; unprotected data; indiscriminate licensing; facts; legal uncertainty; copyright scope<br>
+**Essay-ready point**: A practical problem is that online terms often apply indiscriminately to both protected works and unprotected facts or data, making it difficult for users to know what they may lawfully use.<br>
+**Original Sentence**: The problem with this type of clause is that it purports to wrap all categories of information into an indiscriminate single contractual mould, whether such information is protected by an intellectual property right or not.<br>
+**Page**: 95
+
+<span style="color:#B00020;">**[Chunck 050413]**</span><br>
+**Key words**: contracting out of copyright; mandatory exceptions; statutory limitations; contractual override; European copyright; legal uncertainty<br>
+**Essay-ready point**: A major difficulty for contracting out is that many European copyright systems do not clearly state whether copyright limitations are mandatory or can be overridden by contract.<br>
+**Original Sentence**: But for a few exceptions, continental European copyright law is silent on the issue of the status of the statutory limitations.<br>
+**Page**: 97
+
+<span style="color:#B00020;">**[Chunck 050414]**</span><br>
+**Key words**: contracting out of copyright; freedom of contract; consumer protection; competition law; user interests; licensing agreements<br>
+**Essay-ready point**: Guibault argues that ordinary contract-law controls, such as consumer protection, competition law, constitutional law, or abuse of rights, are not enough to ensure that users’ legitimate copyright interests are protected.<br>
+**Original Sentence**: Generally speaking, the rules on copyright and the general limits on freedom of contract appear insufficient to ensure that the legitimate interests of users of copyrighted material are taken into account in the context of copyright licensing agreements.<br>
+**Page**: 98
+
+<span style="color:#B00020;">**[Chunck 050415]**</span><br>
+**Key words**: contracting out of copyright; online licences; public domain integrity; IP policy; private ordering; democratic balance<br>
+**Essay-ready point**: <br>
+**Original Sentence**: The widespread use of on-line licenses may end up posing a threat to the intellectual property policy objectives and the integrity of the public domain ... such contracts may have the effect of shrinking the public domain to the extent that contractual arrangements expand rights of control over informational works provided by intellectual property law.<br>
+**Page**: 104
 
 ### 2.6 Seminar 6
 
