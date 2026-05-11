@@ -1052,7 +1052,455 @@
 **Page**: 277
 
 ### 2.4 Seminar 4
+<span style="color:#B00020;">**[Chunck 040101]**</span><br>
+**Key words**: copyright balance; digital exhaustion; access; incentives; eBooks<br>
+**Essay-ready point**: Digital exhaustion should be analysed through copyright’s core balancing function: copyright must incentivise authors while also ensuring public access to culturally important goods and knowledge, including digital books.<br>
+**Original Sentence**: The difficulty is in deciding the boundaries of copyright protection, in a manner that maintains the economic and moral incentives to authors, while at the same time ensuring society is not deprived of the appropriate access to culturally important goods and knowledge.<br>
+**Page**: 8
 
+<span style="color:#B00020;">**[Chunck 040102]**</span><br>
+**Key words**: digital exhaustion; absolute monopoly; limitations; downstream control; rightholders; digital markets<br>
+**Essay-ready point**: The case for digital exhaustion can be framed as an anti-monopoly argument: copyright grants exclusive rights, but those rights must be limited to prevent excessive control over downstream uses of works.<br>
+**Original Sentence**: In order to achieve this delicate balance between rightholders and society, and to prevent a return to absolute monopolies, exclusive rights are subject to limitations.<br>
+**Page**: 7–8
+
+<span style="color:#B00020;">**[Chunck 040103]**</span><br>
+**Key words**: technology neutrality; digital exhaustion; eBooks; copyright balance; resale<br>
+**Essay-ready point**: A technology-neutral approach to copyright can support extending exhaustion principles to eBooks, because similar ownership and resale interests arise whether works are distributed physically or digitally.<br>
+**Original Sentence**: Alternatively, a technology-neutral application of the copyright norms can help in achieving this balance.<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 040104]**</span><br>
+**Key words**: digital exhaustion; distribution right; lawful acquirer; ownership; exhaustion; eBook resale<br>
+**Essay-ready point**: Exhaustion is the doctrinal mechanism by which copyright law limits the distribution right once a lawful acquirer has obtained ownership of a copy; this is central to debates about resale of eBooks.<br>
+**Original Sentence**: Another doctrine that attempts to balance competing interests is exhaustion. It sets limitations for the author’s exclusive right of distribution, along the ownership interests of lawful acquirers of copies of protected subject matter.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040105]**</span><br>
+**Key words**: digital exhaustion; first marketing; genuine goods; secondary market; digital copies; exhaustion<br>
+**Essay-ready point**: The classical rationale of exhaustion is that once genuine copies have entered the market, later circulation should not be blocked by copyright claims; the question is whether this logic can extend to digital copies.<br>
+**Original Sentence**: The principle of exhaustion is nothing more than a figurative expression for the simple legal idea that once genuine goods have been marketed, subsequent distribution should not be impeded by [IPR] actions.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040106]**</span><br>
+**Key words**: digital exhaustion; analogue origins; Internet; digital technology; eBooks; doctrinal challenge<br>
+**Essay-ready point**: The doctrine of exhaustion was developed for analogue copies, but eBooks and other digital goods challenge that framework because online resale does not fit neatly into traditional concepts of distribution and ownership.<br>
+**Original Sentence**: This doctrine, which came into existence in the analog world at the turn of the twentieth century, faces challenges with the advent of digital technology and more specifically the exponential development of the Internet.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040107]**</span><br>
+**Key words**: digital exhaustion; used eBooks; online resale; digital content; secondary markets; exhaustion<br>
+**Essay-ready point**: The emergence of online resale markets for used music, software, and eBooks makes digital exhaustion a practical and urgent question rather than a purely theoretical issue.<br>
+**Original Sentence**: The increasing prevalence of online stores that resell used music, e-books, or software poses serious questions, such as whether the doctrine of exhaustion can be applied to digital content.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040108]**</span><br>
+**Key words**: licence; sale; ownership transfer; eBooks; digital exhaustion<br>
+**Essay-ready point**: A key problem for eBook exhaustion is whether the transaction is legally a sale or merely a licence, because exhaustion depends on transfer of ownership rather than simple permission to use.<br>
+**Original Sentence**: The need to establish balance in the digital domain requires clarification on the differences between license and sale ...<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040109]**</span><br>
+**Key words**: digital exhaustion; distribution; communication to the public; eBooks; online supply; digital rights<br>
+**Essay-ready point**: For eBooks, digital exhaustion depends on whether online supply is treated as distribution of a copy or as communication to the public, because exhaustion traditionally attaches to distribution rather than communication.<br>
+**Original Sentence**: The need to establish balance in the digital domain requires clarification on ... the transformation of economic rights (communication to the public versus distribution) ...<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040110]**</span><br>
+**Key words**: digital exhaustion; InfoSoc Directive; first sale; transfer of ownership; EU exhaustion; rightholder consent<br>
+**Essay-ready point**: Under the InfoSoc framework, exhaustion depends on a first sale or other transfer of ownership within the Community by the rightholder or with consent, which makes ownership transfer central to any eBook-resale argument.<br>
+**Original Sentence**: The distribution right shall not be exhausted within the Community ... except where the first sale or other transfer of ownership in the Community of that object is made by the rightholder or with his consent.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040111]**</span><br>
+**Key words**: digital exhaustion; first sale; lawful copy; ownership; U.S. copyright; eBook resale<br>
+**Essay-ready point**: The U.S. first-sale doctrine similarly protects the owner of a lawful copy, allowing resale or disposal without further authorisation; the difficulty for eBooks is proving ownership of a “particular copy.”<br>
+**Original Sentence**: The owner of a particular copy or phonorecord lawfully made under this title ... is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040112]**</span><br>
+**Key words**: digital exhaustion; four elements; authorised distribution; lawful transfer; protected copy; resale<br>
+**Essay-ready point**: The author’s framework is useful for exam analysis: exhaustion requires authorised distribution, lawful transfer of ownership, a protected copy, and a lawful owner’s later resale without permission.<br>
+**Original Sentence**: The following four elements might be recognized as the conceptual basis for the doctrine of exhaustion: 1 the rightholder or another authorized person 2 lawfully distributes and thus transfers the ownership over 3 the original or a copy of a protected subject matter and 4 the lawful owner may resell the copy without the rightholder’s permission.<br>
+**Page**: 9–10
+
+<span style="color:#B00020;">**[Chunck 040113]**</span><br>
+**Key words**: digital exhaustion; service model; transfer of ownership; communication to the public; eBooks; no exhaustion<br>
+**Essay-ready point**: A major obstacle for eBook exhaustion is that exhaustion applies to transfer of ownership, not to service-like forms of dissemination such as communication to the public, broadcasting, rental, lending, or leasing.<br>
+**Original Sentence**: Exhaustion applies only to copies made available to the public with the transfer of ownership ... Thus, rental lending or leasing, along with any other service-like forms of dissemination (public performance, communication to the public, broadcasting, and simultaneous retransmission), won’t effectuate exhaustion.<br>
+**Page**: 10
+
+<span style="color:#B00020;">**[Chunck 040114]**</span><br>
+**Key words**: digital exhaustion; initial distribution; future resale; contractual limits; eBook markets; downstream control<br>
+**Essay-ready point**: The doctrine preserves rightholder control over the first transaction, while preventing contractual copyright control over downstream resale, an important argument against perpetual control over eBook secondary markets.<br>
+**Original Sentence**: It is generally accepted that the rightholder should have the right to contractually limit the conditions ... of the initial distribution. The rightholder, however, is not entitled to contractually exclude future distributions.<br>
+**Page**: 11
+
+<span style="color:#B00020;">**[Chunck 040115]**</span><br>
+**Key words**: digital exhaustion; non-rivalry; digital resale; eBooks; doctrinal expansion<br>
+**Essay-ready point**: Although many courts and scholars resist digital exhaustion because digital copies do not deteriorate and may compete directly with new copies, the author expressly argues that exhaustion should be expanded to digital content and that these objections can be answered.<br>
+**Original Sentence**: It is doubtful whether these requirements can easily be met in the digital age. In light of this, jurisprudence and academia, in several countries, have been reluctant to apply exhaustion to digital content. This book will argue and seek to demonstrate that the doctrine should be expanded to the digital environment.<br>
+**Page**: 16
+
+<span style="color:#B00020;">**[Chunck 040301]**</span><br>
+**Key words**: libraries; public interest; lending; copyright limits; access to knowledge<br>
+**Essay-ready point**: Library lending is not merely a market activity; it performs a public-interest function by limiting copyright owners’ control over access to books, especially where cultural and educational access are at stake.<br>
+**Original Sentence**: Libraries have a public interest function that is often expressed in law. The function is exercised in part by making their collections available for lending. ‘Lending’ is a copyright concept that, in some respects, limits rightsholders’ control over the communication and distribution of books.<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 040302]**</span><br>
+**Key words**: physical books; deposit copies; public lending right; preservation; copyright limitation<br>
+**Essay-ready point**: The report contrasts digital uncertainty with the settled position for print books, where legal mechanisms such as deposit copies, public lending rights, and preservation copies are accepted limits on copyright.<br>
+**Original Sentence**: In the context of physical books, limits to the exclusive rights controlled by authors and publishers with respect to the activities of libraries have been widely accepted. These limitations include interventions such as: (1) requiring deposit copies of published books to be delivered to and held by designated libraries; (2) providing public lending rights; and (3) privileging preservation copies.<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 040303]**</span><br>
+**Key words**: digital exhaustion; eBooks; substantive ownership; libraries; licensing<br>
+**Essay-ready point**: The absence of digital exhaustion means that libraries do not acquire meaningful ownership over eBooks, leaving digital lending dependent on rightsholder-controlled licensing rather than library-controlled collections.<br>
+**Original Sentence**: The absence of any form of ‘digital exhaustion’ leaves libraries without substantive ownership of those digital copies.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040304]**</span><br>
+**Key words**: digital exhaustion; Tom Kabinet; communication to the public; eBook resale; rightsholder control; digital access<br>
+**Essay-ready point**: After Tom Kabinet, digital transactions involving eBooks are treated through the communication-to-the-public right, allowing rightsholders to control even forms of access that resemble sale or resale.<br>
+**Original Sentence**: In the EU specifically, rightsholders can control each independent act of communication to the public, which extends to all forms of access to e-Books: sharing, renting, certain forms of lending, and even ‘selling’ or re-selling an e-Book (Court of Justice of the European Union (CJEU), Tom Kabinet, Case C-263/18).<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040305]**</span><br>
+**Key words**: EU competence; Member States; lending rights; eLending; copyright regulation<br>
+**Essay-ready point**: A major regulatory problem is that eLending sits at the intersection of EU copyright harmonisation, national cultural policy, and library law, creating uncertainty about who can secure digital lending rights.<br>
+**Original Sentence**: The problem is compounded by the unclear division of competence between the EU and its Member States in the regulation of copyright in respect of lending rights.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 040306]**</span><br>
+**Key words**: eLending; copyright framework; eBook market; licensing; business models; market structure<br>
+**Essay-ready point**: The eBook lending market cannot be understood as a normal commercial market alone, because copyright law structures the bargaining power, business models, and access conditions of all participants.<br>
+**Original Sentence**: The market for e-Books and e-Lending is established upon an underlying copyright framework that shapes the business models of many market participants.<br>
+**Page**: 11
+
+<span style="color:#B00020;">**[Chunck 040307]**</span><br>
+**Key words**: digital collections; licensing agreements; print books; library autonomy; eLending<br>
+**Essay-ready point**: Unlike print collections, digital library collections are assembled through licensing contracts with publishers and platforms, making eLending more fragile and less autonomous than physical lending.<br>
+**Original Sentence**: In the digital context, libraries are required to assemble and develop e-Book collections through licensing agreements with publishers and digital platforms that are in many ways at odds with how they can, comparatively unproblematically, build collections for print books.<br>
+**Page**: 12
+
+<span style="color:#B00020;">**[Chunck 040308]**</span><br>
+**Key words**: bargaining power; information asymmetry; take-it-or-leave-it; eLending markets; libraries<br>
+**Essay-ready point**: The report identifies structural market problems in eLending, especially unequal bargaining power, information asymmetry, and take-it-or-leave-it licensing terms imposed on libraries.<br>
+**Original Sentence**: Market Structure: Bargaining power, information asymmetry, ‘take-it-or-leave-it’<br>
+**Page**: 12
+
+<span style="color:#B00020;">**[Chunck 040309]**</span><br>
+**Key words**: refusal to license; bundling; title withdrawal; restrictive terms; eBook access<br>
+**Essay-ready point**: Licensing restrictions such as refusals to license, title withdrawals, bundling, and restrictive terms show why a purely licensing-based model may fail to secure reliable eBook access for libraries.<br>
+**Original Sentence**: Licensing: Refusal to license, bundling, withdrawal of titles, restrictive terms and conditions.<br>
+**Page**: 12
+
+<span style="color:#B00020;">**[Chunck 040310]**</span><br>
+**Key words**: excessive pricing; opaque pricing; digital collections; sustainability; library budgets<br>
+**Essay-ready point**: The report suggests that eBook pricing can undermine libraries’ public mission because high and opaque prices make it difficult for libraries to build sustainable digital collections.<br>
+**Original Sentence**: Pricing: Excessive pricing, opaque pricing mechanisms.<br>
+**Page**: 12
+
+<span style="color:#B00020;">**[Chunck 040311]**</span><br>
+**Key words**: VOB; secure digital lending; functional equivalence; one copy one user; eLending<br>
+**Essay-ready point**: The CJEU’s decision in VOB supports the idea that eLending should be possible where it preserves the functional characteristics of physical lending, particularly the one-copy-one-user model.<br>
+**Original Sentence**: Lack of legislative action prompted the Court of Justice of the European Union (CJEU) in the case of VOB (C-174/15) to extend the scope of the lending right to cover a specific form of secure digital lending (SDL), resorting to a ‘dynamic or evolving’ interpretation of the law.<br>
+**Page**: 19
+
+<span style="color:#B00020;">**[Chunck 040312]**</span><br>
+**Key words**: eLending; lawful access; digital copies; born-digital books; VOB; licensing dependence<br>
+**Essay-ready point**: The report argues that VOB cannot fully support eLending unless libraries have an independent legal route to obtain or create digital copies for lending without relying entirely on licensing contracts.<br>
+**Original Sentence**: Without authorised access to digital copies of books or the right to create them for the purposes of e-Lending, Member States are prevented from effectively implementing a national lending scheme which extends to born-digital books.<br>
+**Page**: 19
+
+<span style="color:#B00020;">**[Chunck 040313]**</span><br>
+**Key words**: lawful access; precondition; eLending scheme; digital copies; CJEU<br>
+**Essay-ready point**: A central doctrinal obstacle is that lawful access to a digital copy remains necessary before libraries can lend eBooks, which keeps eLending tied to rightsholder permission.<br>
+**Original Sentence**: Under the CJEU’s jurisprudence, ‘lawful access’ to digital copies of a book remains a necessary pre-condition of any e-Lending scheme.<br>
+**Page**: 19
+
+<span style="color:#B00020;">**[Chunck 040314]**</span><br>
+**Key words**: digital exhaustion; secondary market; eBook resale; permanent collections; market-independent lending<br>
+**Essay-ready point**: The report identifies digital exhaustion as a possible policy tool because a secondary eBook market could allow libraries to acquire permanent digital collections independently of publisher licensing.<br>
+**Original Sentence**: While rarely discussed in the context of e-Lending, digital exhaustion (permitting the resale of e-Books) could also enable libraries to obtain lawful access to digital copies of books. The approach would be to create a secondary market for e-Books that is sufficiently large to enable libraries to acquire permanent digital collections that could then be used to offer a market-independent e-Lending service.<br>
+**Page**: 21
+
+<span style="color:#B00020;">**[Chunck 040315]**</span><br>
+**Key words**: digital exhaustion; competitive pressure; secondary market; reasonable licensing; publisher incentives; eLending licences<br>
+**Essay-ready point**: Digital exhaustion would not only help libraries acquire eBooks; it could also discipline publishers by creating alternative sources of supply and encouraging more reasonable eLending licences.<br>
+**Original Sentence**: The increased competition resulting from a secondary market for e-Books might add competitive pressure on publishers. Opening up alternative sources for e-Lending means that publishers will have increased incentives to license the e-Lending of books at reasonable prices – and disincentives for refusals to provide e-Lending licences for libraries.<br>
+**Page**: 21–22
+
+<span style="color:#B00020;">**[Chunck 040401]**</span><br>
+**Key words**: digital exhaustion; downloading; distribution right; online copies; UsedSoft<br>
+**Essay-ready point**: The Court treated the dispute as turning on whether downloading a digital copy from the internet, combined with a licence to use it, can exhaust the copyright holder’s distribution right.<br>
+**Original Sentence**: The referring court essentially seeks to know whether and under what conditions the downloading from the internet of a copy of a computer program, authorised by the copyright holder, can give rise to exhaustion of the right of distribution of that copy in the European Union within the meaning of Article 4(2) of Directive 2009/24.<br>
+**Paragraph**: 35
+
+<span style="color:#B00020;">**[Chunck 040402]**</span><br>
+**Key words**: digital exhaustion; autonomous EU concept; sale; uniform interpretation; Directive 2009/24; exhaustion<br>
+**Essay-ready point**: The Court held that “sale” must be interpreted uniformly as an autonomous concept of EU law, rather than being left to different national definitions.<br>
+**Original Sentence**: The wording of Directive 2009/24 does not make any reference to national laws as regards the meaning to be given to the term ‘sale’ in Article 4(2) of the directive. It follows that that term must be regarded ... as designating an autonomous concept of European Union law.<br>
+**Paragraph**: 40
+
+<span style="color:#B00020;">**[Chunck 040403]**</span><br>
+**Key words**: digital exhaustion; sale; intangible property; ownership transfer; digital goods; exhaustion<br>
+**Essay-ready point**: The Court defined sale broadly as a transaction involving payment and transfer of ownership, including ownership in intangible property.<br>
+**Original Sentence**: According to a commonly accepted definition, a ‘sale’ is an agreement by which a person, in return for payment, transfers to another person his rights of ownership in an item of tangible or intangible property belonging to him.<br>
+**Paragraph**: 42
+
+<span style="color:#B00020;">**[Chunck 040404]**</span><br>
+**Key words**: digital exhaustion; licence; download; indivisible transaction; digital copy; substance over form<br>
+**Essay-ready point**: The Court rejected a purely formal separation between download and licence, holding that the two must be assessed together because the downloaded copy is useless without the licence.<br>
+**Original Sentence**: The downloading of a copy of a computer program and the conclusion of a user licence agreement for that copy form an indivisible whole. Downloading a copy of a computer program is pointless if the copy cannot be used by its possessor.<br>
+**Paragraph**: 44
+
+<span style="color:#B00020;">**[Chunck 040405]**</span><br>
+**Key words**: perpetual licence; economic value; ownership transfer; remuneration; digital exhaustion<br>
+**Essay-ready point**: For the Court, a transaction granting permanent use of a digital copy in return for a fee equivalent to the copy’s economic value amounts to a transfer of ownership.<br>
+**Original Sentence**: A customer of Oracle ... receives, in return for payment of a fee, a right to use that copy for an unlimited period ... designed to enable the copyright holder to obtain a remuneration corresponding to the economic value of the copy.<br>
+**Paragraph**: 45
+
+<span style="color:#B00020;">**[Chunck 040406]**</span><br>
+**Key words**: digital exhaustion; first sale; perpetual licence; online copy; distribution right; exhaustion<br>
+**Essay-ready point**: The Court concluded that making a digital copy available online together with a perpetual paid user licence constitutes a first sale capable of exhausting the distribution right.<br>
+**Original Sentence**: The transfer by the copyright holder to a customer of a copy of a computer program, accompanied by the conclusion between the same parties of a user licence agreement, constitutes a ‘first sale ... of a copy of a program’ within the meaning of Article 4(2) of Directive 2009/24.<br>
+**Paragraph**: 48
+
+<span style="color:#B00020;">**[Chunck 040407]**</span><br>
+**Key words**: digital exhaustion; licence label; circumvention; effectiveness; contractual form; exhaustion<br>
+**Essay-ready point**: The Court reasoned that if suppliers could avoid exhaustion simply by calling a sale a “licence,” the exhaustion rule would be emptied of practical effect.<br>
+**Original Sentence**: If the term ‘sale’ ... were not given a broad interpretation ... suppliers would merely have to call the contract a ‘licence’ rather than a ‘sale’ in order to circumvent the rule of exhaustion and divest it of all scope.<br>
+**Paragraph**: 49
+
+<span style="color:#B00020;">**[Chunck 040408]**</span><br>
+**Key words**: lex specialis; Software Directive; InfoSoc Directive; communication to the public; digital exhaustion<br>
+**Essay-ready point**: The Court held that the Software Directive operates as a special regime, so its exhaustion rule applies even if the transaction might also resemble communication to the public under the InfoSoc Directive.<br>
+**Original Sentence**: The provisions of Directive 2009/24, in particular Article 4(2), thus constitute a lex specialis in relation to the provisions of Directive 2001/29.<br>
+**Paragraph**: 51
+
+<span style="color:#B00020;">**[Chunck 040409]**</span><br>
+**Key words**: digital exhaustion; transfer of ownership; distribution; communication to the public; online supply; digital copy<br>
+**Essay-ready point**: The Court’s reasoning suggests that where online supply involves transfer of ownership, it should be treated as distribution rather than merely as communication to the public.<br>
+**Original Sentence**: The existence of a transfer of ownership changes an ‘act of communication to the public’ provided for in Article 3 of that directive into an act of distribution referred to in Article 4 of the directive.<br>
+**Paragraph**: 52
+
+<span style="color:#B00020;">**[Chunck 040410]**</span><br>
+**Key words**: digital exhaustion; intangible copies; tangible copies; downloaded software; online exhaustion; digital goods<br>
+**Essay-ready point**: The Court held that exhaustion under the Software Directive is not limited to physical media; it also covers intangible copies downloaded from the internet.<br>
+**Original Sentence**: The exhaustion of the distribution right under Article 4(2) of Directive 2009/24 concerns both tangible and intangible copies of a computer program, and hence also copies of programs which ... have been downloaded from the internet.<br>
+**Paragraph**: 59
+
+<span style="color:#B00020;">**[Chunck 040411]**</span><br>
+**Key words**: digital exhaustion; functional equivalence; online delivery; CD-ROM; digital download; equal treatment<br>
+**Essay-ready point**: The Court relied on functional equivalence, holding that downloading software from the internet is economically similar to receiving the same software on a CD-ROM or DVD.<br>
+**Original Sentence**: From an economic point of view, the sale of a computer program on CD-ROM or DVD and the sale of a program by downloading from the internet are similar. The on-line transmission method is the functional equivalent of the supply of a material medium.<br>
+**Paragraph**: 61
+
+<span style="color:#B00020;">**[Chunck 040412]**</span><br>
+**Key words**: digital exhaustion; market partitioning; resale markets; specific subject matter; competition; exhaustion<br>
+**Essay-ready point**: The Court justified exhaustion as a mechanism to prevent excessive control over resale markets and avoid market partitioning beyond what is necessary to protect copyright.<br>
+**Original Sentence**: The objective of the principle of the exhaustion of the right of distribution ... is, in order to avoid partitioning of markets, to limit restrictions of the distribution of those works to what is necessary to safeguard the specific subject-matter of the intellectual property concerned.<br>
+**Paragraph**: 62
+
+<span style="color:#B00020;">**[Chunck 040413]**</span><br>
+**Key words**: digital exhaustion; further remuneration; resale control; copyright limits; downloaded copies; market control<br>
+**Essay-ready point**: The Court held that allowing rightsholders to control every resale of downloaded copies and demand further payment would go beyond what is necessary to protect copyright.<br>
+**Original Sentence**: To limit the application ... solely to copies ... sold on a material medium would allow the copyright holder to control the resale of copies downloaded from the internet and to demand further remuneration on the occasion of each new sale ... Such a restriction ... would go beyond what is necessary to safeguard the specific subject-matter of the intellectual property concerned.<br>
+**Paragraph**: 63
+
+<span style="color:#B00020;">**[Chunck 040414]**</span><br>
+**Key words**: digital exhaustion; make unusable; resale condition; no multiplication; reproduction right; digital copy<br>
+**Essay-ready point**: The Court limited digital exhaustion by requiring that the first acquirer make their own copy unusable at the time of resale, preventing multiplication of usable copies.<br>
+**Original Sentence**: An original acquirer who resells a tangible or intangible copy of a computer program ... must, in order to avoid infringing the exclusive right of reproduction ... make his own copy unusable at the time of its resale.<br>
+**Paragraph**: 70
+
+<span style="color:#B00020;">**[Chunck 040415]**</span><br>
+**Key words**: digital exhaustion; lawful acquirer; second-hand licence; necessary reproduction; resale; UsedSoft<br>
+**Essay-ready point**: The Court held that a second-hand purchaser of an exhausted digital copy becomes a lawful acquirer and may reproduce the program where necessary to use it as intended.<br>
+**Original Sentence**: The second acquirer of the licence, as well as any subsequent acquirer of it, will be able to rely on the exhaustion of the distribution right ... and hence be regarded as lawful acquirers of a copy of a computer program ... and benefit from the right of reproduction provided for in that provision.<br>
+**Paragraph**: 88
+
+<span style="color:#B00020;">**[Chunck 040501]**</span><br>
+**Key words**: digital exhaustion; distribution; communication to the public; exhaustion; eBooks; Tom Kabinet<br>
+**Essay-ready point**: The Court treated the central issue as whether downloading an eBook for permanent use should be classified as distribution, which may be exhausted, or as communication to the public, which is not subject to exhaustion.<br>
+**Original Sentence**: The crux of that question in the dispute in the main proceedings is whether such supply is subject to the rule on exhaustion of the distribution right provided for in Article 4(2) of that directive or whether, on the contrary, it falls outside such a rule, as expressly provided for in Article 3(3) of the directive in the case of the right of communication to the public.<br>
+**Paragraph**: 33
+
+<span style="color:#B00020;">**[Chunck 040502]**</span><br>
+**Key words**: digital exhaustion; permanent download; eBook supply; legal classification; communication; distribution<br>
+**Essay-ready point**: The Court held that the relevant question was whether supplying an eBook by download for permanent use falls under communication to the public or distribution to the public.<br>
+**Original Sentence**: The first question put by the referring court must be reformulated to the effect that the referring court thereby asks, in essence, whether the supply by downloading, for permanent use, of an e-book is covered by the concept of ‘communication to the public’ ... or by that of ‘distribution to the public’ ...<br>
+**Paragraph**: 34
+
+<span style="color:#B00020;">**[Chunck 040503]**</span><br>
+**Key words**: digital exhaustion; Article 3(1); making available; online access; authorisation; eBooks<br>
+**Essay-ready point**: The Court emphasised that Article 3(1) gives authors an exclusive right to control online access where members of the public may access works at a time and place of their choosing.<br>
+**Original Sentence**: Authors have the exclusive right to authorise or prohibit any communication to the public of their works ... including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.<br>
+**Paragraph**: 35
+
+<span style="color:#B00020;">**[Chunck 040504]**</span><br>
+**Key words**: digital exhaustion; Article 4; first sale; transfer of ownership; exhaustion; distribution right<br>
+**Essay-ready point**: The Court contrasted Article 3 with Article 4, explaining that exhaustion applies only to distribution of originals or copies following first sale or transfer of ownership in the EU.<br>
+**Original Sentence**: Article 4(1) ... provides that authors have ... the exclusive right to authorise or prohibit any form of distribution to the public by sale or otherwise, that right being, under Article 4(2) ... exhausted where the first sale or other transfer of ownership in the European Union ... is made by the rightholder or with his or her consent.<br>
+**Paragraph**: 36
+
+<span style="color:#B00020;">**[Chunck 040505]**</span><br>
+**Key words**: digital exhaustion; WCT; treaty-consistent interpretation; InfoSoc Directive; communication; distribution<br>
+**Essay-ready point**: The Court held that the InfoSoc concepts of communication and distribution should, where possible, be interpreted consistently with the WIPO Copyright Treaty.<br>
+**Original Sentence**: The concepts of ‘communication to the public’ and ‘distribution to the public’ ... must, so far as possible, be interpreted in accordance with the definitions contained, respectively, in Article 8 and in Article 6(1) of the WCT.<br>
+**Paragraph**: 39
+
+<span style="color:#B00020;">**[Chunck 040506]**</span><br>
+**Key words**: digital exhaustion; tangible copies; WCT; intangible works; eBooks; distribution right<br>
+**Essay-ready point**: The Court relied on the WCT Agreed Statements to conclude that the distribution right concerns fixed copies capable of circulation as tangible objects, not intangible eBook files.<br>
+**Original Sentence**: The expressions ‘copies’ and ‘original and copies’ ... refer exclusively to fixed copies that can be put into circulation as tangible objects’, and therefore ... Article 6(1) cannot cover the distribution of intangible works such as e-books.<br>
+**Paragraph**: 40
+
+<span style="color:#B00020;">**[Chunck 040507]**</span><br>
+**Key words**: digital exhaustion; interactive transmission; on-demand access; communication to the public; online exploitation; eBooks<br>
+**Essay-ready point**: The Court viewed online eBook downloading as an interactive on-demand transmission, a form of exploitation intended to be governed by the communication-to-the-public right.<br>
+**Original Sentence**: The Commission noted that interactive on-demand transmission was a new form of exploitation of intellectual property ... it should be covered by the right to control communication to the public ...<br>
+**Paragraph**: 43
+
+<span style="color:#B00020;">**[Chunck 040508]**</span><br>
+**Key words**: digital exhaustion; physical copies; electronic distribution; InfoSoc Directive; exhaustion; legal distinction<br>
+**Essay-ready point**: The Court reasoned that the InfoSoc Directive intentionally distinguishes electronic dissemination from physical distribution, with the latter alone falling within the exhaustion-based distribution framework.<br>
+**Original Sentence**: The intention underlying the proposal for the directive was that any communication to the public of a work, other than the distribution of physical copies of the work, should be covered not by the concept of ‘distribution to the public’ ... but by that of ‘communication to the public’ ...<br>
+**Paragraph**: 45
+
+<span style="color:#B00020;">**[Chunck 040509]**</span><br>
+**Key words**: digital exhaustion; broad interpretation; high protection; communication to the public; author rights; online works<br>
+**Essay-ready point**: The Court interpreted communication to the public broadly, consistent with the Directive’s high level of author protection.<br>
+**Original Sentence**: ‘Communication to the public’ should ... be understood in a broad sense covering all communication to the public not present at the place where the communication originates ...<br>
+**Paragraph**: 49
+
+<span style="color:#B00020;">**[Chunck 040510]**</span><br>
+**Key words**: online services; no exhaustion; eBooks; digital exhaustion; InfoSoc Directive<br>
+**Essay-ready point**: A central reason for rejecting digital exhaustion for eBooks was the Court’s reliance on the Directive’s statement that exhaustion does not arise for services or online services.<br>
+**Original Sentence**: Recitals 28 and 29 ... state ... that the question of exhaustion of the right does not arise in the case of services and online services in particular ...<br>
+**Paragraph**: 51
+
+<span style="color:#B00020;">**[Chunck 040511]**</span><br>
+**Key words**: digital exhaustion; UsedSoft; software; eBooks; lex specialis; Directive 2009/24<br>
+**Essay-ready point**: The Court refused to extend UsedSoft to eBooks, holding that the software regime is lex specialis and cannot determine the treatment of eBooks under the InfoSoc Directive.<br>
+**Original Sentence**: An e-book is not a computer program, and it is not appropriate therefore to apply the specific provisions of Directive 2009/24.<br>
+**Paragraph**: 54
+
+<span style="color:#B00020;">**[Chunck 040512]**</span><br>
+**Key words**: tangible-intangible distinction; legislative intention; eBooks; InfoSoc Directive; digital exhaustion<br>
+**Essay-ready point**: Unlike software, the InfoSoc Directive does not show an intention to treat tangible and intangible copies alike; this supports excluding eBooks from digital exhaustion.<br>
+**Original Sentence**: Such assimilation of tangible and intangible copies of works protected for the purposes of the relevant provisions of Directive 2001/29 was not ... desired by the EU legislature ... a clear distinction was sought between the electronic and tangible distribution of protected material.<br>
+**Paragraph**: 56
+
+<span style="color:#B00020;">**[Chunck 040513]**</span><br>
+**Key words**: digital exhaustion; functional equivalence; non-deterioration; perfect substitutes; second-hand eBooks; market impact<br>
+**Essay-ready point**: The Court rejected functional equivalence between physical books and eBooks because digital copies do not deteriorate and second-hand eBooks are perfect substitutes for new ones.<br>
+**Original Sentence**: The supply of a book on a material medium and the supply of an e-book cannot ... be considered equivalent from an economic and functional point of view ... dematerialised digital copies, unlike books on a material medium, do not deteriorate with use, and used copies are therefore perfect substitutes for new copies.<br>
+**Paragraph**: 58
+
+<span style="color:#B00020;">**[Chunck 040514]**</span><br>
+**Key words**: digital exhaustion; Tom Kabinet; making available; public access; reading club; eBook platform<br>
+**Essay-ready point**: The Court treated Tom Kabinet’s eBook platform as making works available to the public because registered users could access eBooks from a place and time of their choosing.<br>
+**Original Sentence**: Tom Kabinet makes the works concerned available to anyone who is registered with the reading club’s website, that person being able to access the site from a place and at a time individually chosen by him or her.<br>
+**Paragraph**: 65
+
+<span style="color:#B00020;">**[Chunck 040515]**</span><br>
+**Key words**: final holding; no digital exhaustion; eBook resale; communication to the public; authorisation<br>
+**Essay-ready point**: The Court’s final holding was that supplying an eBook to the public by download for permanent use is communication to the public, not exhausted distribution; therefore, second-hand eBook resale requires rightsholder authorisation.<br>
+**Original Sentence**: The supply to the public by downloading, for permanent use, of an e-book is covered by the concept of ‘communication to the public’ and, more specifically, by that of ‘making available to the public ...’ within the meaning of Article 3(1) of Directive 2001/29.<br>
+**Paragraph**: 72
+
+<span style="color:#B00020;">**[Chunck 040601]**</span><br>
+**Key words**: digital lending; public libraries; eBooks; one-copy-one-user; EU lending right<br>
+**Essay-ready point**: The Court treated the central issue as whether the EU concept of “lending” can cover a public library’s lending of a digital copy of a book under a controlled one-copy-one-user model.<br>
+**Original Sentence**: The referring court asks ... whether ... the concept of ‘lending’ ... covers the lending of a digital copy of a book, where that lending is carried out by placing that copy on the server of a public library and allowing the user concerned to reproduce that copy by downloading it onto his own computer ...<br>
+**Paragraph**: 27
+
+<span style="color:#B00020;">**[Chunck 040602]**</span><br>
+**Key words**: eLending; Directive 2006/115; digital copies; physical medium; interpretation; lending<br>
+**Essay-ready point**: The Court noted that the Lending Directive does not clearly state that “copies” must be physical, leaving room to interpret the lending right as potentially covering digital books.<br>
+**Original Sentence**: Article 1(1) of Directive 2006/115 ... does not specify whether the concept of ‘copies of copyright works’ ... also covers copies which are not fixed in a physical medium, such as digital copies.<br>
+**Paragraph**: 28
+
+<span style="color:#B00020;">**[Chunck 040603]**</span><br>
+**Key words**: eLending; rental; lending; WIPO Treaty; digital copies; tangible objects<br>
+**Essay-ready point**: The Court held that although rental under the WIPO Treaty is limited to tangible copies, this does not automatically mean that public lending must also be limited to physical objects.<br>
+**Original Sentence**: Although ... intangible objects and non-fixed copies, such as digital copies, must be excluded from the rental right ... neither that treaty nor that agreed statement preclude the concept of ‘lending’ ... from being interpreted ... as also including certain lending carried out digitally.<br>
+**Paragraph**: 39
+
+<span style="color:#B00020;">**[Chunck 040604]**</span><br>
+**Key words**: digital lending; no blanket exclusion; intangible objects; Lending Directive; eBooks<br>
+**Essay-ready point**: The Court concluded that there is no decisive legal basis for excluding all digital lending from the scope of the EU Lending Directive.<br>
+**Original Sentence**: It follows from the foregoing considerations that there is no decisive ground allowing for the exclusion, in all cases, of the lending of digital copies and intangible objects from the scope of Directive 2006/115.<br>
+**Paragraph**: 44
+
+<span style="color:#B00020;">**[Chunck 040605]**</span><br>
+**Key words**: new exploitation; technological change; copyright adaptation; eLending; digital books<br>
+**Essay-ready point**: The Court reasoned that copyright law must adapt to new forms of exploitation, and digital lending is one such new form requiring legal recognition.<br>
+**Original Sentence**: Copyright must adapt to new economic developments such as new forms of exploitation. Lending carried out digitally indisputably forms part of those new forms of exploitation ...<br>
+**Paragraph**: 45
+
+<span style="color:#B00020;">**[Chunck 040606]**</span><br>
+**Key words**: author protection; high protection; eLending; Directive 2006/115; copyright policy<br>
+**Essay-ready point**: The Court stated that including digital lending within the Directive’s scope is consistent with the EU principle of ensuring a high level of protection for authors.<br>
+**Original Sentence**: To exclude digital lending entirely from the scope of Directive 2006/115 would run counter to the general principle requiring a high level of protection for authors.<br>
+**Paragraph**: 46
+
+<span style="color:#B00020;">**[Chunck 040607]**</span><br>
+**Key words**: eLending; public lending exception; effectiveness; strict interpretation; cultural purpose; libraries<br>
+**Essay-ready point**: The Court held that even though exceptions are interpreted strictly, the public lending exception must still be interpreted so that it remains effective and serves its cultural purpose.<br>
+**Original Sentence**: Although Article 6(1) of Directive 2006/115 ... must ... be interpreted strictly, the fact remains that the interpretation given must also enable the effectiveness of the exception thereby established to be safeguarded and its purpose to be observed.<br>
+**Paragraph**: 50
+
+<span style="color:#B00020;">**[Chunck 040608]**</span><br>
+**Key words**: eLending; cultural promotion; public libraries; digital books; public lending; access<br>
+**Essay-ready point**: The Court justified digital lending partly by reference to the cultural-promotion function of public libraries and the importance of making the public lending exception meaningful in the digital environment.<br>
+**Original Sentence**: Given the importance of the public lending of digital books, and in order to safeguard both the effectiveness of the derogation for public lending ... and the contribution of that exception to cultural promotion ...<br>
+**Paragraph**: 51
+
+<span style="color:#B00020;">**[Chunck 040609]**</span><br>
+**Key words**: functional similarity; printed books; secure digital lending; public lending; eBooks<br>
+**Essay-ready point**: The Court held that digital lending may fall within the public lending exception where the library’s operation has essentially similar characteristics to the lending of printed books.<br>
+**Original Sentence**: Article 6(1) of Directive 2006/115 may apply where the operation carried out by a publicly accessible library ... has essentially similar characteristics to the lending of printed works.<br>
+**Paragraph**: 51
+
+<span style="color:#B00020;">**[Chunck 040610]**</span><br>
+**Key words**: one-copy-one-user; controlled digital lending; temporary access; scarcity; eLending<br>
+**Essay-ready point**: The Court accepted digital lending where only one user may download a copy during the lending period and the copy becomes unusable afterwards, because this mirrors the scarcity of physical lending.<br>
+**Original Sentence**: Only one copy may be downloaded during the lending period and ... after that period has expired, the downloaded copy can no longer be used by that user.<br>
+**Paragraph**: 54
+
+<span style="color:#B00020;">**[Chunck 040611]**</span><br>
+**Key words**: lending capacity; simultaneous downloads; physical equivalence; library control; eLending<br>
+**Essay-ready point**: The Court reasoned that controlled digital lending is comparable to physical lending where the library’s lending capacity does not exceed what it would have for a printed work.<br>
+**Original Sentence**: The limitation of simultaneous downloads to a single copy implies that the lending capacity of the library concerned does not exceed that which it would have as regards a printed work ...<br>
+**Paragraph**: 53
+
+<span style="color:#B00020;">**[Chunck 040612]**</span><br>
+**Key words**: eLending; final holding; digital copy; public library; lending right; Directive 2006/115<br>
+**Essay-ready point**: The Court’s first holding was that a public library’s controlled lending of a digital book can be “lending” under Directive 2006/115.<br>
+**Original Sentence**: The concept of ‘lending’ ... covers the lending of a digital copy of a book, where that lending is carried out by placing that copy on the server of a public library and allowing a user to reproduce that copy by downloading it onto his own computer ...<br>
+**Paragraph**: 54
+
+<span style="color:#B00020;">**[Chunck 040613]**</span><br>
+**Key words**: eLending; lending right; distribution exhaustion; author prerogative; sale; public lending<br>
+**Essay-ready point**: The Court made clear that the lending right is not exhausted by sale or distribution; public lending remains a distinct legal regime from ordinary distribution exhaustion.<br>
+**Original Sentence**: The lending right remains one of the prerogatives of the author notwithstanding the sale of the physical medium containing the work. Consequently, the lending right is not exhausted by the sale or any other act of distribution ...<br>
+**Paragraph**: 59
+
+<span style="color:#B00020;">**[Chunck 040614]**</span><br>
+**Key words**: eLending; lawful source; first sale; rightholder consent; Member States; digital copy<br>
+**Essay-ready point**: The Court held that EU law does not prevent Member States from requiring that the digital copy used for library lending must have first been put into circulation by the rightholder or with consent.<br>
+**Original Sentence**: EU law ... must be interpreted as not precluding a Member State from making the application of Article 6(1) of Directive 2006/115 subject to the condition that the digital copy of a book made available by the public library must have been put into circulation by a first sale or other transfer of ownership of that copy in the European Union by the holder of the right of distribution to the public or with his consent ...<br>
+**Paragraph**: 65
+
+<span style="color:#B00020;">**[Chunck 040615]**</span><br>
+**Key words**: eLending; unlawful source; piracy; public lending exception; lawful access; digital books<br>
+**Essay-ready point**: The Court held that public libraries cannot rely on the public lending exception for digital copies obtained from unlawful sources, because doing so would tolerate or encourage piracy.<br>
+**Original Sentence**: To accept that a copy lent out by a public library may be obtained from an unlawful source would amount to tolerating, or even encouraging, the circulation of counterfeit or pirated works ...<br>
+**Paragraph**: 68
 
 ### 2.5 Seminar 5
 
