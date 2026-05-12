@@ -1955,12 +1955,725 @@
 **Page**: 656
 
 ### 2.7 Seminar 7
+<span style="color:#B00020;">**[Chunck 070101]**</span><br>
+**Key words**: user innovation; democratized innovation; manufacturer model; innovation policy; consumers<br>
+**Essay-ready point**: Von Hippel’s central claim is that innovation is being democratized because users of products and services are increasingly able to develop innovations for themselves, rather than relying exclusively on manufacturers.<br>
+**Original Sentence**: When I say that innovation is being democratized, I mean that users of products and services—both firms and individual consumers—are increasingly able to innovate for themselves.<br>
+**Page**: 1
 
+<span style="color:#B00020;">**[Chunck 070102]**</span><br>
+**Key words**: user-centred innovation; agency costs; custom products; manufacturer limits; user needs<br>
+**Essay-ready point**: User-centred innovation offers an important advantage over closed manufacturer innovation because users can create precisely what they need, instead of depending on manufacturers to interpret their needs imperfectly.<br>
+**Original Sentence**: User-centered innovation processes offer great advantages over the manufacturer-centric innovation development systems ... Users that innovate can develop exactly what they want, rather than relying on manufacturers to act as their often very imperfect agents.<br>
+**Page**: 1
+
+<span style="color:#B00020;">**[Chunck 070103]**</span><br>
+**Key words**: free sharing; follow-on innovation; user communities; open innovation; cumulative innovation<br>
+**Essay-ready point**: Open innovation models are powerful because individual users need not solve every problem alone; they can build upon innovations developed and freely shared by other users.<br>
+**Original Sentence**: Individual users do not have to develop everything they need on their own: they can benefit from innovations developed and freely shared by others.<br>
+**Page**: 1
+
+<span style="color:#B00020;">**[Chunck 070104]**</span><br>
+**Key words**: closed innovation; patents; copyrights; free riding; manufacturer protection<br>
+**Essay-ready point**: Von Hippel contrasts user innovation with the traditional closed model, in which manufacturers rely on patents, copyrights and other exclusive rights to stop competitors from free riding on their innovation investments.<br>
+**Original Sentence**: The user-centered innovation process ... is in sharp contrast to the traditional model, in which products and services are developed by manufacturers in a closed way, the manufacturers using patents, copyrights, and other protections to prevent imitators from free riding on their innovation investments.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 070105]**</span><br>
+**Key words**: empirical evidence; user developers; industrial products; consumer products; innovation source<br>
+**Essay-ready point**: A strong exam point is that innovation policy should not assume manufacturers are the primary innovators, because empirical research shows that users are often the first developers of many industrial and consumer products.<br>
+**Original Sentence**: A growing body of empirical work shows that users are the first to develop many and perhaps most new industrial and consumer products.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 070106]**</span><br>
+**Key words**: manufacturer innovation; feedstock; commercialisation; user-developed ideas; complementarity<br>
+**Essay-ready point**: User innovation should not be seen merely as a rival to manufacturer innovation; it can also provide feedstock for manufacturers, who may later commercialise user-developed ideas.<br>
+**Original Sentence**: I also explain how innovation by users provides a very necessary complement to and feedstock for manufacturer innovation.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 070107]**</span><br>
+**Key words**: social welfare; distributed innovation; public interest; innovation policy; openness<br>
+**Essay-ready point**: Von Hippel argues that user innovation has a public-interest dimension because open, distributed innovation appears to increase social welfare and should therefore be supported by law and policy.<br>
+**Original Sentence**: The ongoing shift of innovation to users has some very attractive qualities ... And innovation by users appears to increase social welfare.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 070108]**</span><br>
+**Key words**: innovation policy; manufacturer bias; user-innovators; social welfare; legal reform<br>
+**Essay-ready point**: The book warns that legal and policy frameworks may unintentionally privilege manufacturer innovation, and that neutrality between manufacturer and user innovation is important for social welfare.<br>
+**Original Sentence**: Governmental policy and legislation sometimes preferentially supports innovation by manufacturers. Considerations of social welfare suggest that this must change.<br>
+**Page**: 2
+
+<span style="color:#B00020;">**[Chunck 070109]**</span><br>
+**Key words**: user innovation; lead users; market trends; commercialisation; emerging needs; user-developed products<br>
+**Essay-ready point**: Lead users are particularly valuable because they experience emerging market needs earlier than ordinary users and therefore often develop innovations that later become attractive to the wider market.<br>
+**Original Sentence**: Since lead users are at the leading edge of the market with respect to important market trends ... many of the novel products they develop for their own use will appeal to other users too and so might provide the basis for products manufacturers would wish to commercialize.<br>
+**Page**: 4
+
+<span style="color:#B00020;">**[Chunck 070110]**</span><br>
+**Key words**: commercial attractiveness; lead-user innovation; manufacturer adoption; market value; product development<br>
+**Essay-ready point**: User innovation is commercially significant because studies show that many innovations created by lead users are later judged commercially attractive or actually commercialised by manufacturers.<br>
+**Original Sentence**: A number of studies have shown that many of the innovations reported by lead users are judged to be commercially attractive and/or have actually been commercialized by manufacturers.<br>
+**Page**: 4
+
+<span style="color:#B00020;">**[Chunck 070111]**</span><br>
+**Key words**: user innovation; heterogeneous needs; mass market; customisation; underserved users; product design<br>
+**Essay-ready point**: User innovation arises partly because mass manufacturers design products for large segments, leaving users with heterogeneous or specialised needs underserved by standardised products.<br>
+**Original Sentence**: Mass manufacturers tend to follow a strategy of developing products that are designed to meet the needs of a large market segment ... When users’ needs are heterogeneous, this strategy of ‘a few sizes fit all’ will leave many users somewhat dissatisfied.<br>
+**Page**: 5
+
+<span style="color:#B00020;">**[Chunck 070112]**</span><br>
+**Key words**: user innovation; agency costs; custom manufacturer; precise needs; user autonomy; innovate-or-buy<br>
+**Essay-ready point**: Users may rationally innovate for themselves rather than buying a custom solution because a manufacturer-agent may redesign the product around its own cost-saving interests rather than the user’s precise needs.<br>
+**Original Sentence**: The user wants to get precisely what it needs ... In contrast, the custom manufacturer wants to lower its development costs by incorporating solution elements it already has or that it predicts others will want in the future.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 070113]**</span><br>
+**Key words**: user innovation; sticky information; need information; context of use; functional novelty; information asymmetry<br>
+**Essay-ready point**: Von Hippel’s sticky-information theory explains why users are often better placed to develop functionally novel innovations: they possess detailed information about needs and context of use that is costly to transfer to manufacturers.<br>
+**Original Sentence**: Product developers need two types of information ... need and context-of-use information ... and generic solution information ... Both need information and solution information are often very ‘sticky’—that is, costly to move from the site where the information was generated to other sites.<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 070114]**</span><br>
+**Key words**: free revealing; public good; IP rights; diffusion; follow-on innovation<br>
+**Essay-ready point**: Follow-on innovation depends on diffusion, and users often achieve this by freely revealing their innovations, giving up intellectual-property control so that the information becomes a public good.<br>
+**Original Sentence**: When we say that an innovator freely reveals information about a product or service it has developed, we mean that all intellectual property rights to that information are voluntarily given up by the innovator, and all interested parties are given access to it—the information becomes a public good.<br>
+**Page**: 9
+
+<span style="color:#B00020;">**[Chunck 070115]**</span><br>
+**Key words**: open business model; toolkits; product platforms; complementary services; user-developed innovation<br>
+**Essay-ready point**: Manufacturers can adapt to user innovation by commercialising user-developed products, providing toolkits or platforms for user design, or selling complementary goods and services around user-created innovation.<br>
+**Original Sentence**: How can or should manufacturers adapt to users’ encroachment on elements of their traditional business activities? There are three general possibilities: (1) Produce user-developed innovations for general commercial sale ... (2) Sell kits of product-design tools and/or ‘product platforms’ ... (3) Sell products or services that are complementary to user-developed innovations.<br>
+**Page**: 14–15
+
+<span style="color:#B00020;">**[Chunck 070201]**</span><br>
+**Key words**: follow-on innovation; freedom to build; copyright limits; public domain; user creativity<br>
+**Essay-ready point**: The article supports an important argument for open innovation: if the justification for stronger copyright protection is uncertain, the default should be freedom to use, copy, and build upon existing intellectual works.<br>
+**Original Sentence**: If we are even minimally committed to individual freedom, in case of doubt about the justification of a particular legal rule, the default position should generally be the absence of legal restrictions on individual conduct (such as restrictions on the ability to freely use, copy and build on available intellectual works).<br>
+**Page**: 492
+
+<span style="color:#B00020;">**[Chunck 070202]**</span><br>
+**Key words**: follow-on innovation; social costs; copyright extension; follow-on use; economic efficiency; IP limits<br>
+**Essay-ready point**: For essays on follow-on innovation, Lambrecht’s analysis is useful because it stresses that copyright protection carries uncontested social costs, which must be weighed against any claimed benefit of extending protection.<br>
+**Original Sentence**: Even if we confine our analysis to economic efficiency, the uncontested social costs of intellectual property rights should surely outweigh the dubious benefits of extending their protection.<br>
+**Page**: 492
+
+<span style="color:#B00020;">**[Chunck 070203]**</span><br>
+**Key words**: empirical evidence; copyright policy; term extension; innovation; legal justification<br>
+**Essay-ready point**: A key policy point is that copyright restrictions should not be expanded on speculative grounds; claims that longer protection is needed must be supported by convincing empirical evidence.<br>
+**Original Sentence**: Until a strong case, verified by empirical analysis, has been made for such arguments, they are not fit to act as a guide to policy decisions.<br>
+**Page**: 492
+
+<span style="color:#B00020;">**[Chunck 070204]**</span><br>
+**Key words**: follow-on innovation; public domain; adaptation; copying; cumulative creativity; open access<br>
+**Essay-ready point**: The article is useful for arguing that the public domain should not be treated as a danger to creativity; rather, access to public-domain works enables later creators to copy, adapt, and build upon existing cultural materials.<br>
+**Original Sentence**: The default position should generally be the absence of legal restrictions on individual conduct (such as restrictions on the ability to freely use, copy and build on available intellectual works).<br>
+**Page**: 492
+
+<span style="color:#B00020;">**[Chunck 070205]**</span><br>
+**Key words**: indefinitely renewable copyright; term limit; user innovation; follow-on creation; copyright duration<br>
+**Essay-ready point**: Lambrecht criticises the proposal for indefinitely renewable copyright because it would preserve control over valuable cultural works and may prevent users and later creators from engaging in follow-on innovation.<br>
+**Original Sentence**: They challenge the widely held proposition that copyright should be limited in duration, and argue instead for a system of ‘indefinitely renewable copyright’.<br>
+**Page**: 476–477
+
+<span style="color:#B00020;">**[Chunck 070206]**</span><br>
+**Key words**: open business model; overgrazing; tragedy of commons; public domain; empirical uncertainty; copyright expansion<br>
+**Essay-ready point**: The article challenges the idea that public-domain works will be overused or degraded without copyright control, arguing that this “tragedy of the commons” theory remains empirically unproven.<br>
+**Original Sentence**: I will argue that while Landes and Posner’s argument is ultimately inconclusive and unverified by the current state of empirical research ...<br>
+**Page**: 475
+
+<span style="color:#B00020;">**[Chunck 070207]**</span><br>
+**Key words**: non-rivalry; information goods; public domain; intellectual commons; open business model<br>
+**Essay-ready point**: For open business models, a central point is that information goods do not deplete through use in the same way as physical resources, making ordinary property-based arguments for strong exclusion less convincing.<br>
+**Original Sentence**: There can be no overgrazing of intellectual property, however, because intellectual property is not destroyed or even diminished by consumption. Once a work is created, its intellectual content is infinitely multipliable.<br>
+**Page**: 479
+
+<span style="color:#B00020;">**[Chunck 070208]**</span><br>
+**Key words**: open business model; property analogy; IP expansion; intellectual rights; open innovation; access<br>
+**Essay-ready point**: The article warns that treating intellectual property too much like physical property can justify unnecessary expansions of rights, which may restrict open and cumulative innovation.<br>
+**Original Sentence**: This parallel, however common in public discourse, is quite controversial in IP literature, with authors warning that this paradigm inspired from material property might lead to undue expansions in the scope of intellectual rights.<br>
+**Page**: 476
+
+<span style="color:#B00020;">**[Chunck 070209]**</span><br>
+**Key words**: open business model; propertisation; information goods; exclusive control; open access; IP limits<br>
+**Essay-ready point**: Lambrecht notes that even Landes and Posner recognise the danger of excessive propertisation, which is important for arguing that open innovation requires limits on exclusive control over information.<br>
+**Original Sentence**: They also express their doubts about the ‘rampant propertization of information and other intellectual goods’ ...<br>
+**Page**: 476
+
+<span style="color:#B00020;">**[Chunck 070210]**</span><br>
+**Key words**: open business model; copyright maximalism; welfare; downstream users; social costs; policy balance<br>
+**Essay-ready point**: The article is useful for criticising maximalist copyright policy: stronger rights do not automatically increase welfare, especially where they restrict downstream creators and users without proven benefits.<br>
+**Original Sentence**: The high social costs of intellectual property rights create uncertainty as to whether on balance such rights are, from an overall social standpoint, cost-justified at all.<br>
+**Page**: 491
+
+<span style="color:#B00020;">**[Chunck 070211]**</span><br>
+**Key words**: open business model; public domain; reuse; value destruction; empirical evidence; overuse<br>
+**Essay-ready point**: The article cites empirical research suggesting that public-domain works are not necessarily devalued by wider reuse, weakening arguments for perpetual control over popular works.<br>
+**Original Sentence**: A comparison of the pricing data for these work showed no evidence of destruction of the value of public domain works due to overuse.<br>
+**Page**: 490
+
+<span style="color:#B00020;">**[Chunck 070212]**</span><br>
+**Key words**: availability; dissemination; public domain; access; open business model<br>
+**Essay-ready point**: Open access to public-domain works may increase availability rather than cause harm, which supports open business models based on dissemination, adaptation, and low-cost access.<br>
+**Original Sentence**: A first study, focusing on fiction bestsellers ... showed a significant but moderately higher availability of public domain works in comparison with works still under copyright.<br>
+**Page**: 490
+
+<span style="color:#B00020;">**[Chunck 070213]**</span><br>
+**Key words**: open business model; rightsholder control; audience interests; derivative works; cultural stability; reuse<br>
+**Essay-ready point**: The article undermines the claim that only uncontrolled public-domain reuse harms works, noting that rightsholders themselves may alter or exploit works in ways that frustrate audiences.<br>
+**Original Sentence**: While they give some credence to the idea of an ‘interest for stable cultural objects’, they also point to numerous cases where this interest is actually frustrated by the right holders themselves.<br>
+**Page**: 487
+
+<span style="color:#B00020;">**[Chunck 070214]**</span><br>
+**Key words**: open business model; product diversity; originality; reputational cost; derivative works; public domain<br>
+**Essay-ready point**: Lambrecht considers but questions the claim that public-domain reuse could reduce diversity by encouraging too many derivative works, noting that creators also have reputational incentives to produce original works.<br>
+**Original Sentence**: While some producers might be tempted to reap a quick profit from exploiting popular works entering the public domain, quality producers will normally avoid overgrazed works since unoriginal creative decisions can have a reputational cost.<br>
+**Page**: 488
+
+<span style="color:#B00020;">**[Chunck 070215]**</span><br>
+**Key words**: open business model; shorter copyright term; stronger limitations; innovation policy; social costs; open innovation<br>
+**Essay-ready point**: The article’s conclusion can support an argument for open innovation policy: because the benefits of stronger copyright are uncertain and the costs are real, law should favour stronger limitations and shorter duration.<br>
+**Original Sentence**: The minimal and obvious conclusion from the inconclusiveness of the economic cases for IP would be to advocate stronger limitations and a shorter duration, in order to curtail the social cost of an intellectual property regime.<br>
+**Page**: 492
 
 ### 2.8 Seminar 8
+<span style="color:#B00020;">**[Chunck 080101]**</span><br>
+**Key words**: TPMs; digital preservation; GLAM; cultural heritage; research<br>
+**Essay-ready point**: TPMs should not be analysed only as anti-piracy tools; they impose costs on education, research, and cultural heritage institutions by delaying or preventing preservation of digital materials.<br>
+**Original Sentence**: TPMs impose costs from an educational, research and cultural heritage perspective. In this report, we assess costs represented by delays introduced from TPMs to the successful preservation of historical video games.<br>
+**Page**: 6
 
+<span style="color:#B00020;">**[Chunck 080102]**</span><br>
+**Key words**: video games; born-digital materials; audiovisual works; electronic records; GLAM mission<br>
+**Essay-ready point**: Although the report studies video games, its conclusions are relevant to other born-digital materials that GLAM institutions must preserve, including images, audiovisual works, and electronic records.<br>
+**Original Sentence**: Although the study is focused specifically on video game preservation, the approach and findings are relevant to understanding impacts of TPMs on all types of digital material, including images, audiovisual works and electronic records that research and cultural heritage institutions are required to preserve in order to fulfil their mission.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080103]**</span><br>
+**Key words**: TPMs; born-digital; obsolescence; hardware; software; access<br>
+**Essay-ready point**: Born-digital materials present special preservation challenges because access often depends on obsolete hardware or software environments, and TPMs can lock works to those disappearing systems.<br>
+**Original Sentence**: Born-digital materials present specific challenges for preservation and research, particularly due to obsolescence of physical hardware that may include TPMs.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080104]**</span><br>
+**Key words**: migration; emulation; format-shifting; preservation strategy; TPM circumvention<br>
+**Essay-ready point**: For digital preservation, TPMs are problematic because they can block both main preservation strategies: format-shifting or migration, and emulation of old technical environments.<br>
+**Original Sentence**: TPMs can inhibit both format-shifting and emulation approaches to preservation of digital materials.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080105]**</span><br>
+**Key words**: MAME; open-source preservation; volunteer labour; emulation; digital heritage<br>
+**Essay-ready point**: MAME shows that preservation of digital culture often depends on open-source and volunteer communities, which perform archival functions that formal institutions may struggle to perform because of technical and legal barriers.<br>
+**Original Sentence**: The MAME emulation initiative has successfully emulated over 14,377 legacy electronic devices, including 3,783 arcade machines dating from 1979–2023.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080106]**</span><br>
+**Key words**: circumvention; arcade games; empirical evidence; preservation delay; TPMs<br>
+**Essay-ready point**: The report provides empirical evidence that TPMs are not marginal in digital preservation: in the arcade-game sample, hundreds of games required circumvention before they could be preserved.<br>
+**Original Sentence**: Of the 3,783 video games studied in our sample, 712 required circumvention of TPMs to enable preservation.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080107]**</span><br>
+**Key words**: 10.6 months; preservation delay; empirical study; legacy TPMs; social cost<br>
+**Essay-ready point**: The report quantifies the preservation burden of TPMs, finding that circumvention added an average delay of 10.6 months per protected game.<br>
+**Original Sentence**: We find that legacy TPMs present a considerable and statistically significant impediment to preservation ... circumvention of TPMs added an additional 10.6 months (0.883 years) to the time required to preserve a work.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080108]**</span><br>
+**Key words**: TPMs; 628 years; social cost; aggregate delay; cultural heritage; preservation labour<br>
+**Essay-ready point**: TPMs impose not only individual technical costs but aggregate social costs: across the sample, circumvention delayed preservation by approximately 628 additional years.<br>
+**Original Sentence**: Taking the 712 games from our sample that required circumvention, this represents 628 additional years required to preserve those games protected by TPMs.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080109]**</span><br>
+**Key words**: TPMs; labour cost; missing use; education; innovation; productive use<br>
+**Essay-ready point**: The social cost of TPMs consists not only in the labour needed to bypass them, but also in the lost period during which works remain unavailable for research, education, innovation, and cultural use.<br>
+**Original Sentence**: This represents a social cost in terms of additional labour from community volunteers, as well as missing use from the absence of preserved copies of games available for research, innovation and other productive uses.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080110]**</span><br>
+**Key words**: permanent inaccessibility; orphan TPMs; rightsholders; digital formats; preservation risk<br>
+**Essay-ready point**: The strongest preservation concern is that TPM-protected digital materials may become permanently inaccessible when rightsholders or TPM manufacturers disappear, leaving no practical route to lawful access.<br>
+**Original Sentence**: Digital materials that depend on TPM-protected formats and devices can become permanently inaccessible to research and preservation when rightsholders or TPM manufacturers can no longer be located.<br>
+**Page**: 6
+
+<span style="color:#B00020;">**[Chunck 080111]**</span><br>
+**Key words**: TPMs; legal uncertainty; copyright exceptions; European law; access; researchers<br>
+**Essay-ready point**: Even where copyright exceptions would normally support research or preservation, legal uncertainty about TPM-protected materials can leave institutions unsure whether they may actually gain access and preserve the work.<br>
+**Original Sentence**: Due to legal uncertainty, exacerbated by lack of a harmonised and effective approach to exceptions in European law, institutions and researchers are often unsure about what can be done to gain access to TPM-protected materials when carrying out work that would normally benefit from an exception to copyright.<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 080112]**</span><br>
+**Key words**: TPMs; canary in the coalmine; video games; digital preservation; GLAM institutions; electronic records<br>
+**Essay-ready point**: The report treats video games as an early warning for wider digital-preservation problems: if volunteer communities struggle with TPMs, formal GLAM institutions preserving ordinary electronic records may face even greater barriers.<br>
+**Original Sentence**: Video games are something of a ‘canary in the coalmine’ for digital preservation, signalling wider problems afflicting the preservation sector.<br>
+**Page**: 8
+
+<span style="color:#B00020;">**[Chunck 080113]**</span><br>
+**Key words**: emulation; obsolete formats; access; legacy materials; preservation method<br>
+**Essay-ready point**: For many legacy digital materials, emulation is not merely convenient but practically necessary, because it may be the only way to retrieve and make available works tied to obsolete formats.<br>
+**Original Sentence**: However, in many cases, emulation is the only practical method of retrieving and making available legacy digital materials on obsolete formats.<br>
+**Page**: 37
+
+<span style="color:#B00020;">**[Chunck 080114]**</span><br>
+**Key words**: TPMs; Article 6 CDSM; cultural heritage institutions; preservation exception; circumvention; reverse engineering<br>
+**Essay-ready point**: Article 6 CDSM provides a preservation exception for cultural heritage institutions, but that exception is weakened if it does not clearly permit the TPM circumvention necessary to perform preservation in practice.<br>
+**Original Sentence**: Article 6 CDSM Directive provides for a mandatory exception ‘to permit cultural heritage institutions to reproduce works and other subject matter permanently in their collections for preservation purposes’ ... The problem for preservation is that the CDSM Directive is not explicit about whether this exception permits circumvention of TPMs required to accomplish the task of reverse engineering and preservation.<br>
+**Page**: 37
+
+<span style="color:#B00020;">**[Chunck 080115]**</span><br>
+**Key words**: policy reform; TPM circumvention; future access; rightsholder duties; preservation exception<br>
+**Essay-ready point**: The report’s central policy recommendation is that cultural heritage institutions should be able to circumvent TPMs for preservation without burdensome procedures, while rightsholders should be required to maintain future access routes to TPM-protected works.<br>
+**Original Sentence**: Our specific policy recommendations are: 1/ to clarify that cultural heritage institutions may circumvent TPMs for preservation purposes without having to navigate the cumbersome administrative processes currently imposed by European copyright law; and 2/ to weigh the future costs of TPMs against strong protections granted to rightsholders, for example by requiring that rightsholders maintain and offer robust means for European institutions and researchers to access TPM-protected works into the future.<br>
+**Page**: 7
+
+<span style="color:#B00020;">**[Chunck 080201]**</span><br>
+**Key words**: digital preservation; libraries; GLAM; copyright complexity; public mission<br>
+**Essay-ready point**: Digital preservation should be understood as part of libraries’ and cultural heritage institutions’ core public mission, even though digital content creates distinctive copyright and technical difficulties.<br>
+**Original Sentence**: Preservation of collections is a central function of many libraries and digital content presents unique challenges within that mandate, including copyright complexities.<br>
+**Page**: 197
+
+<span style="color:#B00020;">**[Chunck 080202]**</span><br>
+**Key words**: risk management; copyright concern; enable preservation; mitigation; GLAM practice<br>
+**Essay-ready point**: The authors emphasise that copyright risk should be managed rather than treated as a reason to avoid preservation, because many concerns can be resolved or mitigated.<br>
+**Original Sentence**: The goal of this chapter is not to discourage digital preservation work, it is to enable it. A copyright concern is just that, a concern, and one that can often be resolved or mitigated.<br>
+**Page**: 197
+
+<span style="color:#B00020;">**[Chunck 080203]**</span><br>
+**Key words**: digitisation; digital preservation; reproduction; digital objects; stewardship<br>
+**Essay-ready point**: A useful doctrinal distinction is that digitisation involves converting analogue works into digital form, whereas digital preservation concerns the ongoing management of digital objects already in a steward’s care.<br>
+**Original Sentence**: Digitization is the process of migrating content from a non-digital format to a digital one ... Digital preservation, however, is the ongoing management of digital objects in a steward’s care and is the focus of this chapter.<br>
+**Page**: 197–198
+
+<span style="color:#B00020;">**[Chunck 080204]**</span><br>
+**Key words**: preservation; access; legal assessment; future use; institutional mandate<br>
+**Essay-ready point**: The authors argue that preservation and access should be treated as separate legal and practical functions, so that uncertainty about public access does not prevent institutions from preserving works for future use.<br>
+**Original Sentence**: This chapter also makes a distinction between preservation and access functions ... Preservation is the maintenance of an object over time. Access is the location and use of an object, digital or otherwise.<br>
+**Page**: 198
+
+<span style="color:#B00020;">**[Chunck 080205]**</span><br>
+**Key words**: future access; preservation first; restoration; GLAM institutions; copyright risk<br>
+**Essay-ready point**: GLAM institutions may legitimately preserve or restore digital objects even if they cannot currently provide public access, because preservation protects the possibility of future lawful access.<br>
+**Original Sentence**: Practitioners may even preserve or restore an object they cannot yet provide access to, in anticipation of being able to do so in the future.<br>
+**Page**: 198
+
+<span style="color:#B00020;">**[Chunck 080206]**</span><br>
+**Key words**: preservation; copying; migration; emulation; abandonware; copyright exceptions<br>
+**Essay-ready point**: Digital preservation commonly requires technical acts such as copying, migration, emulation, software alteration, and running abandonware, all of which may raise copyright issues unless covered by exceptions.<br>
+**Original Sentence**: Digital preservation practices often include: Making and storing multiple copies ... Migrating an object ... Emulating or adapting a software environment ... Changing software ... Running or providing access to software or digital content that does not have an identifiable owner…<br>
+**Page**: 198
+
+<span style="color:#B00020;">**[Chunck 080207]**</span><br>
+**Key words**: preservation; preservation copies; format shifting; grey areas; backup copies; reproduction exception<br>
+**Essay-ready point**: Although preservation copying is often protected, uncertainty remains where preservation requires format changes, automated backup copies, or unclear numbers of copies in preservation systems.<br>
+**Original Sentence**: While copying or reproducing a work for preservation purposes by a library is typically protected or included as an exception under modern copyright regimes, grey areas emerge in relation to any modification such as changing the file format or copying a work unnecessarily.<br>
+**Page**: 199
+
+<span style="color:#B00020;">**[Chunck 080208]**</span><br>
+**Key words**: preservation; legal uncertainty; fair use; fair dealing; library mandate; preservation responsibility<br>
+**Essay-ready point**: The authors take a pragmatic position: even where preservation is not explicitly protected, legal uncertainty alone should not prevent libraries from fulfilling their preservation responsibilities.<br>
+**Original Sentence**: While actions taken to preserve digital content are likely to be protected under fair dealing or fair use ... they may not be explicitly protected. That said, lack of legal certainty should not prevent libraries from fulfilling their mandates and taking steps to preserve digital information.<br>
+**Page**: 199
+
+<span style="color:#B00020;">**[Chunck 080209]**</span><br>
+**Key words**: collaborative preservation; cross-border networks; LOCKSS; contractual obligations; legal conflict<br>
+**Essay-ready point**: Distributed preservation networks reduce costs and improve security, but they create legal complexity because participating institutions may be subject to different copyright laws and contractual obligations.<br>
+**Original Sentence**: Differences in how copyright regimes handle reproductions for preservation purposes can confuse and hamper the creation of collaborative preservation networks, particularly cross-border ones because conflicting laws might govern behaviour differently for the various organizations involved ...<br>
+**Page**: 200
+
+<span style="color:#B00020;">**[Chunck 080210]**</span><br>
+**Key words**: TPMs; access barriers; preservation barriers; digital locks; GLAM<br>
+**Essay-ready point**: TPMs are particularly problematic for GLAM preservation because they can block access to digital content altogether, making preservation technically impossible even where copyright law would otherwise allow it.<br>
+**Original Sentence**: TPMs are a challenge because they can render materials impossible to access, let alone preserve.<br>
+**Page**: 201
+
+<span style="color:#B00020;">**[Chunck 080211]**</span><br>
+**Key words**: TPMs; technological obsolescence; digital locks; software keys; access loss; preservation risk<br>
+**Essay-ready point**: The authors highlight a major preservation problem: TPM systems change or disappear over time, so a digital work once accessible may later become unusable if the relevant software, keys, or company support vanish.<br>
+**Original Sentence**: TPMs themselves have a limited life and change frequently ... a movie or ebook accessible ten years ago may no longer be available if the company that owns the format no longer makes or supports the software or keys needed to read it.<br>
+**Page**: 201
+
+<span style="color:#B00020;">**[Chunck 080212]**</span><br>
+**Key words**: TPMs; lawful use; overblocking; format migration; copyright exceptions; anti-circumvention<br>
+**Essay-ready point**: A central policy concern is that TPMs are technologically blunt: they can block lawful acts such as format migration for preservation because they cannot distinguish legitimate uses from infringing ones.<br>
+**Original Sentence**: TPMs cannot always differentiate between legitimate and infringing uses of content ... The act of preservation might be legal within the relevant copyright regime, but a legal act could still be technically impeded by overzealous TPMs ...<br>
+**Page**: 201
+
+<span style="color:#B00020;">**[Chunck 080213]**</span><br>
+**Key words**: Canada; TPM circumvention; libraries; archives; museums; preservation exception<br>
+**Essay-ready point**: The Canadian framework illustrates how anti-circumvention rules can undermine preservation: despite library exceptions, there is no explicit exception allowing libraries, archives, or museums to circumvent TPMs for digital preservation.<br>
+**Original Sentence**: Despite the 2012 overhauls in the Copyright Act generally, no explicit exceptions exist for the circumvention of TPMs by libraries, archives, or museums. Canadian digital preservationists cannot circumvent TPMs to preserve digital works for the future.<br>
+**Page**: 205
+
+<span style="color:#B00020;">**[Chunck 080214]**</span><br>
+**Key words**: TPMs; EU DSM Directive; Article 6; cultural heritage institutions; preservation copies; any format<br>
+**Essay-ready point**: The EU framework is significant because Article 6 of the DSM Directive requires Member States to allow cultural heritage institutions to make preservation copies of works in their permanent collections, in any format or medium, where necessary.<br>
+**Original Sentence**: Member States shall provide for an exception ... to allow cultural heritage institutions to make copies of any works or other subject matter that are permanently in their collections, in any format or medium, for purposes of preservation of such works or other subject matter and to the extent necessary for such preservation.<br>
+**Page**: 214
+
+<span style="color:#B00020;">**[Chunck 080215]**</span><br>
+**Key words**: memory institutions; copyright reform; inclusive exceptions; GLAM advocacy; digital preservation<br>
+**Essay-ready point**: The authors conclude that libraries and GLAM organisations should continue advocating for simplified copyright rules and clear, inclusive exceptions that support digital preservation despite technological and legal complexity.<br>
+**Original Sentence**: The library and other professional and educational communities should continue to lobby for simplified copyright laws and clear, ideally inclusive, exceptions for memory institutions.<br>
+**Page**: 216
 
 ### 2.9 Seminar 9
+<span style="color:#B00020;">**[Chunck 090101]**</span><br>
+**Key words**: NFTs; ownership; copyright misunderstanding; digital assets; blockchain<br>
+**Essay-ready point**: A central legal problem with NFTs is that purchasers and the public often misunderstand what is being sold: the NFT is usually not the artwork or digital object itself, but a blockchain-based representation or record associated with it.<br>
+**Original Sentence**: There is considerable misunderstanding not only about what an NFT really is but also about the ownership and copyright issues that surround the technology.<br>
+**Page**: 1368
 
+<span style="color:#B00020;">**[Chunck 090102]**</span><br>
+**Key words**: smart contracts; blockchain; NFTs; digital art; tokenisation<br>
+**Essay-ready point**: NFTs are legally significant because they combine blockchain records with smart-contract functionality, allowing digital objects or metadata associated with works to be traded as unique tokens.<br>
+**Original Sentence**: NFTs are the latest hype in the art world: they bring together smart contracts and blockchain technology.<br>
+**Page**: 1367
+
+<span style="color:#B00020;">**[Chunck 090103]**</span><br>
+**Key words**: NFTs; tokenisation; DLT; programmable value; virtual goods; blockchain record<br>
+**Essay-ready point**: The legal importance of tokenisation is that it creates a programmable digital unit recorded on a blockchain, which may represent many different types of assets, including virtual goods or digital artworks.<br>
+**Original Sentence**: One of the most heralded uses of DLTs is that of the tokenization of assets, where a token is a programmable digital unit of value that is recorded on the blockchain.<br>
+**Page**: 1369
+
+<span style="color:#B00020;">**[Chunck 090104]**</span><br>
+**Key words**: NFTs; non-fungibility; uniqueness; ERC-721; collectibles; virtual goods<br>
+**Essay-ready point**: Unlike fungible tokens such as cryptocurrencies, NFTs are designed to represent unique or non-interchangeable assets, which explains their attraction in markets for art, collectibles, and virtual goods.<br>
+**Original Sentence**: Conversely, non-fungible goods are those that are unique, so a specific silver necklace, or a golden statuette or a painting. Non-fungible goods use a different token standard, known as ERC-721.<br>
+**Page**: 1369
+
+<span style="color:#B00020;">**[Chunck 090105]**</span><br>
+**Key words**: minting; digital works; virtual goods; digital representation; NFT markets<br>
+**Essay-ready point**: NFT markets are broad because any digital file, and even physical goods represented digitally, can be turned into an NFT, including memes, music, videos, tweets, sport clips, and digital art.<br>
+**Original Sentence**: Any digital work is capable of being turned into an NFT, even physical goods that can be represented in some digital form, such as a photo, a video or a scan.<br>
+**Page**: 1369
+
+<span style="color:#B00020;">**[Chunck 090106]**</span><br>
+**Key words**: NFTs; minting; ERC-721; copyright ownership; blockchain token; smart contract<br>
+**Essay-ready point**: Minting an NFT means generating a blockchain token from a digital work, but this technical process does not by itself transfer copyright or ownership of the underlying work.<br>
+**Original Sentence**: Minting a work as an NFT means that a creator uses a digital work to generate a unique number that is then written into the blockchain in the shape of a smart contract using the ERC-721 standard ...<br>
+**Page**: 1370
+
+<span style="color:#B00020;">**[Chunck 090107]**</span><br>
+**Key words**: scarcity; uniqueness; repeated minting; digital goods; NFT value<br>
+**Essay-ready point**: The supposed scarcity of NFTs should be treated cautiously, because although an NFT may be unique as a blockchain record, the same underlying work can be minted repeatedly by the same person or others.<br>
+**Original Sentence**: In principle, this is what gives the NFT its ‘scarcity’ value: it is supposed to be unique. In reality, anyone can mint as many versions of the same work as they wish.<br>
+**Page**: 1370
+
+<span style="color:#B00020;">**[Chunck 090108]**</span><br>
+**Key words**: metadata; URL; digital file; NFT structure; ownership<br>
+**Essay-ready point**: For legal analysis, it is crucial that most NFTs do not contain the artwork or file itself; they are metadata files that usually point to the work through a URL.<br>
+**Original Sentence**: It must be stressed that the actual image is not the NFT ... while the image was used to encode the NFT and make it uniquely attached to the image, the NFT is not the actual image itself, it is the metadata that ties it to the original file.<br>
+**Page**: 1371
+
+<span style="color:#B00020;">**[Chunck 090109]**</span><br>
+**Key words**: signed receipt; NFT purchase; digital ownership; copyright; virtual goods<br>
+**Essay-ready point**: The author’s useful analogy is that purchasing an NFT is not like purchasing the underlying artwork; it is closer to purchasing a signed receipt associated with the work.<br>
+**Original Sentence**: Some people have therefore compared NFTs to a signed copy of a work. This is somewhat inaccurate as the NFT is not a copy itself: instead, it is more like a signed receipt of a work, where the ownership is not of the work itself, but ownership of the receipt.<br>
+**Page**: 1371
+
+<span style="color:#B00020;">**[Chunck 090110]**</span><br>
+**Key words**: on-chain NFTs; blockchain-native works; digital ownership; metadata; virtual goods<br>
+**Essay-ready point**: A distinction should be drawn between ordinary metadata NFTs and on-chain NFTs: where the entire work is uploaded to the blockchain, the NFT more closely resembles ownership of the digital object itself.<br>
+**Original Sentence**: There is another type of NFT where the work is uploaded in its entirety to the blockchain. These are truly blockchain native works ... so the NFT acts more like true ownership of the work.<br>
+**Page**: 1371
+
+<span style="color:#B00020;">**[Chunck 090111]**</span><br>
+**Key words**: copyright assignment; transfer of rights; smart contract; formalities; NFT platforms<br>
+**Essay-ready point**: Although some platforms attempt to use NFTs to transfer copyright, it remains legally uncertain whether a blockchain token or smart contract alone can satisfy formal requirements for copyright assignment.<br>
+**Original Sentence**: While most NFTs do not involve a transfer of rights, there are a few instances in which the seller offers to turn the token into an actual transfer of copyright ownership in the original.<br>
+**Page**: 1373
+
+<span style="color:#B00020;">**[Chunck 090112]**</span><br>
+**Key words**: NFTs; registration; authorship; false claims; provenance; blockchain evidence<br>
+**Essay-ready point**: NFTs cannot automatically prove authorship or ownership because anyone can mint a token and insert false ownership claims into the blockchain.<br>
+**Original Sentence**: One can make any sort of erroneous ownership claims, and then this is written into the blockchain. Moreover, one could even generate a token made from works that one does not own.<br>
+**Page**: 1375
+
+<span style="color:#B00020;">**[Chunck 090113]**</span><br>
+**Key words**: NFT licence; platform terms; commercial use; proof of ownership; digital rights<br>
+**Essay-ready point**: Where NFTs are linked to licences, the licence often exists on the platform or in a separate document rather than inside the NFT itself; the NFT may merely evidence entitlement to use the licensed work.<br>
+**Original Sentence**: While the NFT is not the licence, it can be used to prove ownership of the NFT and, thus, to prove to the work’s owners that they can undertake commercial activities using the original artwork.<br>
+**Page**: 1376
+
+<span style="color:#B00020;">**[Chunck 090114]**</span><br>
+**Key words**: NFTs; royalties; smart contracts; resale; creator payment; digital rights management<br>
+**Essay-ready point**: One of the strongest practical uses of NFTs is automated royalty collection, because smart contracts can pay creators directly when tokens are sold or resold.<br>
+**Original Sentence**: The other main use of an NFT is when trying to obtain royalties for a work ... the built-in payment capability of the smart contract allows authors to receive immediate payment for their work ...<br>
+**Page**: 1376
+
+<span style="color:#B00020;">**[Chunck 090115]**</span><br>
+**Key words**: NFTs; unauthorised minting; copyright infringement; communication to the public; links; metadata<br>
+**Essay-ready point**: The author’s key argument is that unauthorised minting does not necessarily infringe copyright directly, because the NFT may not reproduce the work; however, there may still be issues where the NFT links to or communicates the work to the public.<br>
+**Original Sentence**: At least from the perspective of the UK jurisdiction, we could make a strong argument that the act of minting an NFT, even without authorization, will not in any way infringe copyright. Closer inspection will have to be taken with regard to communication to the public by means of a link contained in a token.<br>
+**Page**: 1385
+
+<span style="color:#B00020;">**[Chunck 090201]**</span><br>
+**Key words**: metaverse; legal intervention; interoperability; creator economy; virtual worlds<br>
+**Essay-ready point**: The article frames the metaverse not merely as a technological development, but as a legally contingent project: without intervention on interoperability and creator-economy conditions, the metaverse may never fully materialise.<br>
+**Original Sentence**: Two arguably essential aspects of the metaverse, namely, interconnection between virtual worlds and a thriving creator economy, may never be achieved without legal intervention.<br>
+**Page**: 102
+
+<span style="color:#B00020;">**[Chunck 090202]**</span><br>
+**Key words**: proto-metaverse; Roblox; Fortnite; virtual worlds; interoperability<br>
+**Essay-ready point**: Existing platforms such as Roblox, Fortnite, Minecraft, Second Life and Meta’s Horizon Worlds should be understood as proto-metaverses rather than the metaverse itself, because they lack full scale and interoperability.<br>
+**Original Sentence**: A proper definition of the concept shows what is still needed to go from these virtual worlds to the metaverse.<br>
+**Page**: 102
+
+<span style="color:#B00020;">**[Chunck 090203]**</span><br>
+**Key words**: avatars; virtual world; social activity; commerce; creativity<br>
+**Essay-ready point**: The metaverse is best understood as a general-purpose virtual environment in which users interact through avatars and engage in social, creative, commercial and entertainment activities.<br>
+**Original Sentence**: It is populated by the 100 million richest people on earth, who use it daily for social, creative, commercial, and other pursuits.<br>
+**Page**: 102
+
+<span style="color:#B00020;">**[Chunck 090204]**</span><br>
+**Key words**: video games; virtual worlds; persistence; user creation; metaverse history<br>
+**Essay-ready point**: The article shows that video games are not peripheral to the metaverse; they are the main historical route through which persistent, interactive, user-created virtual worlds have developed.<br>
+**Original Sentence**: In these representations of 3D virtual worlds, video games play an important role ... It is no surprise, then, that we caught the first glimpses of the metaverse in games ...<br>
+**Page**: 103
+
+<span style="color:#B00020;">**[Chunck 090205]**</span><br>
+**Key words**: Second Life; virtual goods; Linden dollars; real-money exchange; creator economy<br>
+**Essay-ready point**: Second Life is legally and economically significant because it showed that user-created virtual goods, virtual currency and real-world exchange can form the basis of a functioning creator economy.<br>
+**Original Sentence**: Users could create virtual goods such as clothing and real estate, trade them for Linden dollars, and exchange those for US Dollars.<br>
+**Page**: 103
+
+<span style="color:#B00020;">**[Chunck 090206]**</span><br>
+**Key words**: virtual economy; creator income; digital assets; Second Life; monetisation<br>
+**Essay-ready point**: The article uses Second Life to show that virtual goods are not economically trivial: user-created digital assets can sustain large markets and generate real-world income for creators.<br>
+**Original Sentence**: By 2009, its economy had grown to over 500 million USD, with creators cashing out 55 million USD that year.<br>
+**Page**: 103
+
+<span style="color:#B00020;">**[Chunck 090207]**</span><br>
+**Key words**: virtual goods; Roblox Studio; sandbox games; user creation; Fortnite; Minecraft<br>
+**Essay-ready point**: Platforms such as Minecraft, Roblox and Fortnite show that user creation is central to the metaverse: they are not simply games, but environments where users build, share and monetise experiences.<br>
+**Original Sentence**: Both Fortnite, by Epic Games, and Roblox are free-to-play games with creative modes. In Roblox Studio, for example, users can create ‘anything they can imagine’ and then share their creations with the platform’s 80+ million daily active users.<br>
+**Page**: 103
+
+<span style="color:#B00020;">**[Chunck 090208]**</span><br>
+**Key words**: metaverse; continuity; identity; entitlements; payments; persistent worlds<br>
+**Essay-ready point**: The article defines the metaverse partly by continuity: users must have ongoing access to their identities, items, communications and payments across time.<br>
+**Original Sentence**: The metaverse is ... continuous, which means users have ongoing access to their identity, entitlements, items, communications, and payments.<br>
+**Page**: 104
+
+<span style="color:#B00020;">**[Chunck 090209]**</span><br>
+**Key words**: interoperability; interconnected worlds; platform regulation; metaverse; openness<br>
+**Essay-ready point**: A legally useful point is that the metaverse should not be reduced to a single closed platform; it should consist of interconnected virtual worlds, making interoperability a core regulatory issue.<br>
+**Original Sentence**: The metaverse is not just a virtual world; rather, it consists of different virtual worlds that are interconnected.<br>
+**Page**: 105
+
+<span style="color:#B00020;">**[Chunck 090210]**</span><br>
+**Key words**: asset interoperability; skins; virtual goods; creator markets; digital items<br>
+**Essay-ready point**: If users could take purchased virtual items from one world to another, creators would benefit from a larger addressable market for digital goods.<br>
+**Original Sentence**: The idea is that users are able to purchase an item in one world – say, a Spider-Man ‘skin’ (avatar costume), Birkin bag, or magical sword – and then take it to another world ... Interoperability can expand the market for such items, which would benefit their creators.<br>
+**Page**: 110
+
+<span style="color:#B00020;">**[Chunck 090211]**</span><br>
+**Key words**: NFTs; blockchain; asset interoperability; Lamina1; virtual goods<br>
+**Essay-ready point**: Blockchain and NFTs are relevant to virtual goods because they may support interoperable ownership records, but the article stresses that asset portability also faces major technical and design obstacles.<br>
+**Original Sentence**: Independent firms, such as Lamina1, are trying to realize wider asset interoperability, often based on blockchain technology (including non-fungible tokens [NFTs]).<br>
+**Page**: 110
+
+<span style="color:#B00020;">**[Chunck 090212]**</span><br>
+**Key words**: asset portability; technical limits; virtual worlds; interoperability; NFTs<br>
+**Essay-ready point**: The article cautions against simplistic claims about NFT portability: a virtual asset cannot simply move between worlds unless it is encoded with compatible physics and the destination world is designed to accept it.<br>
+**Original Sentence**: Each asset would need to be encoded with detailed physics to allow for logical integration in other worlds, which would themselves need to be designed to accept the transplant.<br>
+**Page**: 110
+
+<span style="color:#B00020;">**[Chunck 090213]**</span><br>
+**Key words**: virtual currency; Robux; V-Bucks; currency interoperability; metaverse economy<br>
+**Essay-ready point**: Metaverse economies depend not only on virtual goods but also on virtual currencies, and interoperability between currencies could help users move economically between worlds.<br>
+**Original Sentence**: Developed virtual worlds tend to have their own currency, such as Roblox’s Robux and Fortnite’s V-Bucks ... currency interoperability supports the metaverse vision of seamlessly transitioning between different worlds.<br>
+**Page**: 110
+
+<span style="color:#B00020;">**[Chunck 090214]**</span><br>
+**Key words**: currency interoperability; revenue allocation; virtual economies; platform imbalance; creator payouts<br>
+**Essay-ready point**: The article explains that interoperable virtual currencies create difficult payment-allocation problems, because users may buy currency in one world but spend time or purchase goods in another.<br>
+**Original Sentence**: A user could buy its currency in one virtual world, enriching its owner, to then take it to another virtual world where they spend their time and purchase user-created items ... Specific arrangements would need to be made to prevent such imbalances.<br>
+**Page**: 110
+
+<span style="color:#B00020;">**[Chunck 090215]**</span><br>
+**Key words**: NFT trading; Apple; app-store fees; mobile gatekeepers; creator monetisation<br>
+**Essay-ready point**: A major competition-law issue is that mobile gatekeepers can shape the economics of metaverse goods: Apple’s 30% fee and NFT policies may make NFT trading and creator monetisation economically impractical.<br>
+**Original Sentence**: Apple initially prohibited the sale of NFTs; later, it allowed NFT trading but subjected it to its 30% fee ... it remains unfeasible to trade NFTs, but now as a matter of economics rather than policy ...<br>
+**Page**: 112
 
 ### 2.10 Seminar 10
+<span style="color:#B00020;">**[Chunck 100101]**</span><br>
+**Key words**: traditional knowledge; indigenous groups; natural resources; cultural practices; cultural expression<br>
+**Essay-ready point**: Traditional knowledge should be understood broadly: it includes indigenous communities’ knowledge of socially beneficial uses of natural resources as well as cultural expressions such as rituals, stories, designs, music and dance.<br>
+**Original Sentence**: Traditional knowledge may be defined as understanding or skill developed and preserved by the members of an indigenous group, concerning either socially beneficial uses of natural resources ... or cultural practices ...<br>
+**Page**: 365
+
+<span style="color:#B00020;">**[Chunck 100102]**</span><br>
+**Key words**: traditional knowledge; legal rights; indigenous communities; benefit-sharing; control; legal limitation<br>
+**Essay-ready point**: A key starting point is that indigenous communities currently have only limited legal power to control or benefit from outsiders’ use of their traditional knowledge.<br>
+**Original Sentence**: Currently, the legal rights of indigenous groups to control or benefit from the use of such knowledge by others is sharply limited.<br>
+**Page**: 365
+
+<span style="color:#B00020;">**[Chunck 100103]**</span><br>
+**Key words**: traditional knowledge; patents; copyright; analogy; legal design; sui generis protection<br>
+**Essay-ready point**: Fisher rejects the strategy of treating traditional knowledge as equivalent to patentable inventions or copyright works; traditional knowledge has distinctive features that require different legal tools.<br>
+**Original Sentence**: Traditional knowledge differs in fundamental ways from the kinds of inventions and works of art to which we are accustomed to extend intellectual property protection.<br>
+**Page**: 365
+
+<span style="color:#B00020;">**[Chunck 100104]**</span><br>
+**Key words**: traditional knowledge; enhanced rights; sui generis regime; patents; copyrights; indigenous protection<br>
+**Essay-ready point**: The fact that traditional knowledge is different from conventional IP does not mean it should be unprotected; rather, any enhanced rights should be specially designed and should not simply copy patents or copyrights.<br>
+**Original Sentence**: Identification of those differences leads not to the conclusion that indigenous groups should not enjoy any enhanced legal rights, but rather to the conclusion that the rights they are given need not—and should not—resemble patents or copyrights.<br>
+**Page**: 365
+
+<span style="color:#B00020;">**[Chunck 100105]**</span><br>
+**Key words**: traditional knowledge; collective creation; historical knowledge; descendants; authorship; indigenous rights<br>
+**Essay-ready point**: Traditional knowledge differs from ordinary IP because it is commonly produced collectively, originated long ago, and is now claimed by people who did not personally create it.<br>
+**Original Sentence**: Traditional knowledge is almost always produced by groups of people, not individuals; it was produced long ago, not recently; and the persons currently asserting rights to control it are not those responsible for its creation.<br>
+**Page**: 365–366
+
+<span style="color:#B00020;">**[Chunck 100106]**</span><br>
+**Key words**: collective authorship; doctrinal adaptation; legal feasibility; traditional knowledge; IP categories<br>
+**Essay-ready point**: lthough collective authorship, age, and descendant claims make traditional knowledge difficult to fit into existing IP categories, Fisher argues that these problems are not fatal; legal doctrines could be adapted if necessary.<br>
+**Original Sentence**: These differences are important, but by themselves are not fatal to the analytical strategy ... they make it awkward to extend intellectual property rights to traditional knowledge—but they do not render it impossible.<br>
+**Page**: 366
+
+<span style="color:#B00020;">**[Chunck 100107]**</span><br>
+**Key words**: IP justification; labour reward; innovation incentives; personality theory; traditional knowledge<br>
+**Essay-ready point**: The standard justifications for IP—rewarding labour, incentivising innovation, and protecting creator-personality bonds—do not adequately explain why indigenous groups should control traditional knowledge.<br>
+**Original Sentence**: The extension of intellectual property protection to inventions and works of art is most often justified on one or more of three grounds ... none of these three considerations provides a convincing justification for according indigenous groups greater rights to control traditional knowledge.<br>
+**Page**: 366
+
+<span style="color:#B00020;">**[Chunck 100108]**</span><br>
+**Key words**: traditional knowledge; cultural identity; unauthorised use; indigenous communities; collective identity; cultural harm<br>
+**Essay-ready point**: A more persuasive justification for protecting traditional knowledge is that unauthorised outsider use can damage the cultural identity of indigenous communities when the knowledge is central to collective self-understanding.<br>
+**Original Sentence**: Traditional knowledge is sometimes central to the identities of such groups, and unauthorized use of that knowledge by outsiders corrodes those identities.<br>
+**Page**: 366–367
+
+<span style="color:#B00020;">**[Chunck 100109]**</span><br>
+**Key words**: traditional knowledge; distributive justice; economic disadvantage; benefit-sharing; indigenous income; cultural resources<br>
+**Essay-ready point**: Traditional knowledge protection can be justified as a distributive-justice measure because indigenous communities often face severe economic disadvantage and should be able to derive income from their cultural resources.<br>
+**Original Sentence**: Indigenous groups almost always suffer from more severe economic disadvantages than other groups within the countries where they live; enhancing the ability of indigenous groups to derive income from traditional knowledge thus promotes distributive justice.<br>
+**Page**: 367
+
+<span style="color:#B00020;">**[Chunck 100110]**</span><br>
+**Key words**: traditional knowledge; cultural diversity; homogenisation; public interest; preservation; indigenous culture<br>
+**Essay-ready point**: Protecting traditional knowledge may benefit society as a whole by resisting global cultural homogenisation and preserving diverse cultural traditions.<br>
+**Original Sentence**: Giving indigenous groups greater control over uses of their knowledge inhibits global cultural homogenization; all persons benefit from the resultant preservation of cultural diversity.<br>
+**Page**: 367
+
+<span style="color:#B00020;">**[Chunck 100111]**</span><br>
+**Key words**: autonomy; semiotic democracy; cultural participation; balance; traditional knowledge<br>
+**Essay-ready point**: Fisher emphasises that traditional knowledge protection is not always justified, because it may conflict with individual autonomy and the freedom of others to participate in shaping cultural meaning.<br>
+**Original Sentence**: These considerations are opposed by two others: the importance of providing all persons autonomy in selecting the cultural traditions through which they will define themselves, and the value of ‘semiotic democracy’ ...<br>
+**Page**: 367
+
+<span style="color:#B00020;">**[Chunck 100112]**</span><br>
+**Key words**: traditional knowledge; Mayan weavers; textiles; symbolic meaning; Guatemala; collective rights<br>
+**Essay-ready point**: The Mayan weaving example shows when traditional knowledge protection is especially compelling: the designs are identity-forming, symbolically meaningful, and economically important to a disadvantaged community.<br>
+**Original Sentence**: A good example is provided by the recent efforts of Mayan weavers in Guatemala to secure greater control over the distinctive combination of patterns, colors, and weaving techniques that have long been employed within their communities ...<br>
+**Page**: 367
+
+<span style="color:#B00020;">**[Chunck 100113]**</span><br>
+**Key words**: traditional knowledge; employment; monetary compensation; indigenous livelihoods; IP mismatch; community benefit<br>
+**Essay-ready point**: Fisher warns that monetary compensation alone may not effectively protect traditional knowledge, because indigenous communities often need stable, meaningful employment more than abstract revenue streams.<br>
+**Original Sentence**: One of the reasons for the mismatch is that intellectual property rights may not be the best way of providing the current members of indigenous groups a crucial benefit—namely employment.<br>
+**Page**: 368
+
+<span style="color:#B00020;">**[Chunck 100114]**</span><br>
+**Key words**: traditional knowledge; evolving knowledge; dynamic tradition; cultural change; sui generis law; community practice<br>
+**Essay-ready point**: Traditional knowledge should not be treated as frozen heritage: it evolves over time through community practice, which makes rigid patent- or copyright-style protection poorly suited to it.<br>
+**Original Sentence**: Unlike the knowledge shielded by patents and copyrights, most forms of traditional knowledge evolve.<br>
+**Page**: 369
+
+<span style="color:#B00020;">**[Chunck 100115]**</span><br>
+**Key words**: traditional knowledge; enforcement; public awareness; indigenous resources; legal reform; public legitimacy<br>
+**Essay-ready point**: Because many indigenous groups lack the resources to monitor and enforce rights themselves, any effective traditional knowledge regime must involve enforcement allies and mechanisms that build public awareness and support.<br>
+**Original Sentence**: Few indigenous groups have the resources necessary to monitor uses of their cultural traditions or to enforce whatever legal rights they might enjoy ... legal reform must incorporate mechanisms that augment public awareness and engagement.<br>
+**Page**: 369–370
+
+<span style="color:#B00020;">**[Chunck 100201]**</span><br>
+**Key words**: traditional knowledge; public domain; misappropriation; indigenous peoples; IP protection<br>
+**Essay-ready point**: Traditional knowledge protection arises because conventional IP systems often treat traditional creativity and innovation as part of the public domain, leaving indigenous peoples and local communities vulnerable to misappropriation.<br>
+**Original Sentence**: In recent years, indigenous peoples, local communities, and governments—mainly in developing countries—have demanded IP protection for traditional forms of creativity and innovation, which, under the conventional IP system, are generally regarded as being in the public domain, and thus free for anyone to use.<br>
+**Page**: 10
+
+<span style="color:#B00020;">**[Chunck 100202]**</span><br>
+**Key words**: public domain; publicly available; community control; traditional knowledge; access<br>
+**Essay-ready point**: A useful exam distinction is that information may be publicly available without being in the public domain; this matters because traditional knowledge may be accessible but still culturally restricted or subject to community expectations.<br>
+**Original Sentence**: The term ‘public domain’ refers to elements of IP that are ineligible for private ownership and the contents of which any member of the public is legally entitled to use. It means something other than ‘publicly available’ – for example, content on the Internet may be publicly available but not in the ‘public domain’ from an IP perspective.<br>
+**Page**: 10
+
+<span style="color:#B00020;">**[Chunck 100203]**</span><br>
+**Key words**: traditional knowledge; biopiracy; traditional remedies; patents; pharmaceutical companies; benefit-sharing<br>
+**Essay-ready point**: One central concern is biopiracy: a company may appropriate a traditional remedy, develop it commercially, and patent the resulting invention without proper recognition or benefit-sharing.<br>
+**Original Sentence**: For example: a traditional remedy could be appropriated by a pharmaceutical company and the resulting invention patented by that company.<br>
+**Page**: 11
+
+<span style="color:#B00020;">**[Chunck 100204]**</span><br>
+**Key words**: traditional knowledge; community control; protectable IP; traditional elements; legal tools; indigenous rights<br>
+**Essay-ready point**: The purpose of protecting traditional knowledge is not necessarily to force conventional IP categories onto it, but to give communities legal tools to influence how their knowledge is used by outsiders.<br>
+**Original Sentence**: Recognizing those traditional elements as protectable IP would enable their holders to have a say in their use by others.<br>
+**Page**: 11
+
+<span style="color:#B00020;">**[Chunck 100205]**</span><br>
+**Key words**: IP principles; adaptation; misappropriation; new beneficiaries; traditional knowledge<br>
+**Essay-ready point**: Traditional knowledge protection can be framed as an adaptation of IP values—especially protection against misappropriation—rather than a simple extension of ordinary copyright or patent law.<br>
+**Original Sentence**: This does not mean that conventional IP systems are being forced upon TK, TCEs and GRs, but rather that values and principles embedded in IP law ... could be adapted and redeployed for new subject matter and for new beneficiaries.<br>
+**Page**: 11
+
+<span style="color:#B00020;">**[Chunck 100206]**</span><br>
+**Key words**: traditional knowledge; human rights; UNDRIP; indigenous peoples; cultural heritage; Article 31<br>
+**Essay-ready point**: Traditional knowledge should be analysed not only as an IP issue, but also within a human-rights framework, particularly because indigenous peoples have rights to maintain, control, protect and develop their cultural heritage and traditional knowledge.<br>
+**Original Sentence**: Human rights form a crucial part of the context for protection of TK, TCEs and GRs ... Article 31 provides that indigenous peoples ‘have the right to maintain, control, protect and develop their Intellectual Property over such cultural heritage, traditional knowledge and traditional cultural expressions.’<br>
+**Page**: 11
+
+<span style="color:#B00020;">**[Chunck 100207]**</span><br>
+**Key words**: traditional knowledge; living knowledge; intergenerational transmission; cultural identity; spiritual identity; community<br>
+**Essay-ready point**: Traditional knowledge is not static folklore; WIPO describes it as a living body of knowledge that is developed, sustained and transmitted within communities across generations.<br>
+**Original Sentence**: TK is a living body of knowledge that is developed, sustained and passed on from generation to generation within a community, often forming part of its cultural or spiritual identity.<br>
+**Page**: 10
+
+<span style="color:#B00020;">**[Chunck 100208]**</span><br>
+**Key words**: traditional knowledge; know-how; skills; innovation; custodianship; traditional lifestyle<br>
+**Essay-ready point**: For legal analysis, traditional knowledge can cover practical know-how, skills, innovations and practices, especially where they are transmitted within a traditional community context.<br>
+**Original Sentence**: TK is understood as: knowledge, know-how, skills, innovations or practices; that are passed between generations; in a traditional context; and that form part of the traditional lifestyle of indigenous and local communities who act as their guardian or custodian.<br>
+**Page**: 10
+
+<span style="color:#B00020;">**[Chunck 100209]**</span><br>
+**Key words**: traditional knowledge; medicinal knowledge; agriculture; environmental knowledge; water management; genetic resources<br>
+**Essay-ready point**: Traditional knowledge has practical value in areas such as medicine, agriculture, environmental management, hunting, fishing and water systems, which explains why it is often commercially and scientifically attractive.<br>
+**Original Sentence**: TK can be, for example, agricultural, environmental or medicinal knowledge, or knowledge associated with GRs ... knowledge about traditional medicines; traditional hunting or fishing techniques; knowledge about animal migration patterns or water management.<br>
+**Page**: 14
+
+<span style="color:#B00020;">**[Chunck 100210]**</span><br>
+**Key words**: traditional knowledge; holistic heritage; TCEs; cultural expression; community worldview<br>
+**Essay-ready point**: Although IP analysis often distinguishes traditional knowledge from traditional cultural expressions, many communities understand knowledge and expression holistically, as inseparable parts of cultural heritage.<br>
+**Original Sentence**: For many holders, TK and its form of expression are seen as an inseparable whole. For example, a traditional tool may embody TK but also may be seen as a TCE in itself because of its design and ornamentation.<br>
+**Page**: 13
+
+<span style="color:#B00020;">**[Chunck 100211]**</span><br>
+**Key words**: traditional knowledge; collective rights; community ownership; custodianship; indigenous communities; TK holders<br>
+**Essay-ready point**: Traditional knowledge protection usually requires collective rights because TK and TCEs are generally created, maintained and identified with communities rather than individual authors or inventors.<br>
+**Original Sentence**: TK/TCEs are generally regarded as collectively originated and held, so that any rights and interests in this material should vest in communities rather than in individuals ...<br>
+**Page**: 20
+
+<span style="color:#B00020;">**[Chunck 100212]**</span><br>
+**Key words**: traditional knowledge; unauthorised use; misappropriation; illicit exploitation; copying; IP tools<br>
+**Essay-ready point**: WIPO’s concept of protection focuses on using IP tools to prevent misuse, misappropriation, copying, adaptation or other illicit exploitation of traditional knowledge by outsiders.<br>
+**Original Sentence**: WIPO is concerned with ... the use of IP tools and principles to prevent unauthorized or inappropriate uses of TK/TCEs by third parties ... to prevent misuse, misappropriation, copying, adaptation or other kind of illicit exploitation.<br>
+**Page**: 20
+
+<span style="color:#B00020;">**[Chunck 100213]**</span><br>
+**Key words**: traditional knowledge; positive protection; licensing; commercial exploitation; community empowerment; benefit-sharing<br>
+**Essay-ready point**: Positive protection gives communities rights to control third-party uses of traditional knowledge and to benefit from commercial exploitation, including through licensing.<br>
+**Original Sentence**: Positive protection is the granting of rights that empower communities to promote their TK/TCEs, control their uses by third parties and benefit from their commercial exploitation.<br>
+**Page**: 22
+
+<span style="color:#B00020;">**[Chunck 100214]**</span><br>
+**Key words**: traditional knowledge; defensive protection; prior art; patent examination; India; traditional medicine<br>
+**Essay-ready point**: Defensive protection is crucial where outsiders seek patents or trademarks over traditional knowledge; it prevents third parties from acquiring IP rights over subject matter that properly belongs to indigenous or local communities.<br>
+**Original Sentence**: Defensive protection aims to stop people outside the community from acquiring IP rights over TK and TCEs. India, for example, has compiled a searchable database of traditional medical knowledge that can be used as evidence of prior art by patent examiners ...<br>
+**Page**: 22
+
+<span style="color:#B00020;">**[Chunck 100215]**</span><br>
+**Key words**: traditional knowledge; sui generis protection; conventional IP; oral knowledge; ancient roots; collective heritage<br>
+**Essay-ready point**: Because traditional knowledge is often collective, oral, ancient, evolving and culturally embedded, conventional IP systems may be inadequate, making specially designed sui generis protection necessary.<br>
+**Original Sentence**: In most cases, conventional IP systems and adaptations thereof are not considered sufficient to cater to the unique character of TK/TCEs ... TK ‘as such’—knowledge that has ancient roots and is often informal and oral—is not protected by conventional IP systems.<br>
+**Page**: 36
