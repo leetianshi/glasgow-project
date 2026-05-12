@@ -1864,7 +1864,95 @@
 **Page**: 104
 
 ### 2.6 Seminar 6
+<span style="color:#B00020;">**[Chunck 060301]**</span><br>
+**Key words**: bargaining over payments; press publishers’ right; bargaining power; licensing negotiations; digital intermediaries; CDSM<br>
+**Essay-ready point**: The press publishers’ right under Article 15 CDSM was intended to strengthen publishers’ bargaining position against digital intermediaries by giving them a clearer legal basis for licensing negotiations over online use of press content.<br>
+**Original Sentence**: The right was intended to balance the bargaining position of press publishers and digital intermediaries by providing a clear legal basis for licensing negotiations, and ultimately contributing to the sustainability of the European press sector.<br>
+**Page**: 650
 
+<span style="color:#B00020;">**[Chunck 060302]**</span><br>
+**Key words**: bargaining over payments; authorisation; remuneration; neighbouring rights; platform bargaining; Article 15<br>
+**Essay-ready point**: A key weakness of Article 15 is that copyright and neighbouring rights allow rightsholders to authorise or prohibit use, but they do not compel platforms to use content or pay for it.<br>
+**Original Sentence**: Both copyright and neighbouring rights empower rightsholders to authorise (or not) uses of their content. They do not, however, give them the power to mandate third parties to use their content in exchange for remuneration.<br>
+**Page**: 650
+
+<span style="color:#B00020;">**[Chunck 060303]**</span><br>
+**Key words**: bargaining over payments; unclear legal basis; bargaining imbalance; negotiation table; Big Tech; press sector<br>
+**Essay-ready point**: Furgał’s central critique is that the press publishers’ right provides an uncertain basis for negotiations and does not adequately correct the bargaining imbalance between press publishers and major platforms.<br>
+**Original Sentence**: The negotiation basis that the right provides is neither clear, nor capable of correcting bargaining imbalances, as it is unable to force relevant platforms to the negotiation table.<br>
+**Page**: 650
+
+<span style="color:#B00020;">**[Chunck 060304]**</span><br>
+**Key words**: bargaining over payments; press sustainability; pluralism; reliable information; news aggregators; EU policy<br>
+**Essay-ready point**: The EU justification for Article 15 shifted from the narrow problem of news aggregators to broader concerns about the sustainability, freedom, and pluralism of the press sector.<br>
+**Original Sentence**: In 2019, when the CDSM Directive was adopted, news aggregators were still a concern, but it was the need to guarantee sustainability, freedom, and pluralism of the press sector which (at least formally) steered the actions of the EU legislator.<br>
+**Page**: 651
+
+<span style="color:#B00020;">**[Chunck 060305]**</span><br>
+**Key words**: bargaining over payments; remuneration; press content; reliable information; journalism; licensing revenue<br>
+**Essay-ready point**: Article 15 was premised on the idea that publishers should be remunerated when platforms use press content, with the expectation that this revenue would support reliable journalism.<br>
+**Original Sentence**: The press publishers’ right was to guarantee that press publishers are remunerated for the uses of their content, and that the increased revenues lead to the ‘availability of reliable information’.<br>
+**Page**: 651
+
+<span style="color:#B00020;">**[Chunck 060306]**</span><br>
+**Key words**: bargaining over payments; user freedoms; private use; non-commercial use; sharing news; Article 15 limits<br>
+**Essay-ready point**: The EU legislator sought to protect users’ freedom to share information online by excluding private and non-commercial uses by individual users from the scope of the press publishers’ right.<br>
+**Original Sentence**: Private and non-commercial uses of press publications by individual users are explicitly excluded from the right’s scope, which means that users sharing press publications online should remain subject to already existing copyright rules.<br>
+**Page**: 651
+
+<span style="color:#B00020;">**[Chunck 060307]**</span><br>
+**Key words**: bargaining over payments; frenemies; platform dependency; advertising revenue; news distribution; digital intermediaries<br>
+**Essay-ready point**: The article characterises the press and platforms as interdependent “frenemies”: platforms bring audiences to publishers, but they also disrupt publishers’ control over news distribution and advertising revenues.<br>
+**Original Sentence**: The relationship between press and platforms is dynamic and symbiotic, and it has an undeniable impact on the current shape of the media landscape.<br>
+**Page**: 652
+
+<span style="color:#B00020;">**[Chunck 060308]**</span><br>
+**Key words**: bargaining over payments; market expansion; substitution effect; click-through; advertising revenue; news previews<br>
+**Essay-ready point**: Digital intermediaries may help publishers reach new audiences, but they may also substitute for publishers’ websites when previews satisfy users’ information needs without generating click-through traffic.<br>
+**Original Sentence**: While the intermediaries bring publishers new audiences, the press content they provide often fulfils the information needs of users, causing them not to click through to the publishers’ websites which erodes publishers’ advertising revenues.<br>
+**Page**: 652
+
+<span style="color:#B00020;">**[Chunck 060309]**</span><br>
+**Key words**: bargaining over payments; platform dependency; search engines; social media; distributed discovery; traffic<br>
+**Essay-ready point**: Because many users access news through search engines, social media, news aggregators, and messaging apps, publishers depend heavily on intermediaries for visibility and audience traffic.<br>
+**Original Sentence**: Audiences increasingly find their information through digital intermediaries such as news aggregators, search engines, social media and messaging apps.<br>
+**Page**: 652
+
+<span style="color:#B00020;">**[Chunck 060310]**</span><br>
+**Key words**: bargaining over payments; distributed discovery; audience relationship; news bundle; disaggregation; media platforms<br>
+**Essay-ready point**: Distributed discovery may increase exposure to diverse news sources, but it can weaken publishers’ direct relationships with readers and undermine the traditional bundled news model.<br>
+**Original Sentence**: While distributed discovery can lead to readers being exposed to a wider array of news sources, it is prone to disrupt the direct relationship that news organisations have with their audiences.<br>
+**Page**: 652
+
+<span style="color:#B00020;">**[Chunck 060311]**</span><br>
+**Key words**: bargaining over payments; platform monetisation; advertising; user data; press content; remuneration<br>
+**Essay-ready point**: News organisations claim that platforms should pay because they benefit from press content not only through advertising shown alongside it, but also through increased platform attractiveness and user-data collection.<br>
+**Original Sentence**: News organisations have been arguing that digital intermediaries should pay for online uses of their press content ... First, directly via advertising displayed alongside the press content. Secondly, indirectly by enhancing platforms’ attractiveness and the collection of users’ data.<br>
+**Page**: 652
+
+<span style="color:#B00020;">**[Chunck 060312]**</span><br>
+**Key words**: bargaining over payments; unavoidable trading partners; bargaining imbalance; traffic dependency; platforms; news value<br>
+**Essay-ready point**: A major bargaining imbalance arises because news organisations depend on intermediary traffic, while the importance of news content to platforms remains uncertain and contested.<br>
+**Original Sentence**: The news organisations’ dependence on the intermediary traffic makes platforms their unavoidable trading partners. This is not reciprocal, however.<br>
+**Page**: 653
+
+<span style="color:#B00020;">**[Chunck 060313]**</span><br>
+**Key words**: bargaining over payments; competition law; market power; platform regulation; media policy; Big Tech<br>
+**Essay-ready point**: The press–Big Tech payment debate is no longer only about copyright control over content; it increasingly concerns platform market power, dominance, and broader media policy.<br>
+**Original Sentence**: The conversation about addressing the relationship between news media and intermediaries has left the copyright-familiar territory of control over content and is shifting to the market power and dominance, which are concepts more familiar to the field of competition law.<br>
+**Page**: 653
+
+<span style="color:#B00020;">**[Chunck 060314]**</span><br>
+**Key words**: bargaining over payments; Australian Bargaining Code; competition law; mandatory bargaining; remuneration; platform regulation<br>
+**Essay-ready point**: Unlike the EU press publishers’ right, Australia’s News Media Bargaining Code does not create a copyright right; it creates a competition-law bargaining framework requiring designated platforms to negotiate remuneration.<br>
+**Original Sentence**: Unlike the press publishers’ right, the Code does not belong to the realm of copyright and does not rely on a new or pre-existing right ... What the Code does, is establish a bargaining framework under the competition law umbrella for the news businesses and digital platforms to agree ... on the remuneration for making news content available.<br>
+**Page**: 653
+
+<span style="color:#B00020;">**[Chunck 060315]**</span><br>
+**Key words**: bargaining over payments; France; Google; opt-in system; competition authority; negotiation imbalance<br>
+**Essay-ready point**: Google’s response in France illustrates the weakness of relying on a neighbouring right alone: without competition-law intervention, a powerful platform may avoid negotiation by changing how it displays press content.<br>
+**Original Sentence**: Google changed its display policy, introducing an opt-in system ... Google wanted to move outside the scope of the right ... More importantly, however, the French implementation has confirmed that the press publishers’ right by itself is not capable of levelling the negotiation field.<br>
+**Page**: 656
 
 ### 2.7 Seminar 7
 
