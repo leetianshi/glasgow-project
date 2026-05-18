@@ -12,6 +12,15 @@
 [Dissertation workshop](./Dissertation%20workshop.pdf)
 
 [LLM Outstanding Dissertations](<https://www.create.ac.uk/create-publications/llm-dissertation-examples/>)
+> [2024 AI Enhancement and the Right of Integrity — Rehashing the 1980s Colorization Debate](./202401.pdf)<br>
+> [2024 Access to Heritage: A Comparative Study of Italy and the UK from a Fundamental Rights Perspective](./202402.pdf)<br>
+> [2023 Unravelling Video Game UGC Policies: Is Copyright the Answer?](./202301.pdf)<br>
+> [2023 Fame, Artistry and the Law: A Dual Jurisdiction Evaluation of Publicity Rights in Video Games](./202302.pdf)<br>
+> [2022 The Challenges of Memes in Copyright Law: Between Humour and Value(s)](./202201.pdf)<br>
+> [2022 NFTs and Copyright: The Evolution of Digital Copyright Protection?](./202202.pdf)<br>
+> [2021 Patent System and Artificial Intelligence: Towards a New Concept of Inventorship?](./202101.pdf)<br>
+> [2021 3D Printing: The Notion of Use in Trade Mark Law under Pressure](./202102.pdf)<br>
+> [2021 Online Service Providers and Blockchain: Undermining Copyright Goals?](./202103.pdf)
 
 ### 2.2 My Topics
 (1) Area of Law <br>

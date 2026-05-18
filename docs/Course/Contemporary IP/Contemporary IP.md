@@ -1,4 +1,4 @@
-# *Contemporary IP
+# Contemporary IP
 ## 1. Essential Reading
 ### 1.1 Seminar 1
 | 1: Introduction \| (Un)creative copyright |  |  |  |

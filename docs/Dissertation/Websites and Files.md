@@ -16,7 +16,7 @@
 ## 2. Writing
 [Academic Prasebank](./Academic%20Phrasebank.pdf) (Defining Terms p.106–p.110)
 
-[Writing Law Dissertations: An Introduction and Guide to the Conduct of Legal Research](./Copyright%20Law/C10RR01.pdf)
+[Writing Law Dissertations: An Introduction and Guide to the Conduct of Legal Research](../Course/Copyright%20Law/C10RR01.pdf)
 
 [Research Methods in Law](./Research%20Methods%20in%20Law.pdf)
 
