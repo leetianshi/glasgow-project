@@ -12,24 +12,28 @@
 [Dissertation workshop](./Dissertation%20workshop.pdf)
 
 [LLM Outstanding Dissertations](<https://www.create.ac.uk/create-publications/llm-dissertation-examples/>)
-> [2024 AI Enhancement and the Right of Integrity — Rehashing the 1980s Colorization Debate](./202401.pdf)<br>
-> **Footnote**: 155; **Bibliography**: 83 (Academic Articles: 31, Blogs and websites: 15, Books: 18, Case law: 9, Reports, Memoranda and Transcripts: 6, Press publications: 4)<br>
-> [2024 Access to Heritage: A Comparative Study of Italy and the UK from a Fundamental Rights Perspective](./202402.pdf)<br>
-> **Footnote**: 123; **Bibliography**: 56 (Cases: 2, European Cases: 4, Italian cases: 4, UK Legislation: 2, Italian Legislation: 3, European Legislation: 4, United Nations Documents: 4, Government Reports: 4, Commissioned Reports: 3, Books: 2, Contributions to Edited Books: 5, Working Paper: 1, Journal Articles: 6. Independent Expert Opinions: 1, Blog posts: 6, Websites: 5) <br>
-> [2023 Unravelling Video Game UGC Policies: Is Copyright the Answer?](./202301.pdf)<br>
-> **Footnote**: 124; **Bibliography**: 64 (International Treaties: 1, EU Directives: 3, Legislation: 3, Case law: 9, Books: 3, Journal Articles: 22, Reports: 4, Websites: 19) <br>
-> [2023 Fame, Artistry and the Law: A Dual Jurisdiction Evaluation of Publicity Rights in Video Games](./202302.pdf)<br>
-> **Footnote**: 108; **Bibliography**: 60 (Legislation — United Kingdom: 4, Legislation — Other Jurisdictions: 3, Case Law: 14, Literature: 39) <br>
-> [2022 The Challenges of Memes in Copyright Law: Between Humour and Value(s)](./202201.pdf)<br>
-> **Footnote**: 222; **Bibliography**: 150 (Case law — CJEU: 7, Case law — European Court of Human Rights: 2, Case law — Other jurisdictions: 7, Legislation — EU: 6, Legislation — International treaties: 7, Legislation — National legislation: 10, Policy documents: 4, Books: 19, Articles: 41, Online resources: 47)<br>
-> [2022 NFTs and Copyright: The Evolution of Digital Copyright Protection?](./202202.pdf)<br>
-> **Footnote**: 127; **Bibliography**: 100 (Legislation — UK: 5, Legislation — Other Jurisdictions: 5, Case law: 7, Literature: 83)<br>
-> [2021 Patent System and Artificial Intelligence: Towards a New Concept of Inventorship?](./202101.pdf)<br>
-> **Footnote**: 178; **Bibliography**: 75 (Legislation: 2, Cases: 6, Books: 28, Articles: 24, Online sources: 15)<br>
-> [2021 3D Printing: The Notion of Use in Trade Mark Law under Pressure](./202102.pdf)<br>
-> **Footnote**: 139; **Bibliography**: 64 (Books: 5, Articles: 19, Online sources: 8, Case law — UK: 9, Case law — EU: 19, Legislation: 3)<br>
-> [2021 Online Service Providers and Blockchain: Undermining Copyright Goals?](./202103.pdf)<br>
-> **Footnote**: 116; **Bibliography** 84 (Journals/Papers: 67, Books: 2, Cases: 1, Legislation: 1, Online sources: 9, Terms of Service: 4): 
+> [2024-01 AI Enhancement and the Right of Integrity — Rehashing the 1980s Colorization Debate](./202401.pdf)<br>
+> [2024-02 Access to Heritage: A Comparative Study of Italy and the UK from a Fundamental Rights Perspective](./202402.pdf)<br>
+> [2023-01 Unravelling Video Game UGC Policies: Is Copyright the Answer?](./202301.pdf)<br>
+> [2023-02 Fame, Artistry and the Law: A Dual Jurisdiction Evaluation of Publicity Rights in Video Games](./202302.pdf)<br>
+> [2022-01 The Challenges of Memes in Copyright Law: Between Humour and Value(s)](./202201.pdf)<br>
+> [2022-02 NFTs and Copyright: The Evolution of Digital Copyright Protection?](./202202.pdf)<br>
+> [2021-01 Patent System and Artificial Intelligence: Towards a New Concept of Inventorship?](./202101.pdf)<br>
+> [2021-02 3D Printing: The Notion of Use in Trade Mark Law under Pressure](./202102.pdf)<br>
+> [2021-03 Online Service Providers and Blockchain: Undermining Copyright Goals?](./202103.pdf)
+>
+> [Table of contents 1](./Table%20of%20contents%201.png)<br>
+>[Table of contents 2](./Table%20of%20contents%202.png)
+>
+> 2024-01 **Footnote**: 155; **Bibliography**: 83 (Academic Articles: 31, Blogs and websites: 15, Books: 18, Case law: 9, Reports, Memoranda and Transcripts: 6, Press publications: 4)<br>
+> 2024-02 **Footnote**: 123; **Bibliography**: 56 (Cases: 2, European Cases: 4, Italian cases: 4, UK Legislation: 2, Italian Legislation: 3, European Legislation: 4, United Nations Documents: 4, Government Reports: 4, Commissioned Reports: 3, Books: 2, Contributions to Edited Books: 5, Working Paper: 1, Journal Articles: 6. Independent Expert Opinions: 1, Blog posts: 6, Websites: 5) <br>
+> 2023-01 **Footnote**: 124; **Bibliography**: 64 (International Treaties: 1, EU Directives: 3, Legislation: 3, Case law: 9, Books: 3, Journal Articles: 22, Reports: 4, Websites: 19) <br>
+> 2023-02 **Footnote**: 108; **Bibliography**: 60 (Legislation — United Kingdom: 4, Legislation — Other Jurisdictions: 3, Case Law: 14, Literature: 39) <br>
+> 2022-01 **Footnote**: 222; **Bibliography**: 150 (Case law — CJEU: 7, Case law — European Court of Human Rights: 2, Case law — Other jurisdictions: 7, Legislation — EU: 6, Legislation — International treaties: 7, Legislation — National legislation: 10, Policy documents: 4, Books: 19, Articles: 41, Online resources: 47)<br>
+> 2022-02 **Footnote**: 127; **Bibliography**: 100 (Legislation — UK: 5, Legislation — Other Jurisdictions: 5, Case law: 7, Literature: 83)<br>
+> 2021-01 **Footnote**: 178; **Bibliography**: 75 (Legislation: 2, Cases: 6, Books: 28, Articles: 24, Online sources: 15)<br>
+> 2021-02 **Footnote**: 139; **Bibliography**: 64 (Books: 5, Articles: 19, Online sources: 8, Case law — UK: 9, Case law — EU: 19, Legislation: 3)<br>
+> 2021-03 **Footnote**: 116; **Bibliography** 84 (Journals/Papers: 67, Books: 2, Cases: 1, Legislation: 1, Online sources: 9, Terms of Service: 4)
 
 [Developing a research proposal (30.04.2026)](./Developing%20a%20research%20proposal%20(30.04.2026).pptx)
 > [Generating Research Questions Through Problematization](./Generating%20Research%20Questions%20Through%20Problematization.pdf)
