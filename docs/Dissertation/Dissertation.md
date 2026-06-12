@@ -51,4 +51,6 @@ Information Law
 **Research question**: This dissertation will examine what constitutes meaningful human involvement such that a decision cannot be regarded as solely automated, and consider whether the relevant standard should be assessed on a formal or substantive basis. It will also explore how organisations may design processes that merely appear to involve human review, and how regulators can detect, scrutinise, and challenge such practices effectively.
 
 ### 2.3 Research Proposal
+[Tianshi Li - Research Proposal - with supervisorial comments](./Tianshi%20Li%20-%20Research%20Proposal%20-%20with%20supervisorial%20comments.docx)
 
+## 3. One Chapter Submission
