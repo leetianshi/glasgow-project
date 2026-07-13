@@ -3,5 +3,5 @@
 
 <div align="right">
 Maintained by: Tianshi Li<br>
-Site content last updated: 12 June 2026
+Site content last updated: 13 July 2026
 </div>

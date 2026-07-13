@@ -54,3 +54,4 @@ Information Law
 [Tianshi Li - Research Proposal - with supervisorial comments](./Tianshi%20Li%20-%20Research%20Proposal%20-%20with%20supervisorial%20comments.docx)
 
 ## 3. One Chapter Submission
+[Tianshi Li - Draft Chapter with Supervisor Comments](./Tianshi%20Li%20-%20Draft%20Chapter%20with%20Supervisor%20Comments.docx)
